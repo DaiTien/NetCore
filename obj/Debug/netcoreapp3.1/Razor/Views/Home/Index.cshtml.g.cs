@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "bc26eb539e30eecbbf3b573bda1623c81be6fa6d"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "1c2659d7c4001572f789ab712a96c71fb3d5effc"
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "96cd5c7fec323fd8dd782b5882358bc66a4f3cea"
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
@@ -17,21 +21,25 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-#line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
 using netCore;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
 using netCore.Models;
 
 #line default
 #line hidden
 #nullable disable
 <<<<<<< HEAD
+<<<<<<< HEAD
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"bc26eb539e30eecbbf3b573bda1623c81be6fa6d", @"/Views/Home/Index.cshtml")]
+=======
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1c2659d7c4001572f789ab712a96c71fb3d5effc", @"/Views/Home/Index.cshtml")]
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"96cd5c7fec323fd8dd782b5882358bc66a4f3cea", @"/Views/Home/Index.cshtml")]
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
@@ -67,7 +75,7 @@ using netCore.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
 #nullable restore
-#line 1 "F:\IT\Back-End\2020\NetCore\Views\Home\Index.cshtml"
+#line 1 "E:\Net Core\NewProject\NetCore\Views\Home\Index.cshtml"
   
 ViewData["Title"] = "Home Page";
 
@@ -76,10 +84,17 @@ ViewData["Title"] = "Home Page";
 #nullable disable
 <<<<<<< HEAD
             WriteLiteral("\r\n<div class=\"section-slide\">\r\n    <div class=\"owl-carousel owl-theme\">\r\n        <div id=\"rpslide\">\r\n            <div class=\"item\">\r\n                <img");
+<<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 194, "\"", 200, 0);
             EndWriteAttribute();
             WriteLiteral(" alt=\"Alternate Text\" />\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n<div class=\"section-slide\">\r\n    <div class=\"owl-carousel owl-theme\">\r\n        <div ID=\"rpslide\" runat=\"server\">\r\n            <div class=\"item\">\r\n                <img");
             BeginWriteAttribute("src", " src=\"", 449, "\"", 455, 0);
+=======
+            BeginWriteAttribute("src", " src=\"", 198, "\"", 204, 0);
+            EndWriteAttribute();
+            WriteLiteral(" alt=\"Alternate Text\" />\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n<div class=\"section-slide\">\r\n    <div class=\"owl-carousel owl-theme\">\r\n        <div ID=\"rpslide\" runat=\"server\">\r\n            <div class=\"item\">\r\n                <img");
+            BeginWriteAttribute("src", " src=\"", 453, "\"", 459, 0);
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
             EndWriteAttribute();
             WriteLiteral(" alt=\"Alternate Text\" />\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n");
 =======
@@ -217,6 +232,30 @@ ViewData["Title"] = "Home Page";
     </div>
     <div class=""news-mamnon"">
         <div class=""news-autoplay-default"">
+<<<<<<< HEAD
+");
+            WriteLiteral(@"                    <div>
+                        <div class=""image-news"">
+                            <div class=""card"">
+                                <div class=""card-image-top"">
+                                    <img class=""card-img-top img-thumbnail""");
+            BeginWriteAttribute("src", " src=\"", 4435, "\"", 4441, 0);
+            EndWriteAttribute();
+            WriteLiteral(" alt=\"Card image cap\">\r\n");
+            WriteLiteral("                                </div>\r\n                                <div class=\"card-body\">\r\n                                    <h5 class=\"card-title\"> <a");
+            BeginWriteAttribute("href", " href=\"", 4740, "\"", 4747, 0);
+            EndWriteAttribute();
+            WriteLiteral(@"></a></h5>
+                                    <p class=""card-text""></p>
+                                    <a href=""../../tin-tuc/<%#cls_ToAscii.ToAscii(Eval(""newscate_title"").ToString()) %>/<%#cls_ToAscii.ToAscii(Eval(""news_title"").ToString()) %>-<%#Eval(""news_id"") %>""
+                                        class=""btn btn-outline-danger"">Xem thêm</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+");
+            WriteLiteral(@"        </div>
+=======
             <div>
                 <div class=""image-news"">
                     <div class=""card"">");
@@ -246,6 +285,7 @@ ViewData["Title"] = "Home Page";
                 </div>
             </div>
         </div>
+>>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
     </div>
 </section>
 <section class=""section-about"">
@@ -268,7 +308,11 @@ ViewData["Title"] = "Home Page";
                                     <div class=""about-image"">
                                         <img");
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 5843, "\"", 5849, 0);
+=======
+            BeginWriteAttribute("src", " src=\"", 6397, "\"", 6403, 0);
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
             BeginWriteAttribute("src", " src=\"", 6174, "\"", 6180, 0);
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
@@ -303,7 +347,11 @@ ViewData["Title"] = "Home Page";
                                 <div class=""about-image img-mid"">
                                     <img");
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 7588, "\"", 7594, 0);
+=======
+            BeginWriteAttribute("src", " src=\"", 8142, "\"", 8148, 0);
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
             BeginWriteAttribute("src", " src=\"", 7919, "\"", 7925, 0);
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
@@ -315,7 +363,11 @@ ViewData["Title"] = "Home Page";
                                 <div class=""about-image"">
                                     <img");
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 8222, "\"", 8228, 0);
+=======
+            BeginWriteAttribute("src", " src=\"", 8776, "\"", 8782, 0);
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
             BeginWriteAttribute("src", " src=\"", 8553, "\"", 8559, 0);
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
@@ -349,7 +401,11 @@ ViewData["Title"] = "Home Page";
                                 <div class=""about-image img-mid"">
                                     <img");
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 9913, "\"", 9919, 0);
+=======
+            BeginWriteAttribute("src", " src=\"", 10467, "\"", 10473, 0);
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
             BeginWriteAttribute("src", " src=\"", 10244, "\"", 10250, 0);
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
@@ -361,7 +417,11 @@ ViewData["Title"] = "Home Page";
                                 <div class=""about-image"">
                                     <img");
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 10547, "\"", 10553, 0);
+=======
+            BeginWriteAttribute("src", " src=\"", 11101, "\"", 11107, 0);
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
             BeginWriteAttribute("src", " src=\"", 10878, "\"", 10884, 0);
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
@@ -395,13 +455,21 @@ ViewData["Title"] = "Home Page";
                                 <div class=""about-image img-mid"">
                                     <img");
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 12234, "\"", 12240, 0);
+=======
+            BeginWriteAttribute("src", " src=\"", 12788, "\"", 12794, 0);
+            EndWriteAttribute();
+            WriteLiteral(" alt=\"Alternate Text\" />\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n");
+            WriteLiteral("        </div>\r\n    </div>\r\n\r\n</section>\r\n\r\n");
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
             BeginWriteAttribute("src", " src=\"", 12565, "\"", 12571, 0);
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
             EndWriteAttribute();
             WriteLiteral(" alt=\"Alternate Text\" />\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n");
             WriteLiteral("        </div>\r\n    </div>\r\n\r\n</section>");
+>>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
         }
         #pragma warning restore 1998
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]

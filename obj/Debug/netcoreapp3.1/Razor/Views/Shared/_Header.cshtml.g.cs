@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\Shared\_Header.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "0a9698a0b725e110c99ae2e88232b1a1067ceff0"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Shared\_Header.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c240658d0ab96cfd65247041310b5f20f3091acc"
+>>>>>>> d723b6f0f1f3d9758a1242b68fe86e963517ceb7
 =======
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\Shared\_Header.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "0a9698a0b725e110c99ae2e88232b1a1067ceff0"
 >>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
@@ -17,20 +21,24 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-#line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
 using netCore;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
 using netCore.Models;
 
 #line default
 #line hidden
 #nullable disable
+<<<<<<< HEAD
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c240658d0ab96cfd65247041310b5f20f3091acc", @"/Views/Shared/_Header.cshtml")]
+=======
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0a9698a0b725e110c99ae2e88232b1a1067ceff0", @"/Views/Shared/_Header.cshtml")]
+>>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"eb77c82b607ca166daa2cd43e00b6c08d2570a7e", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared__Header : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
@@ -49,8 +57,12 @@ using netCore.Models;
                         </div>
                         <div class=""col-md-3 col-sm-2 col-12"">
                             <div class=""irs-social irs-center-2 text-right"">
+<<<<<<< HEAD
+                              <a href=""#"" style=""color: var(--color-primary-light) ;""> Đăng nhập</a>
+=======
 
                               <a href=""#"" color> đăng nhập</a>
+>>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
                             </div>
                         </div>
                     </div>
@@ -58,10 +70,21 @@ using netCore.Models;
             </div>
               <div class=""navigation-wrap bg-light start-header start-style"">
                 <div class=""container"">
+<<<<<<< HEAD
+                    <div class=""");
+            WriteLiteral(@"row"">
+                        <div class=""col-12"">
+                            <nav class=""navbar navbar-expand-md navbar-light"">
+
+                                <a class=""navbar-brand"" href=""/trang-chu"">
+                                    <img src=""/images/logovn-2295.png""");
+            BeginWriteAttribute("alt", " alt=\"", 1305, "\"", 1311, 0);
+=======
                     <div class=""row"">
                         <div ");
             WriteLiteral("class=\"col-12\">\r\n                            <nav class=\"navbar navbar-expand-md navbar-light\">\r\n\r\n                                <a class=\"navbar-brand\" href=\"/trang-chu\">\r\n                                    <img src=\"/images/logovn-2295.png\"");
             BeginWriteAttribute("alt", " alt=\"", 1269, "\"", 1275, 0);
+>>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
             EndWriteAttribute();
             WriteLiteral(@" /></a>
 
@@ -74,6 +97,23 @@ using netCore.Models;
                                         <li class=""nav-item pl-4 pl-md-0 ml-0 ml-md-4 active"">
                                             <a class=""nav-link"" href=""/trang-chu"">Trang Chủ</a>
                                         </li>
+<<<<<<< HEAD
+                                           <li class=""nav-item pl-4 pl-md-0 ml-0 ml-md-4"">
+                                            <a class=""nav-link dropdown-toggle"" data-toggle=""dropdown"" role=""button"" aria-haspopup=""true"" aria-");
+            WriteLiteral(@"expanded=""false"">Giới thiệu</a>
+                                        </li>
+                                        <li class=""nav-item pl-4 pl-md-0 ml-0 ml-md-4"">
+                                            <a class=""nav-link dropdown-toggle"" data-toggle=""dropdown"" role=""button"" aria-haspopup=""true"" aria-expanded=""false"">Tin tức</a>
+                                        </li>
+                                        <li class=""nav-item pl-4 pl-md-0 ml-0 ml-md-4"">
+                                            <a class=""nav-link dropdown-toggle"" data-toggle=""dropdown"" href=""#"" role=""button"" aria-haspopup=""true"" aria-expanded=""false"">Tuyển Sinh</a>
+                                            <div class=""dropdown-menu"">
+                                               
+                                                <a class=""dropdown-item"" href=""#"">Tuyển sinh</a>
+                                                <a class=""dropdown-item"" href=""/thu-vien-hinh-anh"">Học phí</a>
+                             ");
+            WriteLiteral(@"                   <a class=""dropdown-item"" href=""/thu-vien-video"">Thư Viện Video</a>
+=======
                                       
                                         <li class=""nav-item pl-4 pl-md-0 ml-0 ml-md-4"">
                                             <a class=""nav-link dropdown-toggle"" data-toggle=""dropdown"" hre");
@@ -93,6 +133,7 @@ using netCore.Models;
                                                 <a class=""dropdown-item"" href=""#"">Tuyển sinh</a>
                                                 <a class=""dropdown-item"" href=""/thu-vien-hinh-anh"">Học phí</a>
                                                 <a class=""dropdown-item"" href=""/thu-vien-video"">Thư Viện Video</a>
+>>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
                                           
                                             </div>
                                         </li>
@@ -100,6 +141,14 @@ using netCore.Models;
                                         <li class=""nav-item pl-4 pl-md-0 ml-0 ml-md-4"">
                                             <a class=""nav-link dropdown-toggle"" data-toggle=""dropdown"" href=""#"" role=""button"" aria-haspopup=""true"" aria-expanded=""false"">Thư Viện</a>
                                             <div class=""dropdown-menu"">
+<<<<<<< HEAD
+                                                <a class=""dropdown-item"" href=""#"">Sách</a>
+                                                <a class=""dropdown-item"" href=""/thu-vien-hinh-anh"">Thư Viện Ảnh</a>
+                                                <a class=""dropdown-item"" href=""/thu-vien-video"">Thư Viện Video</a>
+                                            </div>
+                              ");
+            WriteLiteral("          </li>\r\n                                    </ul>\r\n                                </div>\r\n                            </nav>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>");
+=======
                                                 <a class=""dropdown-item"" h");
             WriteLiteral(@"ref=""#"">Sách</a>
                                                 <a class=""dropdown-item"" href=""/thu-vien-hinh-anh"">Thư Viện Ảnh</a>
@@ -113,6 +162,7 @@ using netCore.Models;
                     </div>
                 </div>
             </div>");
+>>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
         }
         #pragma warning restore 1998
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
