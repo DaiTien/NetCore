@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\netCore\\netCore.csproj": {}
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
   },
   "projects": {
-    "E:\\netCore\\netCore.csproj": {
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\netCore\\netCore.csproj",
+        "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
         "projectName": "netCore",
-        "projectPath": "E:\\netCore\\netCore.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\netCore\\obj\\",
+        "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

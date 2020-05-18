@@ -35,3 +35,40 @@ E:\netCore\obj\Debug\netcoreapp3.1\netCore.dll
 E:\netCore\obj\Debug\netcoreapp3.1\netCore.pdb
 E:\netCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
 E:\netCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\netCore.exe
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\netCore.deps.json
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\netCore.runtimeconfig.json
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\netCore.runtimeconfig.dev.json
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\netCore.dll
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\netCore.pdb
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\netCore.Views.dll
+E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\netCore.Views.pdb
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.csprojAssemblyReference.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CoreCompileInputs.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.MvcApplicationPartsAssemblyInfo.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorAssemblyInfo.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorAssemblyInfo.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.AssemblyInfoInputs.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.AssemblyInfo.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.input.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.output.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorCoreGenerate.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.Views.pdb
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.Manifest.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.xml
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.dll
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.pdb
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
