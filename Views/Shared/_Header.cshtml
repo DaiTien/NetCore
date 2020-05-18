@@ -1,0 +1,37 @@
+ <div class="hiheader">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-6">
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-7 hidden-xs">
+                            <div class="title-hiheader">
+                                <h4>Hệ Thống Trường Liên Cấp Việt Nhật</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-2 col-12">
+                            <div class="irs-social irs-center-2 text-right">
+                                <%--<a class="icon-top" target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>--%>
+                                <%--<a class="icon-top" target="_blank" href="#"><i class="fab fa-youtube"></i></a>--%>
+                                <a class="icon-top" id="btnLogin" runat="server" href="#" data-toggle="modal" data-target="#login"><i class="fas fa-user"></i>Đăng Nhập</a>
+                                <%--<a class="hello" style="color: #fff" href="JavaScript:Void(0);">Welcome <%=nameStudent%> </a>--%>
+                                <div id="dv_Account" runat="server" class="account">
+                                    <a style="color: var(--color-primary-light); font-weight: 600" href="#">Xin Chào  <%=nameStudent%></a>
+                                    <div class="account-top">
+                                        <div class="account-top__name">
+                                            <a style="color: var(--color-primary-light)" href="../../account-manager">Hồ sơ học sinh</a>
+                                        </div>
+                                        <div class="account-top__name">
+                                            <a style="color: var(--color-primary-light)" href="../../bai-tap">Bài tập</a>
+                                        </div>
+                                        <div class="account-top__name">
+                                            <a style="color: var(--color-primary-light)" href="#" id="btnLogout" runat="server" onserverclick="Logout_ServerClick">Log Out</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <input id="txtHocSinh" runat="server" type="text" style="display: none" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>

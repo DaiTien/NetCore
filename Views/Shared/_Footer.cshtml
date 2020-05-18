@@ -1,0 +1,104 @@
+  <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-12">
+                            <div class="chinhanh-footer">
+                                <h4 class="title-footer">Cơ Sở Liên Cấp Việt Nhật
+                                </h4>
+                            </div>
+                            <div class="tabs-footer">
+                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                    <asp:Repeater ID="rpLienHe" runat="server">
+                                        <ItemTemplate>
+                                            <a class="nav-footer <%#Eval("active") %>" id="<%#Eval("lh_classid2") %>" data-toggle="pill" href="#<%#Eval("lienhe_classid") %>" role="tab" aria-controls="<%#Eval("lienhe_classid") %>" aria-selected="true">
+                                                <div class="school-icon"><i class="fas fa-school"></i></div>
+                                                &nbsp;<%#Eval("lienhe_title") %><span><i class="far fa-hand-point-right"></i></span></a>
+                                        </ItemTemplate>
+                                    </asp:Repeater>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-sm-12 col-12">
+                            <div class="tab-show">
+                                <h4 class="title-footer">LIÊN CẤP VIỆT NHẬT</h4>
+                                <div class="tab-content" id="v-pills-tabContent">
+                                    <asp:Repeater runat="server" ID="rpInformation">
+                                        <ItemTemplate>
+                                            <div class="tab-pane fade show <%#Eval("active") %>" id="<%#Eval("lienhe_classid") %>" role="tabpanel" aria-labelledby="<%#Eval("lh_classid2") %>">
+                                                <div class="row">
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                                        <div class="tab-content">
+                                                            <h4><%# Eval("lienhe_title")%></h4>
+                                                            <p><%#Eval("lienhe_address") %></p>
+                                                            <p>Điện thoại:<%# Eval("lienhe_phone")%></p>
+                                                        </div>
+                                                        <div class="camket">
+                                                            <h4>Liên cấp Việt Nhật cam kết</h4>
+                                                            <div>
+                                                                <ul>
+                                                                    <li><span>Đào tạo <b>chất lượng</b></span></li>
+                                                                    <li><span>Tư vấn <b>nhiệt tình</b></span></li>
+                                                                    <li><span>Dịch vụ <b>tốt nhất</b></span></li>
+                                                                    <li><span>Hỗ trợ <b>suốt đời</b></span></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                                        <div class="map">
+                                                            <iframe src="<%#Eval("lienhe_map") %>" width="350" height="175" frameborder="0" style="border: 0;" allowfullscreen=""></iframe>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </ItemTemplate>
+                                    </asp:Repeater>
+                                    <%--                                    <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                                        <div class="row">
+                                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                                <div class="tab-content">
+                                                    <h4>TRƯỜNG MẦM NON VIỆT NHẬT - CƠ SỞ 2</h4>
+                                                    <p>231/5 Lê Duẩn, Tân Chính, Thanh Khê, Đà Nẵng </p>
+                                                    <p>Điện thoại: 0236 3827 272 </p>
+                                                </div>
+                                                <div class="camket">
+                                                    <h4>Liên cấp Việt Nhật cam kết</h4>
+                                                    <div>
+                                                        <ul>
+                                                            <li><span>Đào tạo <b>chất lượng</b></span></li>
+                                                            <li><span>Tư vấn <b>nhiệt tình</b></span></li>
+                                                            <li><span>Dịch vụ <b>tốt nhất</b></span></li>
+                                                            <li><span>Hỗ trợ <b>suốt đời</b></span></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                                <div class="map">
+                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30674.169156878685!2d108.20539967388724!3d16.0514134390719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3142184a3ae229f5%3A0xf364eb13cba7436f!2zVHLGsOG7nW5nIE3huqdtIG5vbiBWaeG7h3QgTmjhuq10!5e0!3m2!1svi!2s!4v1576159975537!5m2!1svi!2s"
+                                                        width="350" height="175" frameborder="0" style="border: 0;" allowfullscreen=""></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>--%>
+                                    <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">...</div>
+                                    <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">...</div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <!--menu-->
+                        <script>
+                            $(window).scroll(function () {
+                                if ($(this).scrollTop() > 90) {
+
+                                    $('.navigation-wrap').addClass('fixed-top');
+                                } else {
+
+                                    $('.navigation-wrap').removeClass('fixed-top');
+                                }
+                            });
+                        </script>
+                    </div>
+                </div>
