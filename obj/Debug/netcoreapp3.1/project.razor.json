@@ -20531,6 +20531,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Home\\TinTuc.cshtml",
+      "TargetPath": "Views\\Home\\TinTuc.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\netCore\\NetCore\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -20543,6 +20548,11 @@
     {
       "FilePath": "e:\\netCore\\NetCore\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Home\\TrangChu.cshtml",
+      "TargetPath": "Views\\Home\\TrangChu.cshtml",
       "FileKind": "mvc"
     },
     {
