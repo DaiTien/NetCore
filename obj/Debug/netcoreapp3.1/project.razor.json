@@ -20556,6 +20556,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Home\\GioiThieu.cshtml",
+      "TargetPath": "Views\\Home\\GioiThieu.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Home\\TinTuc.cshtml",
       "TargetPath": "Views\\Home\\TinTuc.cshtml",
       "FileKind": "mvc"
