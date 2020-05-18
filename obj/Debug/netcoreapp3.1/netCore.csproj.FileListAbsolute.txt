@@ -116,3 +116,8 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\TinTuc.c
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChu.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\GioiThieu.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\TinTuc.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChu.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
