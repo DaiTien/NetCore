@@ -22,6 +22,10 @@ namespace netCore.Controllers
         {
             return View();
         }
+        public IActionResult GioiThieu()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
