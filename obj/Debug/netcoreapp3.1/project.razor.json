@@ -1,5 +1,5 @@
 {
-  "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+  "FilePath": "e:\\netCore\\NetCore\\netCore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20516,53 +20516,53 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 703
+    "CSharpLanguageVersion": 800
   },
   "RootNamespace": "netCore",
   "Documents": [
     {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\_ViewImports.cshtml",
+      "FilePath": "e:\\netCore\\NetCore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\Error.cshtml",
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Home\\TrangChu.cshtml",
-      "TargetPath": "Views\\Home\\TrangChu.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Home\\TinTuc.cshtml",
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Home\\TinTuc.cshtml",
       "TargetPath": "Views\\Home\\TinTuc.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\_ViewStart.cshtml",
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\netCore\\NetCore\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Home\\TrangChu.cshtml",
+      "TargetPath": "Views\\Home\\TrangChu.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\netCore\\NetCore\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
