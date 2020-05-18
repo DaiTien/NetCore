@@ -1,22 +1,23 @@
 <div class="section-slide">
     <div class="owl-carousel owl-theme">
         <div id="rpslide">
-                <div class="item">
-                    <img src="" alt="Alternate Text" />
-                </div>
+            <div class="item">
+                <img src="" alt="Alternate Text" />
+            </div>
         </div>
     </div>
 </div>
 <div class="section-slide">
     <div class="owl-carousel owl-theme">
         <div ID="rpslide" runat="server">
-                <div class="item">
-                    <img src="" alt="Alternate Text" />
-                </div>
+            <div class="item">
+                <img src="" alt="Alternate Text" />
+            </div>
         </div>
     </div>
-</div> 
-@* <script src="../../admin_js/sweetalert.min.js"></script> *@
+</div>
+@*
+<script src="../../admin_js/sweetalert.min.js"></script> *@
 <div id="form-dang-ky" class="wow bounceInLeft" data-wow-delay="1s">
     <div class="title-form-dang-ky">
         <h4>ĐĂNG KÝ NHẬN TƯ VẤN MIỄN PHÍ</h4>
@@ -37,7 +38,8 @@
                     <i class="fas fa-user-alt"></i>
                 </div>
                 <div class="input-form-dang-ky">
-                    <input type="text" name="name" id="txt_name" runat="server" class="form-control" placeholder="Họ và tên" />
+                    <input type="text" name="name" id="txt_name" runat="server" class="form-control"
+                        placeholder="Họ và tên" />
                 </div>
             </div>
             <div class="form-group">
@@ -45,7 +47,8 @@
                     <i class="fas fa-envelope"></i>
                 </div>
                 <div class="input-form-dang-ky">
-                    <input type="text" name="email" id="txt_email" runat="server" class="form-control" placeholder="Nhập Email" />
+                    <input type="text" name="email" id="txt_email" runat="server" class="form-control"
+                        placeholder="Nhập Email" />
                 </div>
             </div>
             <div class="form-group">
@@ -53,7 +56,8 @@
                     <i class="fas fa-phone-alt"></i>
                 </div>
                 <div class="input-form-dang-ky">
-                    <input type="text" name="phone" id="txt_phone" runat="server" class="form-control" placeholder="Số điện thoại" />
+                    <input type="text" name="phone" id="txt_phone" runat="server" class="form-control"
+                        placeholder="Số điện thoại" />
                 </div>
             </div>
             <div class="form-group">
@@ -61,19 +65,22 @@
                     <i class="fas fa-question-circle"></i>
                 </div>
                 <div class="input-form-dang-ky">
-                    <input type="text" name="age" id="txt_age" runat="server" class="form-control" placeholder="Độ Tuổi" />
+                    <input type="text" name="age" id="txt_age" runat="server" class="form-control"
+                        placeholder="Độ Tuổi" />
                 </div>
             </div>
         </div>
         <div class="login--center">
-            Việt Nhật cam kết bảo mật thông tin cá nhân của bạn. Xem chi tiết điều khoản bảo mật <a style="color: #c82333" href="#" target="_blank">tại đây</a>
+            Việt Nhật cam kết bảo mật thông tin cá nhân của bạn. Xem chi tiết điều khoản bảo mật <a
+                style="color: #c82333" href="#" target="_blank">tại đây</a>
 
         </div>
-        @* <asp:ScriptManager ID="ScriptManager1" runat="server" /> *@
+        @*
+        <asp:ScriptManager ID="ScriptManager1" runat="server" /> *@
         <div class="button-form-dang-ky">
-       
-                    <a class="btn btn-danger" href="#" id="btnConfirm" runat="server" type="button" >Nhận Thông Tin Ngay</a>
-                
+
+            <a class="btn btn-danger" href="#" id="btnConfirm" runat="server" type="button">Nhận Thông Tin Ngay</a>
+
         </div>
         <div class="lienhe">
             <div class="phone">
@@ -100,21 +107,22 @@
             @* <asp:Repeater ID="rpNews" runat="server">
                 <ItemTemplate> *@
                     <div>
-                    <div class="image-news">
-                        <div class="card">
-                            <div class="card-image-top">
-                                <img class="card-img-top img-thumbnail" src="" alt="Card image cap">
-                                @* <%--<span><a href="#"><i class="fas fa-info-circle"></i></a></span>--%> *@
-                            </div>
-                            <div class="card-body">
-                                <h5 class="card-title">     <a href=""></a></h5>
-                                <p class="card-text"></p>
-                                <a href="../../tin-tuc/<%#cls_ToAscii.ToAscii(Eval("newscate_title").ToString()) %>/<%#cls_ToAscii.ToAscii(Eval("news_title").ToString()) %>-<%#Eval("news_id") %>" class="btn btn-outline-danger">Xem thêm</a>
+                        <div class="image-news">
+                            <div class="card">
+                                <div class="card-image-top">
+                                    <img class="card-img-top img-thumbnail" src="" alt="Card image cap">
+                                    @* <%--<span><a href="#"><i class="fas fa-info-circle"></i></a></span>--%> *@
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title"> <a href=""></a></h5>
+                                    <p class="card-text"></p>
+                                    <a href="../../tin-tuc/<%#cls_ToAscii.ToAscii(Eval("newscate_title").ToString()) %>/<%#cls_ToAscii.ToAscii(Eval("news_title").ToString()) %>-<%#Eval("news_id") %>"
+                                        class="btn btn-outline-danger">Xem thêm</a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    </div>
-                @* </ItemTemplate>
+                    @* </ItemTemplate>
             </asp:Repeater> *@
         </div>
     </div>
@@ -127,31 +135,32 @@
                     <h2>Tại sao chọn Việt Nhật</h2>
                 </div>
                 <div class="p-long">
-                    <p>Hội tụ đủ những yếu tố cần thiết về đạo đức, trí tuệ, thể chất, ngôn ngữ và kỹ năng sống để hội nhập quốc tế và vẫn giữ được bản sắc dân tộc của Việt Nam - vị này cho hay.</p>
+                    <p>Hội tụ đủ những yếu tố cần thiết về đạo đức, trí tuệ, thể chất, ngôn ngữ và kỹ năng sống để hội
+                        nhập quốc tế và vẫn giữ được bản sắc dân tộc của Việt Nam - vị này cho hay.</p>
                 </div>
             </div>
             @* <asp:Repeater ID="rpContent1" runat="server">
                 <ItemTemplate> *@
                     <div>
-                    <div class="about-block wow bounceIn" data-wow-delay="0.5s">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                <div class="about-image">
-                                    <img src="" alt="Alternate Text" />
+                        <div class="about-block wow bounceIn" data-wow-delay="0.5s">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="about-image">
+                                        <img src="" alt="Alternate Text" />
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="circle"><span><i class="far fa-lightbulb"></i></span></div>
-                            <div class="square"><span>01</span></div>
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                <div class="about-content">
-                                    <h4></h4>
-                                    <p></p>
+                                <div class="circle"><span><i class="far fa-lightbulb"></i></span></div>
+                                <div class="square"><span>01</span></div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="about-content">
+                                        <h4></h4>
+                                        <p></p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    </div>
-                @* </ItemTemplate>
+                    @* </ItemTemplate>
             </asp:Repeater>
             <asp:Repeater ID="rpContent2" runat="server">
                 <ItemTemplate> *@
@@ -173,7 +182,7 @@
                             </div>
                         </div>
                     </div>
-                @* </ItemTemplate>
+                    @* </ItemTemplate>
             </asp:Repeater>
             <asp:Repeater ID="rpContent3" runat="server">
                 <ItemTemplate> *@
@@ -194,7 +203,7 @@
                             </div>
                         </div>
                     </div>
-                @* </ItemTemplate>
+                    @* </ItemTemplate>
             </asp:Repeater> *@
             @* <asp:Repeater ID="rpContent4" runat="server">
                 <ItemTemplate> *@
@@ -216,7 +225,7 @@
                             </div>
                         </div>
                     </div>
-                @* </ItemTemplate>
+                    @* </ItemTemplate>
             </asp:Repeater>
             <asp:Repeater ID="rpContent5" runat="server">
                 <ItemTemplate> *@
@@ -237,7 +246,7 @@
                             </div>
                         </div>
                     </div>
-                @* </ItemTemplate>
+                    @* </ItemTemplate>
             </asp:Repeater>
             <asp:Repeater ID="rpContent6" runat="server">
                 <ItemTemplate> *@
@@ -259,7 +268,7 @@
                             </div>
                         </div>
                     </div>
-                @* </ItemTemplate>
+                    @* </ItemTemplate>
             </asp:Repeater> *@
         </div>
     </div>
