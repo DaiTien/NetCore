@@ -1,0 +1,269 @@
+<div class="section-slide">
+    <div class="owl-carousel owl-theme">
+        <asp:Repeater ID="rpslide" runat="server">
+            <ItemTemplate>
+                <div class="item">
+                    <img src="<%#Eval("slide_image") %>" alt="Alternate Text" />
+                </div>
+            </ItemTemplate>
+        </asp:Repeater>
+    </div>
+</div>
+<div class="section-slide">
+    <div class="owl-carousel owl-theme">
+        <asp:Repeater ID="rpslide" runat="server">
+            <ItemTemplate>
+                <div class="item">
+                    <img src="<%#Eval("slide_image") %>" alt="Alternate Text" />
+                </div>
+            </ItemTemplate>
+        </asp:Repeater>
+    </div>
+</div> 
+<script src="../../admin_js/sweetalert.min.js"></script>
+<div id="form-dang-ky" class="wow bounceInLeft" data-wow-delay="1s">
+    <div class="title-form-dang-ky">
+        <h4>ĐĂNG KÝ NHẬN TƯ VẤN MIỄN PHÍ</h4>
+    </div>
+    <div class="content-form-dang-ky">
+        <div>
+            <p>
+                (Vui lòng để lại thông tin chính xác.<br />
+                Tư vấn viên sẽ gọi điện lại cho bạn sau 3 - 5 ngày)
+            </p>
+        </div>
+        <div class="chuongtrinh">
+            <p><strong>* Chương trình hấp dẫn của Việt Nhật </strong></p>
+        </div>
+        <div class="form">
+            <div class="form-group">
+                <div class="icon-form-dang-ky">
+                    <i class="fas fa-user-alt"></i>
+                </div>
+                <div class="input-form-dang-ky">
+                    <input type="text" name="name" id="txt_name" runat="server" class="form-control" placeholder="Họ và tên" />
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="icon-form-dang-ky">
+                    <i class="fas fa-envelope"></i>
+                </div>
+                <div class="input-form-dang-ky">
+                    <input type="text" name="email" id="txt_email" runat="server" class="form-control" placeholder="Nhập Email" />
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="icon-form-dang-ky">
+                    <i class="fas fa-phone-alt"></i>
+                </div>
+                <div class="input-form-dang-ky">
+                    <input type="text" name="phone" id="txt_phone" runat="server" class="form-control" placeholder="Số điện thoại" />
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="icon-form-dang-ky">
+                    <i class="fas fa-question-circle"></i>
+                </div>
+                <div class="input-form-dang-ky">
+                    <input type="text" name="age" id="txt_age" runat="server" class="form-control" placeholder="Độ Tuổi" />
+                </div>
+            </div>
+        </div>
+        <div class="login--center">
+            Việt Nhật cam kết bảo mật thông tin cá nhân của bạn. Xem chi tiết điều khoản bảo mật <a style="color: #c82333" href="#" target="_blank">tại đây</a>
+
+        </div>
+        <asp:ScriptManager ID="ScriptManager1" runat="server" />
+        <div class="button-form-dang-ky">
+            <asp:UpdatePanel ID="upConfirm" runat="server">
+                <ContentTemplate>
+                    <a class="btn btn-danger" href="#" id="btnConfirm" runat="server" type="button" onserverclick="btnConfirm_ServerClick">Nhận Thông Tin Ngay</a>
+                </ContentTemplate>
+            </asp:UpdatePanel>
+        </div>
+        <div class="lienhe">
+            <div class="phone">
+                <p><span><i class="fas fa-phone-alt"></i></span>02363 889 598</p>
+            </div>
+            <div class="markt">
+                <p><span><i class="fas fa-envelope-open"></i></span>phungduc1989@gmail.com</p>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="section-news-mamnon">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="about-title-index">
+                    <h2>Tin Tức</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="news-mamnon">
+        <div class="news-autoplay-default">
+            <asp:Repeater ID="rpNews" runat="server">
+                <ItemTemplate>
+                    <div class="image-news">
+                        <div class="card">
+                            <div class="card-image-top">
+                                <img class="card-img-top img-thumbnail" src="<%#Eval("news_image") %>" alt="Card image cap">
+                                <%--<span><a href="#"><i class="fas fa-info-circle"></i></a></span>--%>
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">     <a href="../../tin-tuc/<%#cls_ToAscii.ToAscii(Eval("newscate_title").ToString()) %>/<%#cls_ToAscii.ToAscii(Eval("news_title").ToString()) %>-<%#Eval("news_id") %>" ><%#Eval("news_title") %></a></h5>
+                                <p class="card-text"><%#Eval("news_summary") %></p>
+                                <a href="../../tin-tuc/<%#cls_ToAscii.ToAscii(Eval("newscate_title").ToString()) %>/<%#cls_ToAscii.ToAscii(Eval("news_title").ToString()) %>-<%#Eval("news_id") %>" class="btn btn-outline-danger">Xem thêm</a>
+                            </div>
+                        </div>
+                    </div>
+                </ItemTemplate>
+            </asp:Repeater>
+        </div>
+    </div>
+</section>
+<section class="section-about">
+    <div class="container">
+        <div class="about-parent">
+            <div class="row wow bounceIn">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <h2>Tại sao chọn Việt Nhật</h2>
+                </div>
+                <div class="p-long">
+                    <p>Hội tụ đủ những yếu tố cần thiết về đạo đức, trí tuệ, thể chất, ngôn ngữ và kỹ năng sống để hội nhập quốc tế và vẫn giữ được bản sắc dân tộc của Việt Nam - vị này cho hay.</p>
+                </div>
+            </div>
+            <asp:Repeater ID="rpContent1" runat="server">
+                <ItemTemplate>
+                    <div class="about-block wow bounceIn" data-wow-delay="0.5s">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-image">
+                                    <img src="<%#Eval("content_image") %>" alt="Alternate Text" />
+                                </div>
+                            </div>
+                            <div class="circle"><span><i class="far fa-lightbulb"></i></span></div>
+                            <div class="square"><span>01</span></div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-content">
+                                    <h4><%#Eval("content_title") %></h4>
+                                    <p><%#Eval("content_content") %></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </ItemTemplate>
+            </asp:Repeater>
+            <asp:Repeater ID="rpContent2" runat="server">
+                <ItemTemplate>
+                    <div class="about-block wow bounceIn" data-wow-delay="0.5s">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-content middle">
+                                    <h4><%#Eval("content_title") %></h4>
+                                    <p><%#Eval("content_content") %></p>
+                                </div>
+                            </div>
+                            <div class="circle-mid"><span><i class="far fa-lightbulb"></i></span></div>
+                            <div class="square-mid"><span>02</span></div>
+                            <div class="line"></div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-image img-mid">
+                                    <img src="<%#Eval("content_image") %>" alt="Alternate Text" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </ItemTemplate>
+            </asp:Repeater>
+            <asp:Repeater ID="rpContent3" runat="server">
+                <ItemTemplate>
+                    <div class="about-block wow bounceIn" data-wow-delay="0.5s">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-image">
+                                    <img src="<%#Eval("content_image") %>" alt="Alternate Text" />
+                                </div>
+                            </div>
+                            <div class="circle-bottom"><span><i class="far fa-lightbulb"></i></span></div>
+                            <div class="square-bottom"><span>03</span></div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-content">
+                                    <h4><%#Eval("content_title") %></h4>
+                                    <p><%#Eval("content_content") %></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </ItemTemplate>
+            </asp:Repeater>
+            <asp:Repeater ID="rpContent4" runat="server">
+                <ItemTemplate>
+                    <div class="about-block wow bounceIn" data-wow-delay="0.5s">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-content middle">
+                                    <h4><%#Eval("content_title") %></h4>
+                                    <p><%#Eval("content_content") %></p>
+                                </div>
+                            </div>
+                            <div class="circle-mid1"><span><i class="far fa-lightbulb"></i></span></div>
+                            <div class="square-mid1"><span>04</span></div>
+                            <div class="line"></div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-image img-mid">
+                                    <img src="<%#Eval("content_image") %>" alt="Alternate Text" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </ItemTemplate>
+            </asp:Repeater>
+            <asp:Repeater ID="rpContent5" runat="server">
+                <ItemTemplate>
+                    <div class="about-block wow bounceIn" data-wow-delay="0.5s">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-image">
+                                    <img src="<%#Eval("content_image") %>" alt="Alternate Text" />
+                                </div>
+                            </div>
+                            <div class="circle-bottom1"><span><i class="far fa-lightbulb"></i></span></div>
+                            <div class="square-bottom1"><span>05</span></div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-content">
+                                    <h4><%#Eval("content_title") %></h4>
+                                    <p><%#Eval("content_content") %></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </ItemTemplate>
+            </asp:Repeater>
+            <asp:Repeater ID="rpContent6" runat="server">
+                <ItemTemplate>
+                    <div class="about-block wow bounceIn" data-wow-delay="0.5s">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-content middle">
+                                    <h4><%#Eval("content_title") %></h4>
+                                    <p><%#Eval("content_content") %></p>
+                                </div>
+                            </div>
+                            <div class="circle-mid2"><span><i class="far fa-lightbulb"></i></span></div>
+                            <div class="square-mid2"><span>06</span></div>
+                            <div class="line"></div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="about-image img-mid">
+                                    <img src="<%#Eval("content_image") %>" alt="Alternate Text" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </ItemTemplate>
+            </asp:Repeater>
+        </div>
+    </div>
+
+</section>
