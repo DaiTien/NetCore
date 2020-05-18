@@ -1,7 +1,22 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Trường Liên Cấp Việt Nhật" />
+    <meta name="keywords" content="Trường Liên Cấp Việt Nhật and Trường Mầm Non Việt Nhật" />
+    <meta name="author" content="Mầm Non Việt Nhật" />
+    <title>Trường Liên Cấp Việt Nhật</title>
+    <!-- Fontanwsome -->
+    <script src="https://kit.fontawesome.com/f41ccfc950.js" crossorigin="anonymous"></script>
+
+    <!--faicon-->
+    <link type="image/png" href="images/favicon.png" rel="shortcut icon" />
      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+<<<<<<< HEAD
+=======
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+>>>>>>> f50a3f585368b3a69f374f44159513ad2f86e297
     <link rel="stylesheet" href="/css/fontawesome.css" />
     <link rel="stylesheet" href="/css/fontawesome.min.css" />
     <link href="~/css/animate.css" rel="stylesheet" />
@@ -28,8 +43,358 @@
     <script src="~/js/owl.carousel.min.js"></script>
 </head>
 <body>
-   <partial name="_Header.cshtml" />
+   <partial name="_Header.cshtml"/>
    @RenderBody()
-   <partial name="_Footer.cshtml" />
+   <partial name="_Footer.cshtml"/>
+   <!--menu-->
+                        <script>
+                            $(window).scroll(function () {
+                                if ($(this).scrollTop() > 90) {
+
+                                    $('.navigation-wrap').addClass('fixed-top');
+                                } else {
+
+                                    $('.navigation-wrap').removeClass('fixed-top');
+                                }
+                            });
+                        </script>
+   <script>
+                $(window).scroll(function () {
+                    if ($(this).scrollTop() > 90) {
+
+                        $('.navigation-wrap').addClass('fixed-top');
+                    } else {
+
+                        $('.navigation-wrap').removeClass('fixed-top');
+                    }
+                });
+            </script>
+            <!-- Tab panes -->
+            <!--End Hifooter-->
+            <!-- Optional JavaScript -->
+            <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+            <!-- <script src="js/jquery-3.4.1.min.js"></script> -->
+            <script>
+                $('.owl-carousel').owlCarousel({
+                    loop: true,
+                    margin: 10,
+                    nav: false,
+                    autoplay: true,
+                    autoplayTimeout: 3000,
+                    autoplayHoverPause: true,
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        600: {
+                            items: 1
+                        },
+                        1000: {
+                            items: 1
+                        }
+                    }
+                })
+            </script>
+            <script src="/js/jquery-1.11.0.min.js"></script>
+            <script src="/js/jquery-migrate-1.2.1.min.js"></script>
+            <script src="/js/slick.min.js"></script>
+            <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>-->
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+            <script src="/js/fontawesome.js"></script>
+            <script src="/js/fontawesome.min.js"></script>
+            <script src="/js/jquery.nanogallery2.min.js"></script>
+            <script src="/js/jquery.magnific-popup.js"></script>
+            <script src="/js/jquery.fancybox.min.js"></script>
+            <script src="/js/isotop.js"></script>
+            <script src="/js/jQuery.loadScroll.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+            <script type="text/javascript">
+                function scrollTopAnimated() {
+                    $("html, body").animate(
+                        { scrollTop: "0" }, 1500);
+                }
+            </script>
+            <%--Video--%>
+            <script>
+                $(document).ready(function () {
+                    $('.fancybox').fancybox({
+                        padding: 0,
+                        maxWidth: '100%',
+                        maxHeight: '100%',
+                        width: 560,
+                        height: 315,
+                        autoSize: true,
+                        closeClick: true,
+                        openEffect: 'elastic',
+                        closeEffect: 'elastic'
+                    });
+                });
+            </script>
+            <%--Gallery--%>
+            <script>
+                $(document).ready(function () {
+                    $('.gallery-image').magnificPopup({
+                        delegate: 'a',
+                        type: 'image',
+                        tLoading: 'Loading image #%curr%...',
+                        mainClass: 'mfp-img-mobile',
+                        gallery: {
+                            enabled: true,
+                            navigateByImgClick: true,
+                            preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+                        },
+                        image: {
+                            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                            titleSrc: function (item) {
+                                return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+                            }
+                        }
+                    });
+                });
+            </script>
+            <script>
+                $(document).ready(function () {
+                    $('.filters-content').magnificPopup({
+                        delegate: 'a',
+                        type: 'image',
+                        tLoading: 'Loading image #%curr%...',
+                        mainClass: 'mfp-img-mobile',
+                        gallery: {
+                            enabled: true,
+                            navigateByImgClick: true,
+                            preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+                        },
+                        image: {
+                            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                            titleSrc: function (item) {
+                                return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+                            }
+                        }
+                    });
+                });
+            </script>
+            <%--Góc Phụ Huynh - Cảm Nghĩ Học Sinh--%>
+            <script>
+                $('.feeling__slide').slick({
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 2000,
+                    arrows: false,
+                });
+
+            </script>
+            <!--Đối tác-->
+            <script>
+                $('.autoplay').slick({
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 2000,
+                    arrows: false,
+                    responsive: [
+                        {
+                            breakpoint: 1024,
+                            settings: {
+                                slidesToShow: 3,
+                                slidesToScroll: 3,
+                                infinite: true,
+                                dots: true
+                            }
+                        },
+                        {
+                            breakpoint: 767,
+                            settings: {
+                                slidesToShow: 2,
+                                slidesToScroll: 2
+                            }
+                        },
+                        {
+                            breakpoint: 480,
+                            settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                            }
+                        }
+                        // You can unslick at a given breakpoint now by adding:
+                        // settings: "unslick"
+                        // instead of a settings object
+                    ]
+                });
+            </script>
+            <!--Đối tác-->
+            <!--Menu-->
+            <script>
+                (function ($) {
+                    "use strict";
+
+                    $(function () {
+                        var header = $(".start-style");
+                        $(window).scroll(function () {
+                            var scroll = $(window).scrollTop();
+
+                            if (scroll >= 10) {
+                                header.removeClass('start-style').addClass("scroll-on");
+                            } else {
+                                header.removeClass("scroll-on").addClass('start-style');
+                            }
+                        });
+                    });
+
+                    //Animation
+
+                    $(document).ready(function () {
+                        $('body.hero-anime').removeClass('hero-anime');
+                    });
+
+                    //Menu On Hover
+
+                    $('body').on('mouseenter mouseleave', '.nav-item', function (e) {
+                        if ($(window).width() > 750) {
+                            var _d = $(e.target).closest('.nav-item'); _d.addClass('show');
+                            setTimeout(function () {
+                                _d[_d.is(':hover') ? 'addClass' : 'removeClass']('show');
+                            }, 1);
+                        }
+                    });
+
+                    //Switch light/dark
+
+                    $("#switch").on('click', function () {
+                        if ($("body").hasClass("dark")) {
+                            $("body").removeClass("dark");
+                            $("#switch").removeClass("switched");
+                        }
+                        else {
+                            $("body").addClass("dark");
+                            $("#switch").addClass("switched");
+                        }
+                    });
+
+                })(jQuery);
+            </script>
+            <script>
+                $(window).scroll(function () {
+                    if ($(this).scrollTop() > 80) {
+
+                        $('.navigation-wrap').addClass('fixed-top');
+                    } else {
+
+                        $('.navigation-wrap').removeClass('fixed-top');
+                    }
+                });
+            </script>
+
+            <!--Menu-->
+            <!--Mầm Non-->
+            <script>
+                $('.slide-autoplay-mamnon').slick({
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: true,
+                    autoplaySpeed: 2000,
+                });
+            </script>
+            <%--Trung Học--%>
+            <script>
+                $('.slide-autoplay-trunghoc').slick({
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: true,
+                    autoplaySpeed: 2000,
+                });
+            </script>
+            <script>
+                $('.news-autoplay-default').slick({
+                    dots: true,
+                    infinite: false,
+                    speed: 300,
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    responsive: [
+                        {
+                            breakpoint: 1024,
+                            settings: {
+                                slidesToShow: 3,
+                                slidesToScroll: 3,
+                                infinite: true,
+                                dots: true
+                            }
+                        },
+                        {
+                            breakpoint: 992,
+                            settings: {
+                                slidesToShow: 2,
+                                slidesToScroll: 1
+                            }
+                        },
+                        {
+                            breakpoint: 768,
+                            settings: {
+                                slidesToShow: 2,
+                                slidesToScroll: 1
+                            }
+                        },
+                        {
+                            breakpoint: 812,
+                            settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                            }
+                        },
+                        {
+                            breakpoint: 480,
+                            settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                            }
+                        }
+                        // You can unslick at a given breakpoint now by adding:
+                        // settings: "unslick"
+                        // instead of a settings object
+                    ]
+                });
+            </script>
+            <!--Mầm non-->
+            <!--wowjs-->
+            <script type="text/javascript">
+                new WOW().init();
+            </script>
+            <!--wowjs-->
+            <%--<script>
+                $('.counterth').each(function () {
+                    $(this).prop('Counter', 0).animate({
+                        Counter: $(this).text()
+                    }, {
+
+                        duration: 4000,
+                        easing: 'swing',
+                        step: function (now) {
+                            $(this).text(Math.ceil(now));
+                        }
+                    });
+                });
+            </script>--%>
+            <%--Gallery--%>
+            <script>
+                $('.filters ul li').click(function () {
+                    $('.filters ul li').removeClass('active');
+                    $(this).addClass('active');
+
+                    var data = $(this).attr('data-filter');
+                    $grid.isotope({
+                        filter: data
+                    })
+                });
+
+                var $grid = $(".grid").isotope({
+                    itemSelector: ".all",
+                    percentPosition: true,
+                    masonry: {
+                        columnWidth: ".all"
+                    }
+                })
+            </script>
 </body>
 </html>

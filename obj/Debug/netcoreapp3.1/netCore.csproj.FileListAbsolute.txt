@@ -116,6 +116,14 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\TinTuc.c
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChu.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+<<<<<<< HEAD
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\GioiThieu.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\TinTuc.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChu.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+=======
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\GioiThieu.cshtml.g.cs
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+>>>>>>> 1478649a2fc3db988c7984a19470612856226f25
