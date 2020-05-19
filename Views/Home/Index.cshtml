@@ -9,7 +9,7 @@ ViewData["Title"] = "Home Page";
         @{
             @foreach(var imageName in Model.Image){
                  <div class="item">
-                     <img src="@imageName.ImageName" alt="Alternate Text" />
+                     <img src="~@imageName.ImageName" alt="Alternate Text" />
             </div>
             }
         }
