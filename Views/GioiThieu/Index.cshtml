@@ -24,7 +24,7 @@
                         <a class="nav-link " id="v-csvc-tab" data-toggle="pill" href="#v-csvc" role="tab" aria-controls="v-csvc" aria-selected="true">CƠ SỞ VẬT CHẤT TRƯỜNG LIÊN CẤP VIỆT
 							NHẬT</a> *@
                             @{
-                                @foreach(var item in Models.Title){
+                                @foreach(var item in Model.Title){
                                     <a class="nav-link active show" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="false">@item.Con1</a>
                                     <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">@item.Con2</a>
                                     <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">@item.Con3</a>
@@ -48,7 +48,7 @@
                                 bắt tâm lý trẻ nhỏ; </br> + Nhiều tài năng, mang đến cho trẻ cơ hội phát huy năng khiếu và giàu có về mặt tinh thần ngay từ lứa tuổi Mầm non: ca hát, nhảy - múa, MC, vẽ…
                             </p>
                             <div class="img1">
-                                <img src="~/assets/images/editorimages/h1.jpg" alt="Giáo viên mầm non">
+                                <img src="~@Model.Image1" alt="Giáo viên mầm non">
                             </div>
                             <p>
                                 <b>Đội ngũ giáo viên Tiểu học:</b> <br> + Luôn tạo động lực cho học sinh học tập mỗi ngày; <br> + Sẵn sàng đổi mới, tiếp cận những phương pháp giáo dục hiện đại, hiệu quả cao; <br> + Liên tục đạt thành tích cao trong các
@@ -56,13 +56,13 @@
                                 hành với học sinh trong việc biến ước mơ trở thành hiện thực <br> + Khám phá “công thức bí ẩn” để hiểu, yêu thương và hòa hợp với trẻ ở lứa tuổi THCS & THPT trong cả việc học cũng như trong cuộc sống
                             </p>
                             <div class="img1">
-                                <img src="~/assets/images/editorimages/h2.jpg" alt="Đội ngũ giáo viên THCS & THPT của trường Liên Cấp Việt Nhật">
+                                <img src="" alt="Đội ngũ giáo viên THCS & THPT của trường Liên Cấp Việt Nhật">
                             </div>
                         </div>
                         <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
                             <h3 class="title-content">CƠ CẤU TỔ CHỨC HỆ THỐNG</h3>
                             <div class="img-cocautochuchethong">
-                                <img src="~/assets/images/editorimages/co-cau-bo-may-truong-viet-nhat.jpg" alt="Sơ đồ cơ cấu tổ chức hệ thống">
+                                <img src="" alt="Sơ đồ cơ cấu tổ chức hệ thống">
                             </div>
 
                         </div>
