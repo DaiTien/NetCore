@@ -17,4 +17,5 @@ namespace netCore.Models
         public string NewsContent{ get; set; }
         public string NewsTittle{ get; set; }
         public string NewsImage{ get; set; }
+    }
 }
