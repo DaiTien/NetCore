@@ -8,8 +8,8 @@ namespace netCore.Models
         public string NewsCateId { get; set; }
         public string Content{ get; set; }
         public string Tittle{ get; set; }
-         public string Image{ get; set; }
-         public List<ClassNews> News { get; set; }
+        public string Image{ get; set; }
+        public List<ClassNews> News { get; set; }
     }
     public class ClassNews
     {
