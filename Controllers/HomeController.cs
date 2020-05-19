@@ -20,13 +20,21 @@ namespace netCore.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            IndexModel indexModel = new IndexModel();
+            indexModel.RequestId = "12345";
+            indexModel.Today = DateTime.Now;
+            indexModel.Con = new List<ClassCon>();
+            ClassCon classCon1 =new ClassCon();
+            classCon1.Con1="5678";
+            classCon1.Con2=DateTime.Now;
+            indexModel.Con.Add(classCon1);
+            ClassCon classCon =new ClassCon();
+            classCon.Con1="1235";
+            classCon.Con2=DateTime.Now;
+            indexModel.Con.Add(classCon);
+            return View(indexModel);
         }
         public IActionResult TinTuc()
-        {
-            return View();
-        }
-        public IActionResult GioiThieu()
         {
             return View();
         }

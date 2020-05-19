@@ -1,4 +1,6 @@
-﻿@{
+﻿@model netCore.Models.IndexModel;
+@{
+    
 ViewData["Title"] = "Home Page";
 }
 @* <a href="/home/tintuc">tin tức</a> *@
@@ -17,12 +19,12 @@ ViewData["Title"] = "Home Page";
 </div>
 <div id="form-dang-ky" class="wow bounceInLeft" data-wow-delay="1s">
     <div class="title-form-dang-ky">
-        <h4>ĐĂNG KÝ NHẬN TƯ VẤN MIỄN PHÍ</h4>
+        <h4>ĐĂNG KÝ NHẬN TƯ VẤN MIỄN PHÍ @Model.RequestId</h4>
     </div>
     <div class="content-form-dang-ky">
         <div>
             <p>
-                (Vui lòng để lại thông tin chính xác.<br />
+                (Vui lòng để lại thông tin chính xác. @Model.Today<br />
                 Tư vấn viên sẽ gọi điện lại cho bạn sau 3 - 5 ngày)
             </p>
         </div>
@@ -83,6 +85,12 @@ ViewData["Title"] = "Home Page";
             <div class="phone">
                 <p><span><i class="fas fa-phone-alt"></i></span>02363 889 598</p>
             </div>
+            @{
+                foreach(var con in Model.Con){
+                    <p><span><i class="fas fa-phone-alt"></i></span>@con.Con1</p>
+                    <p><span><i class="fas fa-phone-alt"></i></span>@con.Con2</p>
+                }
+            }
             <div class="markt">
                 <p><span><i class="fas fa-envelope-open"></i></span>phungduc1989@gmail.com</p>
             </div>
