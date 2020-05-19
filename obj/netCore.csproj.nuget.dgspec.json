@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj": {}
-  },
-  "projects": {
-    "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
-        "projectName": "netCore",
-        "projectPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
-        "packagesPath": "/Users/trungnguyen/.nuget/packages/",
-        "outputPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/",
-=======
     "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
   },
   "projects": {
@@ -25,20 +12,19 @@
         "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
->>>>>>> f31730e9d43d74a2a441c7553ecb5fae5adafb9e
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "/Users/trungnguyen/.nuget/NuGet/NuGet.Config"
-=======
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> f31730e9d43d74a2a441c7553ecb5fae5adafb9e
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

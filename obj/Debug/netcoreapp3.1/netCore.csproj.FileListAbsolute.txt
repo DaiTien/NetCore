@@ -168,3 +168,12 @@ F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Header.c
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/GioiThieu/Index.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.csprojAssemblyReference.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CoreCompileInputs.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.MvcApplicationPartsAssemblyInfo.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorAssemblyInfo.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorAssemblyInfo.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.AssemblyInfoInputs.cache
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.AssemblyInfo.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.dll
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.pdb
