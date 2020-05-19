@@ -1,10 +1,11 @@
+@model netCore.Models.NewsModel
 <div class="style-breadcrumb">
     <div class="container">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="./Default.aspx">Trang chủ</a></li>
             <li class="breadcrumb-item"><a href="#">Tin tức</a></li>
             <li class="breadcrumb-item active">
-                <span id="higlobal_lblNoiDung">@NewsModel.Tittle</span>
+                <span id="higlobal_lblNoiDung">@Model.Tittle</span>
             </li>
         </ol>
     </div>
@@ -26,7 +27,7 @@
 
                                 <li>
                                     <i class="fa fa-check" aria-hidden="true"></i><a
-                                        href="../../tin-tuc/Thong-Bao-Moi-1">@NewsModel.Tittle</a>
+                                        href="../../tin-tuc/Thong-Bao-Moi-1">@Model.Tittle</a>
                                 </li>
 
                                 <li>
@@ -71,12 +72,12 @@
             <div class="col-md-9 col-sm-12">
                 <div class="title-block">
                     <h2 class="color1">
-                        <span id="">@NewsModel.Tittle</span>
+                        <span id="">@Model.Tittle</span>
                     </h2>
                 </div>
                 <div class="row">
-                    @{
-                    foreach(var news in NewsModel.News){
+                  
+                    @foreach(var news in Model.News){
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="card">
                             <div class="card-image-top">
@@ -93,10 +94,6 @@
                     </div>
                     }
                     }
-
-
-
-
                 </div>
             </div>
 

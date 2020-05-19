@@ -84,7 +84,6 @@ E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Heade
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/GioiThieu/Index.cshtml.g.cs
-<<<<<<< HEAD
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.csprojAssemblyReference.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CoreCompileInputs.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.MvcApplicationPartsAssemblyInfo.cache
@@ -94,8 +93,6 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.AssemblyInfoInput
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.AssemblyInfo.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.dll
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.pdb
-=======
-<<<<<<< HEAD
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csprojAssemblyReference.cache
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CoreCompileInputs.cache
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.MvcApplicationPartsAssemblyInfo.cache
@@ -138,7 +135,6 @@ F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.Stat
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.xml
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
-=======
 E:\NetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\NetCore\bin\Debug\netcoreapp3.1\appsettings.json
 E:\NetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
