@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "FilePath": "e:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+=======
+  "FilePath": "e:\\NetCore\\netCore.csproj",
+>>>>>>> 4e7630c72b4dbe2cc111c24cee9cbfb45cb1c5ee
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,6 +20525,7 @@
   "RootNamespace": "netCore",
   "Documents": [
     {
+<<<<<<< HEAD
       "FilePath": "e:\\Net Core\\NewProject\\NetCore\\Views\\Home\\TinTuc.cshtml",
       "TargetPath": "Views\\Home\\TinTuc.cshtml",
       "FileKind": "mvc"
@@ -20572,12 +20577,70 @@
     },
     {
       "FilePath": "e:\\Net Core\\NewProject\\NetCore\\Views\\Shared\\_Header.cshtml",
+=======
+      "FilePath": "e:\\NetCore\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Home\\TrangChu.cshtml",
+      "TargetPath": "Views\\Home\\TrangChu.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Home\\GioiThieu.cshtml",
+      "TargetPath": "Views\\Home\\GioiThieu.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Home\\TinTuc.cshtml",
+      "TargetPath": "Views\\Home\\TinTuc.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_Footer.cshtml",
+      "TargetPath": "Views\\Shared\\_Footer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_Header.cshtml",
+>>>>>>> 4e7630c72b4dbe2cc111c24cee9cbfb45cb1c5ee
       "TargetPath": "Views\\Shared\\_Header.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "e:\\Net Core\\NewProject\\NetCore\\Views\\Home\\GioiThieu.cshtml",
       "TargetPath": "Views\\Home\\GioiThieu.cshtml",
+=======
+      "FilePath": "e:\\NetCore\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+>>>>>>> 4e7630c72b4dbe2cc111c24cee9cbfb45cb1c5ee
       "FileKind": "mvc"
     }
   ],
