@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pHY3kMXhsUXghn4sPjiss1C4yA5lPu6LCXnbK/Ywhb8W73hqUn0TcNokBZ+FJcrX3DlgUi6LHaJKgdsNCmBA2g==",
   "success": true,
   "projectFilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
+=======
+  "dgSpecHash": "m+XLCQb6pHe++fW76J6mtK/jZXurZeCKvQdxtTrlQYtmT3BTCXT9vhlCdgpctiwDMQY4LU/QB0ffA3L2fh2tNg==",
+  "success": true,
+  "projectFilePath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+>>>>>>> f31730e9d43d74a2a441c7553ecb5fae5adafb9e
   "expectedPackageFiles": [],
   "logs": []
 }
