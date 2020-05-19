@@ -22,23 +22,19 @@ namespace netCore.Controllers
         {
             return View();
         }
-<<<<<<< HEAD
 public IActionResult TinTuc()
         {
             return View();
         }
-=======
         public IActionResult GioiThieu()
         {
             return View();
         }
 
-          public IActionResult TinTuc()
-        {
-            return View();
-        }
-
->>>>>>> 51db1e23126ceab455acc6624c0ce20c615cdd9e
+        //   public IActionResult TinTuc()
+        // {
+        //     return View();
+        // }
         public IActionResult Privacy()
         {
             return View();
