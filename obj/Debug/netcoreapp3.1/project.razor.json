@@ -38,13 +38,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\NetCore\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "e:\\NetCore\\Views\\TinTuc\\ThongBaoMoi.cshtml",
+      "TargetPath": "Views\\TinTuc\\ThongBaoMoi.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\NetCore\\Views\\Home\\TinTuc.cshtml",
-      "TargetPath": "Views\\Home\\TinTuc.cshtml",
+      "FilePath": "e:\\NetCore\\Views\\TinTuc\\TinTuc.cshtml",
+      "TargetPath": "Views\\TinTuc\\TinTuc.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {

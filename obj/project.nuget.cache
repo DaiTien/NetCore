@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JSDtKW2LnQ7tvNugl+ximfCL7rvelB1i9plRzSqEINRf5zG8mU2pKMqAmTJYrIMb2MWequC+NBWn/ouAxWHEJA==",
+  "dgSpecHash": "r2RbfRFvVY09WfQ2YghIyNTMxS9MFKdmKqq6fSF9aVeOUNyX9C3rStN7ogbiKguJi0IE3rSntqDGwht98p3Hag==",
   "success": true,
-  "projectFilePath": "E:\\NetCore\\netCore.csproj",
+  "projectFilePath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

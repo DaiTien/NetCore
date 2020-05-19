@@ -20,19 +20,35 @@ namespace netCore.Controllers
 
         public IActionResult Index()
         {
-            IndexModel indexModel = new IndexModel();
-            indexModel.RequestId = "12345";
-            indexModel.Today = DateTime.Now;
-            indexModel.Con = new List<ClassCon>();
-            ClassCon classCon1 =new ClassCon();
-            classCon1.Con1="5678";
-            classCon1.Con2=DateTime.Now;
-            indexModel.Con.Add(classCon1);
-            ClassCon classCon =new ClassCon();
-            classCon.Con1="1235";
-            classCon.Con2=DateTime.Now;
-            indexModel.Con.Add(classCon);
-            return View(indexModel);
+            // IndexModel indexModel = new IndexModel();
+            // indexModel.RequestId = "12345";
+            // indexModel.Today = DateTime.Now;
+            // indexModel.Con = new List<ClassCon>();
+            // ClassCon classCon1 =new ClassCon();
+            // classCon1.Con1="5678";
+            // classCon1.Con2=DateTime.Now;
+            // indexModel.Con.Add(classCon1);
+            // ClassCon classCon =new ClassCon();
+            // classCon.Con1="1235";
+            // classCon.Con2=DateTime.Now;
+            // indexModel.Con.Add(classCon);
+            // return View(indexModel);
+            IndexSlideModel indexSlideModel = new IndexSlideModel();
+            indexSlideModel.RequestId = "1";
+            indexSlideModel.Image = new List<ClassImage>();
+            ClassImage classImage = new ClassImage();
+            classImage.ImageName="/assets/images/anh_slide/slide1.jpg";
+            indexSlideModel.Image.Add(classImage);
+            ClassImage classImage2 = new ClassImage();
+            classImage2.ImageName="/assets/images/anh_slide/slide2.jpg";
+            indexSlideModel.Image.Add(classImage2);
+            ClassImage classImage3 = new ClassImage();
+            classImage3.ImageName="/assets/images/anh_slide/slide3.jpg";
+            indexSlideModel.Image.Add(classImage3);
+            ClassImage classImage4 = new ClassImage();
+            classImage4.ImageName="/assets/images/anh_slide/slide4.jpg";
+            indexSlideModel.Image.Add(classImage4);
+            return View(indexSlideModel);
         }
         public IActionResult TinTuc()
         {

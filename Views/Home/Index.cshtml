@@ -1,4 +1,4 @@
-﻿@model netCore.Models.IndexModel;
+﻿@model netCore.Models.IndexSlideModel;
 @{
     
 ViewData["Title"] = "Home Page";
@@ -6,25 +6,23 @@ ViewData["Title"] = "Home Page";
 @* <a href="/home/tintuc">tin tức</a> *@
 <div class="section-slide">
     <div class="owl-carousel owl-theme">
-            <div class="item">
-                <img src="~/assets/images/anh_slide/slide1.jpg" alt="Alternate Text" />
+        @{
+            @foreach(var imageName in Model.Image){
+                 <div class="item">
+                     <img src="~@imageName.ImageName" alt="Alternate Text" />
             </div>
-            <div class="item">
-                <img src="~/assets/images/anh_slide/slide2.jpg" alt="Alternate Text" />
-            </div>
-            <div class="item">
-                <img src="~/assets/images/anh_slide/slide3.jpg" alt="Alternate Text" />
-            </div>
+            }
+        }
     </div>
 </div>
 <div id="form-dang-ky" class="wow bounceInLeft" data-wow-delay="1s">
     <div class="title-form-dang-ky">
-        <h4>ĐĂNG KÝ NHẬN TƯ VẤN MIỄN PHÍ @Model.RequestId</h4>
+        <h4>ĐĂNG KÝ NHẬN TƯ VẤN MIỄN PHÍ </h4>
     </div>
     <div class="content-form-dang-ky">
         <div>
             <p>
-                (Vui lòng để lại thông tin chính xác. @Model.Today<br />
+                (Vui lòng để lại thông tin chính xác. <br />
                 Tư vấn viên sẽ gọi điện lại cho bạn sau 3 - 5 ngày)
             </p>
         </div>
@@ -85,12 +83,12 @@ ViewData["Title"] = "Home Page";
             <div class="phone">
                 <p><span><i class="fas fa-phone-alt"></i></span>02363 889 598</p>
             </div>
-            @{
+            @* @{
                 foreach(var con in Model.Con){
                     <p><span><i class="fas fa-phone-alt"></i></span>@con.Con1</p>
                     <p><span><i class="fas fa-phone-alt"></i></span>@con.Con2</p>
                 }
-            }
+            } *@
             <div class="markt">
                 <p><span><i class="fas fa-envelope-open"></i></span>phungduc1989@gmail.com</p>
             </div>
@@ -115,19 +113,15 @@ ViewData["Title"] = "Home Page";
                     <div class="boncap-content">
                         <a href="#">Tiểu Học</a>
                         <i class="fas fa-school boncap__icon" aria-hidden="true"></i>
-                        
                     </div>
                     <img src="~/assets/images/tieuhoc.jpg" alt="Alternate Text">
-
                 </div>
-
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-6 daidien">
                 <div class="boncap-box">
                     <div class="boncap-content">
                         <a href="#">Trung Học Cơ Sở</a>
                         <i class="fab fa-accusoft boncap__icon" aria-hidden="true"></i>
-                        
                     </div>
                     <img src="~/assets/images/trunghoc.jpg" alt="Alternate Text">
                 </div>
@@ -137,7 +131,6 @@ ViewData["Title"] = "Home Page";
                     <div class="boncap-content">
                         <a href="#">Trung Học Phổ Thông</a>
                         <i class="fas fa-graduation-cap boncap__icon" aria-hidden="true"></i>
-                        
                     </div>
                     <img src="~/assets/images/phothong.jpg" alt="Alternate Text">
                 </div>
@@ -179,10 +172,6 @@ ViewData["Title"] = "Home Page";
                             </div>
                         </div>
                     </div>
-                    @* </ItemTemplate>
-            </asp:Repeater>
-            <asp:Repeater ID="rpContent2" runat="server">
-                <ItemTemplate> *@
                     <div class="about-block wow bounceIn" data-wow-delay="0.5s">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
@@ -201,10 +190,6 @@ ViewData["Title"] = "Home Page";
                             </div>
                         </div>
                     </div>
-                    @* </ItemTemplate>
-            </asp:Repeater>
-            <asp:Repeater ID="rpContent3" runat="server">
-                <ItemTemplate> *@
                     <div class="about-block wow bounceIn" data-wow-delay="0.5s">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
@@ -278,11 +263,8 @@ ViewData["Title"] = "Home Page";
                             </div>
                         </div>
                     </div>
-                    @* </ItemTemplate>
-            </asp:Repeater> *@
         </div>
     </div>
-
 </section>
 @* ----------tin tức------------------ *@
 <section class="section-news-mamnon">
