@@ -20,7 +20,15 @@ namespace netCore.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            IndexGioiThieuModel titleGioithieu = new IndexGioiThieuModel();
+            ClassTitleCon titleCon = new ClassTitleCon();
+            titleCon.Con1="ĐỘI NGŨ GIÁO VIÊN";
+            titleCon.Con2 ="CƠ CẤU HỆ THỐNG";
+            titleCon.Con3 ="ĐỐI TÁC";
+            titleCon.Con4 ="THÀNH TỰU";
+            titleCon.Con5="CƠ SỞ VẬT CHẤT";
+            titleGioithieu.Title.Add(titleCon);
+            return View(titleGioithieu);
         }
        
     }
