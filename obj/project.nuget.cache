@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "pHY3kMXhsUXghn4sPjiss1C4yA5lPu6LCXnbK/Ywhb8W73hqUn0TcNokBZ+FJcrX3DlgUi6LHaJKgdsNCmBA2g==",
+  "dgSpecHash": "r2RbfRFvVY09WfQ2YghIyNTMxS9MFKdmKqq6fSF9aVeOUNyX9C3rStN7ogbiKguJi0IE3rSntqDGwht98p3Hag==",
   "success": true,
-  "projectFilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
-=======
-  "dgSpecHash": "m+XLCQb6pHe++fW76J6mtK/jZXurZeCKvQdxtTrlQYtmT3BTCXT9vhlCdgpctiwDMQY4LU/QB0ffA3L2fh2tNg==",
-  "success": true,
-  "projectFilePath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
->>>>>>> f31730e9d43d74a2a441c7553ecb5fae5adafb9e
+  "projectFilePath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

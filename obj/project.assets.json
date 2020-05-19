@@ -8,42 +8,30 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "/Users/trungnguyen/.nuget/packages/": {}
-=======
-    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
->>>>>>> f31730e9d43d74a2a441c7553ecb5fae5adafb9e
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
+      "projectUniqueName": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
       "projectName": "netCore",
-      "projectPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
-      "packagesPath": "/Users/trungnguyen/.nuget/packages/",
-      "outputPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/",
-=======
-      "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
-      "projectName": "netCore",
-      "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
->>>>>>> f31730e9d43d74a2a441c7553ecb5fae5adafb9e
+      "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "F:\\IT\\Back-End\\2020\\NetCore\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "/Users/trungnguyen/.nuget/NuGet/NuGet.Config"
-=======
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> f31730e9d43d74a2a441c7553ecb5fae5adafb9e
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -77,8 +65,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
