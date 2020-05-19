@@ -27,6 +27,11 @@ namespace netCore.Controllers
             return View();
         }
 
+          public IActionResult TinTuc()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
