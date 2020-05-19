@@ -1,7 +1,7 @@
 ﻿@{
 ViewData["Title"] = "Home Page";
 }
-
+<a href="/home/tintuc">tin tức</a>
 <div class="section-slide">
     <div class="owl-carousel owl-theme">
             <div class="item">
@@ -100,36 +100,54 @@ ViewData["Title"] = "Home Page";
         </div>
     </div>
 </div>
-<section class="section-news-mamnon">
-    <div class="container">
+<div class="section-boncap wow fadeInDown" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <div class="about-title-index">
-                    <h2>Tin Tức</h2>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="news-mamnon">
-        <div class="news-autoplay-default">
-            <div>
-                <div class="image-news">
-                    <div class="card">
-                        <div class="card-image-top">
-                            <img class="card-img-top img-thumbnail" src="" alt="Card image cap">
-                        </div>
-                        <div class="card-body">
-                            <h5 class="card-title"> <a href=""></a></h5>
-                            <p class="card-text"></p>
-                            <a href=""></a>
-                            <aclass="btn btn-outline-danger">Xem thêm</a>
-                        </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6 daidien">
+                <div class="boncap-box">
+                    <div class="boncap-content">
+                        <a href="#">Mầm Non</a>
+                        <i class="fab fa-envira boncap__icon" aria-hidden="true"></i>
+                        
                     </div>
+                    <img src="~/assets/images/mamnon.jpg" alt="Alternate Text">
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6 daidien">
+                <div class="boncap-box">
+                    <div class="boncap-content">
+                        <a href="#">Tiểu Học</a>
+                        <i class="fas fa-school boncap__icon" aria-hidden="true"></i>
+                        
+                    </div>
+                    <img src="~/assets/images/tieuhoc.jpg" alt="Alternate Text">
+
+                </div>
+
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6 daidien">
+                <div class="boncap-box">
+                    <div class="boncap-content">
+                        <a href="#">Trung Học Cơ Sở</a>
+                        <i class="fab fa-accusoft boncap__icon" aria-hidden="true"></i>
+                        
+                    </div>
+                    <img src="~/assets/images/trunghoc.jpg" alt="Alternate Text">
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6 daidien">
+                <div class="boncap-box">
+                    <div class="boncap-content">
+                        <a href="#">Trung Học Phổ Thông</a>
+                        <i class="fas fa-graduation-cap boncap__icon" aria-hidden="true"></i>
+                        
+                    </div>
+                    <img src="~/assets/images/phothong.jpg" alt="Alternate Text">
                 </div>
             </div>
         </div>
     </div>
-</section>
+</div>
 <section class="section-about">
     <div class="container">
         <div class="about-parent">
@@ -149,15 +167,16 @@ ViewData["Title"] = "Home Page";
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                     <div class="about-image">
-                                        <img src="" alt="Alternate Text" />
+                                        <img src="~/assets/images/anh_tintuc/rnxmcxwk.zpg.jpg" alt="Alternate Text" />
                                     </div>
                                 </div>
                                 <div class="circle"><span><i class="far fa-lightbulb"></i></span></div>
                                 <div class="square"><span>01</span></div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                     <div class="about-content">
-                                        <h4></h4>
-                                        <p></p>
+                                    <h4>Cơ sở vật chất đạt chuẩn chất lượng cao</h4>
+                                    <p>Phòng học có diện tích và thiết bị giáo dục đáp ứng yêu cầu đào tạo theo tiêu chuẩn chất lượng cao từ 25 đến 30 học sinh. Đối với khối mầm non, tiểu học nhà trường thiết kế sân chơi ngoài trời riêng biệt.</p>
+                                
                                     </div>
                                 </div>
                             </div>
@@ -171,8 +190,8 @@ ViewData["Title"] = "Home Page";
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="about-content middle">
-                                    <h4></h4>
-                                    <p></p>
+                                    <h4>Môi Trường Học Tập Sôi Nổi</h4>
+                                    <p>Các hoạt động văn hóa, nghệ thuật, thể thao, dã ngoại và giao lưu quốc tế được tổ chức thường xuyên.</p>
                                 </div>
                             </div>
                             <div class="circle-mid"><span><i class="far fa-lightbulb"></i></span></div>
@@ -180,7 +199,7 @@ ViewData["Title"] = "Home Page";
                             <div class="line"></div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="about-image img-mid">
-                                    <img src="" alt="Alternate Text" />
+                                    <img src="~/assets/images/anh_tintuc/2e2l3g5c.2oi.jpg" alt="Alternate Text" />
                                 </div>
                             </div>
                         </div>
@@ -193,29 +212,25 @@ ViewData["Title"] = "Home Page";
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="about-image">
-                                    <img src="" alt="Alternate Text" />
+                                    <img src="~/assets/images/anh_tintuc/z4ho3iys.rqz.jpg" alt="Alternate Text" />
                                 </div>
                             </div>
                             <div class="circle-bottom"><span><i class="far fa-lightbulb"></i></span></div>
                             <div class="square-bottom"><span>03</span></div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                <div class="about-content">
-                                    <h4></h4>
-                                    <p></p>
+                                <<div class="about-content">
+                                    <h4>Chú trọng giáo dục đào tạo</h4>
+                                    <p>Giáo dục đạo đức, hình thành nhân cách tốt đẹp là mục tiêu đào tạo trọng tâm.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    @* </ItemTemplate>
-            </asp:Repeater> *@
-            @* <asp:Repeater ID="rpContent4" runat="server">
-                <ItemTemplate> *@
                     <div class="about-block wow bounceIn" data-wow-delay="0.5s">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="about-content middle">
-                                    <h4></h4>
-                                    <p></p>
+                                    <h4>Phương pháp đào tạo Nhật Bản</h4>
+                                    <p>Phương pháp dạy học tích cực gắn liền với thực tế, khuyến khích phát triển tư duy logic và sự sáng tạo ở trẻ</p>
                                 </div>
                             </div>
                             <div class="circle-mid1"><span><i class="far fa-lightbulb"></i></span></div>
@@ -223,40 +238,35 @@ ViewData["Title"] = "Home Page";
                             <div class="line"></div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="about-image img-mid">
-                                    <img src="" alt="Alternate Text" />
+                                    <img src="~/assets/images/anh_tintuc/45rqwm2c.rzb.jpg" alt="Alternate Text" />
                                 </div>
                             </div>
                         </div>
                     </div>
-                    @* </ItemTemplate>
-            </asp:Repeater>
-            <asp:Repeater ID="rpContent5" runat="server">
-                <ItemTemplate> *@
                     <div class="about-block wow bounceIn" data-wow-delay="0.5s">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="about-image">
-                                    <img src="" alt="Alternate Text" />
+                                    <img src="~/assets/images/anh_tintuc/loh0sskj.ih0.jpg" alt="Alternate Text" />
                                 </div>
                             </div>
                             <div class="circle-bottom1"><span><i class="far fa-lightbulb"></i></span></div>
                             <div class="square-bottom1"><span>05</span></div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                <div class="about-content">
-                                    <h4></h4>
-                                    <p></p>
+                               <div class="about-content">
+                                    <h4>Chú trọng giáo dục đào tạo</h4>
+                                    <p>Giáo dục đạo đức, hình thành nhân cách tốt đẹp là mục tiêu đào tạo trọng tâm.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    @* </ItemTemplate>
-            </asp:Repeater>
-            <asp:Repeater ID="rpContent6" runat="server">
-                <ItemTemplate> *@
                     <div class="about-block wow bounceIn" data-wow-delay="0.5s">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="about-content middle">
+                                    <h4>Phương pháp đào tạo Nhật Bản</h4>
+                                    <p>Phương pháp dạy học tích cực gắn liền với thực tế, khuyến khích phát triển tư duy logic và sự sáng tạo ở trẻ</p>
+                                </div><div class="about-content middle">
                                     <h4></h4>
                                     <p></p>
                                 </div>
@@ -266,7 +276,7 @@ ViewData["Title"] = "Home Page";
                             <div class="line"></div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="about-image img-mid">
-                                    <img src="" alt="Alternate Text" />
+                                    <img src="~/assets/images/anh_tintuc/st0ejapx.qdo.jpg" alt="Alternate Text" />
                                 </div>
                             </div>
                         </div>
@@ -277,3 +287,61 @@ ViewData["Title"] = "Home Page";
     </div>
 
 </section>
+@* ----------tin tức------------------ *@
+<section class="section-news-mamnon">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="about-title-index">
+                    <h2>Tin Tức</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="news-mamnon">
+        <div class="news-autoplay-default slick-initialized slick-slider slick-dotted">
+            
+                    <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1347px; transform: translate3d(0px, 0px, 0px);"><div class="image-news slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide10" aria-describedby="slick-slide-control10" style="width: 449px;">
+                        <div class="card">
+                            <div class="card-image-top">
+                                <img class="card-img-top img-thumbnail" src="~/assets/images//anh_tintuc/yskwqlve.1b0.jpg" alt="Card image cap">
+                                
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">     <a href="../../tin-tuc/Thong-Bao-Moi/Tho-ng-ba-o-li-ch-nghi-ho-c-he-t-nga-y-15-03-2020-14" tabindex="0">Thổng báo lịch nghỉ học hết ngày 15/03/2020</a></h5>
+                                <p class="card-text">Do tình hình dịch covid-19 diễn biến phức tạp. Cho nên nhà trường cho toàn bộ học sinh nghỉ hết ngày 15/03/2020</p>
+                                <a href="../../tin-tuc/Thong-Bao-Moi/Tho-ng-ba-o-li-ch-nghi-ho-c-he-t-nga-y-15-03-2020-14" class="btn btn-outline-danger" tabindex="0">Xem thêm</a>
+                            </div>
+                        </div>
+                    </div><div class="image-news slick-slide slick-active" data-slick-index="1" aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide11" aria-describedby="slick-slide-control11" style="width: 449px;">
+                        <div class="card">
+                            <div class="card-image-top">
+                                <img class="card-img-top img-thumbnail" src="~/assets/images//anh_tintuc/pt40a0lh.5m2.jpg" alt="Card image cap">
+                                
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">     <a href="../../tin-tuc/Hoat-Dong-Su-Kien/Nhung-Hoat-Dong-Cua-Nha-Truong-De-phong-Chong-Virus-n-CoV-1" tabindex="0">Những Hoạt Động Của Nhà Trường Để phòng Chống Virus n-CoV</a></h5>
+                                <p class="card-text">COVID-19 đã làm thay đổi một phần nào đó cuộc sống hằng ngày của các bạn nhỏ Việt Nhật cũng như của các giáo viên. Trong những ngày nghỉ giáo viên Việt Nhật đã làm những gì nhỉ !?</p>
+                                <a href="../../tin-tuc/Hoat-Dong-Su-Kien/Nhung-Hoat-Dong-Cua-Nha-Truong-De-phong-Chong-Virus-n-CoV-1" class="btn btn-outline-danger" tabindex="0">Xem thêm</a>
+                            </div>
+                        </div>
+                    </div><div class="image-news slick-slide slick-active" data-slick-index="2" aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide12" aria-describedby="slick-slide-control12" style="width: 449px;">
+                        <div class="card">
+                            <div class="card-image-top">
+                                <img class="card-img-top img-thumbnail" src="~/assets/images/anh_tintuc/jiu1qmtv.zyz.jpg" alt="Card image cap">
+                                
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">     <a href="../../tin-tuc/Thong-Bao-Moi/Thong-Bao-Nghi-Hoc-3" tabindex="0">Thông Báo Nghĩ Học</a></h5>
+                                <p class="card-text">Thực hiện công văn số 509/SGDĐT-CTrTT, ngày 28 tháng 02 năm 2020 của Sở Giáo dục và Đào tạo thành phố Đà Nẵng, Trường Việt Nhật xin thông báo học sinh tiếp tục nghỉ học đến hết ngày 08/3/2020 và một số nội dung cụ thể trong công văn 03/TB-VJIS của nhà trường.</p>
+                                <a href="../../tin-tuc/Thong-Bao-Moi/Thong-Bao-Nghi-Hoc-3" class="btn btn-outline-danger" tabindex="0">Xem thêm</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                
+        <ul class="slick-dots" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control10" aria-controls="slick-slide10" aria-label="1 of 1" tabindex="0" aria-selected="true">1</button></li></ul></div>
+    </div>
+</section>
+@* ---------End tin tức ------------ *@
