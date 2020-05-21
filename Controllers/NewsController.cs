@@ -36,18 +36,7 @@ namespace netCore.Controllers
             classNews1.NewsContent="Thực hiện công văn số 509/SGDĐT-CTrTT, ngày 28 tháng 02 năm 2020 của Sở Giáo dục và Đào tạo thành phố Đà Nẵng, Trường Việt Nhật xin thông báo học sinh tiếp tục nghỉ học đến hết ngày 08/3/2020 và một số nội dung cụ thể trong công văn 03/TB-VJIS của nhà trường.";
             classNews.NewsImage="~/assets/images/anh_tintuc/jiu1qmtv.zyz.jpg";
             newsModel.News.Add(classNews1);
-           /* IndexModel indexModel = new IndexModel();
-            indexModel.RequestId = "12345";
-            indexModel.Today = DateTime.Now;
-            indexModel.Con = new List<ClassCon>();
-            ClassCon classCon1 =new ClassCon();
-            classCon1.Con1="5678";
-            classCon1.Con2=DateTime.Now;
-            indexModel.Con.Add(classCon1);
-            ClassCon classCon =new ClassCon();
-            classCon.Con1="1235";
-            classCon.Con2=DateTime.Now;
-            indexModel.Con.Add(classCon);*/
+       
             return View(newsModel);
         }
         public IActionResult TinTuc()
