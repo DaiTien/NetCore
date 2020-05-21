@@ -1,5 +1,5 @@
 {
-  "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+  "FilePath": "e:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20516,7 +20516,7 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 703
+    "CSharpLanguageVersion": 800
   },
   "RootNamespace": "netCore",
   "Documents": [],
