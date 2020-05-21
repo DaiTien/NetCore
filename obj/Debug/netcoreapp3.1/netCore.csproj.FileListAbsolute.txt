@@ -41,7 +41,6 @@
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/GioiThieu/Index.cshtml.g.cs
-<<<<<<< HEAD
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.csprojAssemblyReference.cache
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CoreCompileInputs.cache
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.MvcApplicationPartsAssemblyInfo.cache
@@ -94,7 +93,6 @@ E:/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
 E:/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 >>>>>>> 2bf5b0387abb2d717a2d1941dc82de9a4a8efd72
 >>>>>>> 8d9b698d14ba337d20bc799e689e1b6fe4824249
-=======
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csprojAssemblyReference.cache
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CoreCompileInputs.cache
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.MvcApplicationPartsAssemblyInfo.cache
@@ -136,14 +134,6 @@ F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/staticwebassets/netCore.Stat
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/staticwebassets/netCore.StaticWebAssets.xml
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
->>>>>>> 2bf5b0387abb2d717a2d1941dc82de9a4a8efd72
->>>>>>> 8d9b698d14ba337d20bc799e689e1b6fe4824249
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 >>>>>>> ef0be538693314f6394499fd8eb263717e70dc2e
 >>>>>>> 68bec93ed86a1c76184f681b3ec2f1b5cd652245
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.TagHelpers.input.cache
@@ -162,13 +152,10 @@ E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cache
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cs
-<<<<<<< HEAD
-=======
 >>>>>>> b2973f5a1be74142e80bbd682f99c480f7425900
 >>>>>>> 69c3ce9bf45fc34c9a8f599ecd1c7f47a436deed
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/ThongBaoMoi.cshtml.g.cs
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/TinTuc.cshtml.g.cs
->>>>>>> ef0be538693314f6394499fd8eb263717e70dc2e
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.input.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.output.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorCoreGenerate.cache
@@ -187,7 +174,6 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemb
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cs
 >>>>>>> 213a3ea43bd98817e990c66a5409e5778b91ae16
 >>>>>>> 94aa903da367b5fe1d31564383f21e32501729a4
-<<<<<<< HEAD
 >>>>>>> fded019b5379d9c6ddd8cfd1b48a3077553b5d8d
 >>>>>>> 7b5802a0a4a60a17b7a03f55306fef07c035f288
 E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/appsettings.Development.json
@@ -208,12 +194,8 @@ E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/ThongBaoMoi.cshtml.g.cs
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.cshtml.g.cs
-=======
 E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/ThongBaoMoi.cshtml.g.cs
 E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/TinTuc.cshtml.g.cs
->>>>>>> fded019b5379d9c6ddd8cfd1b48a3077553b5d8d
->>>>>>> 7b5802a0a4a60a17b7a03f55306fef07c035f288
->>>>>>> 68bec93ed86a1c76184f681b3ec2f1b5cd652245
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csprojAssemblyReference.cache
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CoreCompileInputs.cache
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.MvcApplicationPartsAssemblyInfo.cache
@@ -273,11 +255,6 @@ E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.pdb
 >>>>>>> 0565bd7153c30aa6dee3e9fd81c3c57235e85c97
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/ThongBaoMoi.cshtml.g.cs
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.cshtml.g.cs
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 F:\IT\Back-End\2020\NetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
 F:\IT\Back-End\2020\NetCore\bin\Debug\netcoreapp3.1\appsettings.json
 F:\IT\Back-End\2020\NetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -322,10 +299,6 @@ F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.dll
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.pdb
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
-=======
-<<<<<<< HEAD
->>>>>>> b2973f5a1be74142e80bbd682f99c480f7425900
->>>>>>> 68bec93ed86a1c76184f681b3ec2f1b5cd652245
 E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\appsettings.json
 E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -394,11 +367,3 @@ E:\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.Manif
 E:\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.xml
 E:\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
 E:\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 69c3ce9bf45fc34c9a8f599ecd1c7f47a436deed
->>>>>>> ef0be538693314f6394499fd8eb263717e70dc2e
->>>>>>> b2973f5a1be74142e80bbd682f99c480f7425900
->>>>>>> 68bec93ed86a1c76184f681b3ec2f1b5cd652245
