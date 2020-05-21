@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2RbfRFvVY09WfQ2YghIyNTMxS9MFKdmKqq6fSF9aVeOUNyX9C3rStN7ogbiKguJi0IE3rSntqDGwht98p3Hag==",
+  "dgSpecHash": "JSDtKW2LnQ7tvNugl+ximfCL7rvelB1i9plRzSqEINRf5zG8mU2pKMqAmTJYrIMb2MWequC+NBWn/ouAxWHEJA==",
   "success": true,
-  "projectFilePath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+  "projectFilePath": "E:\\NetCore\\netCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
