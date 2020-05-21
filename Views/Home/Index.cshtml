@@ -1,4 +1,4 @@
-﻿@model netCore.Models.IndexSlideModel;
+﻿@model netCore.Models.IndexModelHome;
 @{
     
 ViewData["Title"] = "Home Page";
@@ -9,7 +9,7 @@ ViewData["Title"] = "Home Page";
         @{
             @foreach(var imageName in Model.Image){
                  <div class="item">
-                     <img src="~@imageName.ImageName" alt="Alternate Text" />
+                     <img src="@imageName.ImageName" alt="Alternate Text" />
             </div>
             }
         }
@@ -53,8 +53,7 @@ ViewData["Title"] = "Home Page";
                     <i class="fas fa-phone-alt"></i>
                 </div>
                 <div class="input-form-dang-ky">
-                    <input type="text" name="phone" id="txt_phone" runat="server" class="form-control"
-                        placeholder="Số điện thoại" />
+                    <input type="text" name="phone" id="txt_phone" runat="server" class="form-control"  placeholder="Số điện thoại" />
                 </div>
             </div>
             <div class="form-group">
@@ -62,22 +61,16 @@ ViewData["Title"] = "Home Page";
                     <i class="fas fa-question-circle"></i>
                 </div>
                 <div class="input-form-dang-ky">
-                    <input type="text" name="age" id="txt_age" runat="server" class="form-control"
-                        placeholder="Độ Tuổi" />
+                    <input type="text" name="age" id="txt_age" runat="server" class="form-control" placeholder="Độ Tuổi" />
                 </div>
             </div>
         </div>
         <div class="login--center">
-            Việt Nhật cam kết bảo mật thông tin cá nhân của bạn. Xem chi tiết điều khoản bảo mật <a
-                style="color: #c82333" href="#" target="_blank">tại đây</a>
-
+            Việt Nhật cam kết bảo mật thông tin cá nhân của bạn. Xem chi tiết điều khoản bảo mật 
+            <a style="color: #c82333" href="#" target="_blank">tại đây</a>
         </div>
-        @*
-        <asp:ScriptManager ID="ScriptManager1" runat="server" /> *@
         <div class="button-form-dang-ky">
-
             <a class="btn btn-danger" href="#" id="btnConfirm" runat="server" type="button">Nhận Thông Tin Ngay</a>
-
         </div>
         <div class="lienhe">
             <div class="phone">
@@ -200,7 +193,7 @@ ViewData["Title"] = "Home Page";
                             <div class="circle-bottom"><span><i class="far fa-lightbulb"></i></span></div>
                             <div class="square-bottom"><span>03</span></div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                                <<div class="about-content">
+                                <div class="about-content">
                                     <h4>Chú trọng giáo dục đào tạo</h4>
                                     <p>Giáo dục đạo đức, hình thành nhân cách tốt đẹp là mục tiêu đào tạo trọng tâm.</p>
                                 </div>

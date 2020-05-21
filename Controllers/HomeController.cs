@@ -33,22 +33,29 @@ namespace netCore.Controllers
             // classCon.Con2=DateTime.Now;
             // indexModel.Con.Add(classCon);
             // return View(indexModel);
-            IndexSlideModel indexSlideModel = new IndexSlideModel();
-            indexSlideModel.RequestId = "1";
-            indexSlideModel.Image = new List<ClassImage>();
+            IndexModelHome indexModelHome = new IndexModelHome();
+            indexModelHome.RequestId = "1";
+            indexModelHome.Image = new List<ClassImage>();
+            //add image slide
             ClassImage classImage = new ClassImage();
             classImage.ImageName="/assets/images/anh_slide/slide1.jpg";
-            indexSlideModel.Image.Add(classImage);
+            indexModelHome.Image.Add(classImage);
             ClassImage classImage2 = new ClassImage();
             classImage2.ImageName="/assets/images/anh_slide/slide2.jpg";
-            indexSlideModel.Image.Add(classImage2);
+            indexModelHome.Image.Add(classImage2);
             ClassImage classImage3 = new ClassImage();
             classImage3.ImageName="/assets/images/anh_slide/slide3.jpg";
-            indexSlideModel.Image.Add(classImage3);
+            indexModelHome.Image.Add(classImage3);
             ClassImage classImage4 = new ClassImage();
             classImage4.ImageName="/assets/images/anh_slide/slide4.jpg";
-            indexSlideModel.Image.Add(classImage4);
-            return View(indexSlideModel);
+            indexModelHome.Image.Add(classImage4);
+            // add 4 cấp 
+             indexModelHome.ForLevels = new List<ClassForLevel>();
+             ClassForLevel classForLevel1 = new ClassForLevel();
+             classForLevel1.ImageName ="/assets/images/mamnon.jpg";
+             classForLevel1.Icon="fab fa-envira";
+             classForLevel1.NameFL="Mầm Non";
+            return View(indexModelHome);
         }
         public IActionResult TinTuc()
         {

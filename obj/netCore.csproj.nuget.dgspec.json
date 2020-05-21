@@ -1,23 +1,52 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "E:\\NetCore\\netCore.csproj": {}
+=======
+<<<<<<< HEAD
+    "E:\\2020\\NetCore\\netCore.csproj": {}
+>>>>>>> 94aa903da367b5fe1d31564383f21e32501729a4
   },
   "projects": {
-    "E:\\NetCore\\netCore.csproj": {
+    "E:\\2020\\NetCore\\netCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NetCore\\netCore.csproj",
+        "projectUniqueName": "E:\\2020\\NetCore\\netCore.csproj",
         "projectName": "netCore",
+<<<<<<< HEAD
         "projectPath": "E:\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "E:\\NetCore\\obj\\",
+=======
+        "projectPath": "E:\\2020\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\KimAnh\\.nuget\\packages\\",
+        "outputPath": "E:\\2020\\NetCore\\obj\\",
+=======
+    "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "F:\\IT\\Back-End\\2020\\NetCore\\obj\\",
+>>>>>>> 8a578f28d533276138fba88eb13fbffd105f8d9b
+>>>>>>> 94aa903da367b5fe1d31564383f21e32501729a4
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\KimAnh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 8a578f28d533276138fba88eb13fbffd105f8d9b
+>>>>>>> 94aa903da367b5fe1d31564383f21e32501729a4
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
