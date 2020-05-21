@@ -20561,6 +20561,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\ThuVien\\ThuVienVideo.cshtml",
+      "TargetPath": "Views\\ThuVien\\ThuVienVideo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\News\\TinTuc.cshtml",
       "TargetPath": "Views\\News\\TinTuc.cshtml",
       "FileKind": "mvc"

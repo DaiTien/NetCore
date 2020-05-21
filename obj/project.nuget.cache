@@ -1,35 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "r2RbfRFvVY09WfQ2YghIyNTMxS9MFKdmKqq6fSF9aVeOUNyX9C3rStN7ogbiKguJi0IE3rSntqDGwht98p3Hag==",
   "success": true,
   "projectFilePath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
-=======
-<<<<<<< HEAD
-  "dgSpecHash": "pHY3kMXhsUXghn4sPjiss1C4yA5lPu6LCXnbK/Ywhb8W73hqUn0TcNokBZ+FJcrX3DlgUi6LHaJKgdsNCmBA2g==",
-  "success": true,
-  "projectFilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
-=======
-  "dgSpecHash": "m+XLCQb6pHe++fW76J6mtK/jZXurZeCKvQdxtTrlQYtmT3BTCXT9vhlCdgpctiwDMQY4LU/QB0ffA3L2fh2tNg==",
-  "success": true,
-  "projectFilePath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
->>>>>>> 213a3ea43bd98817e990c66a5409e5778b91ae16
->>>>>>> 57c1eac233527cc050f54f09358f80e0e57ffe7c
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-<<<<<<< HEAD
       "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
-<<<<<<< HEAD
-      "message": "Problem reading the cache file /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
-      "message": "Problem reading the cache file E:\\Net Core\\NewProject\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
->>>>>>> 213a3ea43bd98817e990c66a5409e5778b91ae16
->>>>>>> 57c1eac233527cc050f54f09358f80e0e57ffe7c
     }
   ]
 }
