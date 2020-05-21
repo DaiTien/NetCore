@@ -26,6 +26,7 @@ namespace netCore
         {
             services.AddControllersWithViews();
             services.AddScoped<IDemo, TrangChuRepository>();
+            services.AddScoped<INews, NewsRepository>();
             services.AddScoped<IGioiThieu, GioiThieuRepository>();
         }
 

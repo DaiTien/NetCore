@@ -1,6 +1,12 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fcd81c0f4a1e4f991b9929990c3bb564e33abef8
     "E:\\NetCore\\netCore.csproj": {}
   },
   "projects": {
@@ -12,12 +18,57 @@
         "projectPath": "E:\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "E:\\NetCore\\obj\\",
+<<<<<<< HEAD
+=======
+=======
+        "projectPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
+        "packagesPath": "/Users/trungnguyen/.nuget/packages/",
+        "outputPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/",
+=======
+>>>>>>> 69c3ce9bf45fc34c9a8f599ecd1c7f47a436deed
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+<<<<<<< HEAD
+=======
+>>>>>>> 213a3ea43bd98817e990c66a5409e5778b91ae16
+>>>>>>> 57c1eac233527cc050f54f09358f80e0e57ffe7c
+>>>>>>> 7d59e6b3c9a68a6d8e8011b759f8c12e62b50534
+>>>>>>> 69c3ce9bf45fc34c9a8f599ecd1c7f47a436deed
+>>>>>>> fcd81c0f4a1e4f991b9929990c3bb564e33abef8
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "/Users/trungnguyen/.nuget/NuGet/NuGet.Config"
+=======
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 57c1eac233527cc050f54f09358f80e0e57ffe7c
+>>>>>>> 7d59e6b3c9a68a6d8e8011b759f8c12e62b50534
+>>>>>>> 69c3ce9bf45fc34c9a8f599ecd1c7f47a436deed
+>>>>>>> fcd81c0f4a1e4f991b9929990c3bb564e33abef8
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
