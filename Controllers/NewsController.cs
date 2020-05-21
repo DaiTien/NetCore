@@ -39,10 +39,5 @@ namespace netCore.Controllers
        
             return View(newsModel);
         }
-        public IActionResult TinTuc()
-        {
-            return View();
-        }
-     
     }
 }
