@@ -197,3 +197,5 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cs
+F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\TinTuc\ThongBaoMoi.cshtml.g.cs
+F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\TinTuc\TinTuc.cshtml.g.cs
