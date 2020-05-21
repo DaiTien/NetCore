@@ -154,10 +154,8 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cs
-<<<<<<< HEAD
 E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\TinTuc\ThongBaoMoi.cshtml.g.cs
 E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\TinTuc\TinTuc.cshtml.g.cs
-=======
 E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\appsettings.json
 E:\Net Core\NewProject\NetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
