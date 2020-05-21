@@ -20546,11 +20546,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\TinTuc\\ThongBaoMoi.cshtml",
-      "TargetPath": "Views\\TinTuc\\ThongBaoMoi.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\_Footer.cshtml",
       "TargetPath": "Views\\Shared\\_Footer.cshtml",
       "FileKind": "mvc"
@@ -20558,6 +20553,16 @@
     {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Home\\TrangChu.cshtml",
       "TargetPath": "Views\\Home\\TrangChu.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\News\\ThongBaoMoi.cshtml",
+      "TargetPath": "Views\\News\\ThongBaoMoi.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\News\\TinTuc.cshtml",
+      "TargetPath": "Views\\News\\TinTuc.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20578,11 +20583,6 @@
     {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\TinTuc\\TinTuc.cshtml",
-      "TargetPath": "Views\\TinTuc\\TinTuc.cshtml",
       "FileKind": "mvc"
     }
   ],
