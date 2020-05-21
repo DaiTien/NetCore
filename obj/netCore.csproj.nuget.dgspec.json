@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj": {}
   },
   "projects": {
@@ -12,9 +13,30 @@
         "projectPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
         "packagesPath": "/Users/trungnguyen/.nuget/packages/",
         "outputPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/",
+=======
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+>>>>>>> 213a3ea43bd98817e990c66a5409e5778b91ae16
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "/Users/trungnguyen/.nuget/NuGet/NuGet.Config"
+=======
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> 213a3ea43bd98817e990c66a5409e5778b91ae16
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
