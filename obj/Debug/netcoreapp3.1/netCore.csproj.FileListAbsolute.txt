@@ -151,8 +151,6 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cs
-<<<<<<< HEAD
-=======
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\TinTuc\ThongBaoMoi.cshtml.g.cs
 F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\TinTuc\TinTuc.cshtml.g.cs
 >>>>>>> 94aa903da367b5fe1d31564383f21e32501729a4
@@ -176,10 +174,8 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
 >>>>>>> fded019b5379d9c6ddd8cfd1b48a3077553b5d8d
 >>>>>>> 7b5802a0a4a60a17b7a03f55306fef07c035f288
-<<<<<<< HEAD
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\ThongBaoMoi.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\TinTuc.cshtml.g.cs
-=======
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csprojAssemblyReference.cache
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CoreCompileInputs.cache
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.MvcApplicationPartsAssemblyInfo.cache
