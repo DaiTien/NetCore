@@ -1,7 +1,15 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj": {}
+=======
+<<<<<<< HEAD
+>>>>>>> 9376e6c95c50cd549afc553f582a9abb43194b45
     "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
+>>>>>>> d5f33470d964fb7df22fb64e2be00eef463b3799
   },
   "projects": {
     "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {
@@ -9,15 +17,49 @@
       "restore": {
         "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
         "projectName": "netCore",
+<<<<<<< HEAD
+        "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "F:\\IT\\Back-End\\2020\\NetCore\\obj\\",
+=======
         "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+<<<<<<< HEAD
+=======
+=======
+    "E:\\NetCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "E:\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "E:\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\NetCore\\obj\\",
+>>>>>>> 0dbaed6dbb91b0b8d71b77193fb5c512ab75c70c
+>>>>>>> d5f33470d964fb7df22fb64e2be00eef463b3799
+>>>>>>> 9376e6c95c50cd549afc553f582a9abb43194b45
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0dbaed6dbb91b0b8d71b77193fb5c512ab75c70c
+>>>>>>> d5f33470d964fb7df22fb64e2be00eef463b3799
+>>>>>>> 9376e6c95c50cd549afc553f582a9abb43194b45
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

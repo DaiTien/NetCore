@@ -12,14 +12,18 @@ namespace netCore.Controllers
     public class ThuVienController : Controller
     {
          private readonly ILogger<ThuVienController> _logger;
+         private IThuVienVideo _thuVienVideo;
 
-        public ThuVienController(ILogger<ThuVienController> logger)
+        public ThuVienController(ILogger<ThuVienController> logger, IThuVienVideo thuVienVideo)
         {
             _logger = logger;
+            _thuVienVideo = thuVienVideo;
         }
         public IActionResult ThuVienVideo()
         {
-            return View();
+            ThuVienVideoModel thuVienVideoModel = new ThuVienVideoModel();
+            thuVienVideoModel= _thuVienVideo.GetThuVienVideoI();
+            return View(thuVienVideoModel);
         }
     }
 }
