@@ -20516,7 +20516,6 @@
         }
       }
     ],
-<<<<<<< HEAD
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "netCore",
@@ -20587,11 +20586,5 @@
       "FileKind": "mvc"
     }
   ],
-=======
-    "CSharpLanguageVersion": 800
-  },
-  "RootNamespace": "netCore",
-  "Documents": [],
->>>>>>> 7b5802a0a4a60a17b7a03f55306fef07c035f288
   "SerializationFormat": "0.2"
 }
