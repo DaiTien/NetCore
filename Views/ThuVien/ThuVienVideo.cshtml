@@ -10,43 +10,10 @@ ViewData["Title"] = "Home Page";
             <div class="filters">
                 <ul class="nav">
                     <li class="nav-glr active" data-filter="*">Tất Cả</li>
-                    @* @foreach (var item in ThuVienVideoModel)
-                    {
-                        
-                    } *@
-                            <li class="nav-glr" data-filter=".Lo-p-1.1">Lớp 1.1</li>
-                        
-                            @* <li class="nav-glr" data-filter=".Lo-p-1.2">Lớp 1.2</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-1.3">Lớp 1.3</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-1.4">Lớp 1.4</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-2.1">Lớp 2.1</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-2.2">Lớp 2.2</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-2.3">Lớp 2.3</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-2.4">Lớp 2.4</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-2.5">Lớp 2.5</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-3.1">Lớp 3.1</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-3.2">Lớp 3.2</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-4.1">Lớp 4.1</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-5.1">Lớp 5.1</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-6.1">Lớp 6.1</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-6.2">Lớp 6.2</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-7.1">Lớp 7.1</li>
-                        
-                            <li class="nav-glr" data-filter=".Lo-p-10.1">Lớp 10.1</li> *@
+                       @foreach (var item in Model.Name)
+                        {
+                            <li class="nav-glr" data-filter="@item.NameFilter">@item.NameClass</li>
+                        }
                 </ul>
             </div>
 
