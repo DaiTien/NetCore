@@ -26,6 +26,8 @@ namespace netCore
         {
             services.AddControllersWithViews();
             services.AddScoped<IDemo, TrangChuRepository>();
+            services.AddScoped<INews, NewsRepository>();
+            services.AddScoped<IGioiThieu, GioiThieuRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
