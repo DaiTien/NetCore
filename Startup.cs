@@ -24,6 +24,8 @@ namespace netCore
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var connectionString = new ConnectionString(Configuration.GetConnectionString("DefaultConnection"));
+            services.AddSingleton(connectionString);
             services.AddControllersWithViews();
             services.AddScoped<IDemo, TrangChuRepository>();
             services.AddScoped<INews, NewsRepository>();
