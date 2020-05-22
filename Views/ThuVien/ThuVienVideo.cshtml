@@ -1,4 +1,4 @@
-@model netCore.Models.ThuVienVideoModel
+@model ThuVienVideoModel
 @{
 ViewData["Title"] = "Home Page";
 }
@@ -10,9 +10,9 @@ ViewData["Title"] = "Home Page";
             <div class="filters">
                 <ul class="nav">
                     <li class="nav-glr active" data-filter="*">Tất Cả</li>
-                       @foreach (var item in Model.Name)
+                      @foreach(var item in Model.getViews)
                         {
-                            <li class="nav-glr" data-filter="@item.NameFilter">@item.NameClass</li>
+                            <li class="nav-glr" data-filter="@item.lop_id">@item.lop_name</li>
                         }
                 </ul>
             </div>
