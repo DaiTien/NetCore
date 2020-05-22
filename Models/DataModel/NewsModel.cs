@@ -18,4 +18,19 @@ namespace netCore.Models
         public string NewsTittle{ get; set; }
         public string NewsImage{ get; set; }
     }
+      public class NewsModel1
+    {
+        public string NewsCateId { get; set; }
+        public string Content{ get; set; }
+        public string Tittle{ get; set; }
+        public string Image{ get; set; }
+        public List<ClassNews1> News { get; set; }
+    }
+    public class ClassNews1
+    {
+        public string NewsId { get; set; }
+        public string NewsContent{ get; set; }
+        public string NewsTittle{ get; set; }
+        public string NewsImage{ get; set; }
+    }
 }

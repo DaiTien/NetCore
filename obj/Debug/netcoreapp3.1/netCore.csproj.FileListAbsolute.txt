@@ -135,6 +135,7 @@ F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/staticwebassets/netCore.Stat
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/staticwebassets/netCore.StaticWebAssets.xml
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 >>>>>>> af68b0d8d22e9031ec393e9ce46bebaafd158a33
 >>>>>>> d5f33470d964fb7df22fb64e2be00eef463b3799
 >>>>>>> ef0be538693314f6394499fd8eb263717e70dc2e
@@ -143,6 +144,25 @@ F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 >>>>>>> 69c3ce9bf45fc34c9a8f599ecd1c7f47a436deed
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/ThongBaoMoi.cshtml.g.cs
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/TinTuc.cshtml.g.cs
+<<<<<<< HEAD
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.TagHelpers.input.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.TagHelpers.output.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorCoreGenerate.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/GioiThieu/Index.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/TrangChu.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Footer.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Header.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cs
+=======
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.input.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.output.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorCoreGenerate.cache
@@ -159,6 +179,7 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cs
+>>>>>>> e219094b4c1f9bc57faae69010889b289f29ec4c
 >>>>>>> 213a3ea43bd98817e990c66a5409e5778b91ae16
 >>>>>>> 94aa903da367b5fe1d31564383f21e32501729a4
 >>>>>>> fded019b5379d9c6ddd8cfd1b48a3077553b5d8d
@@ -210,6 +231,81 @@ E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cache
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cs
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.dll
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.pdb
+<<<<<<< HEAD
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/ThongBaoMoi.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.cshtml.g.cs
+>>>>>>> 0565bd7153c30aa6dee3e9fd81c3c57235e85c97
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/ThongBaoMoi.cshtml.g.cs
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/ThongBaoMoi.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/ThuVien/ThuVienVideo.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/appsettings.json
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/netCore.exe
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/netCore.deps.json
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/netCore.runtimeconfig.json
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/netCore.runtimeconfig.dev.json
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/netCore.dll
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/netCore.pdb
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/netCore.Views.dll
+E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/netCore.Views.pdb
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.csprojAssemblyReference.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CoreCompileInputs.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.MvcApplicationPartsAssemblyInfo.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorAssemblyInfo.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorAssemblyInfo.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.AssemblyInfoInputs.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.AssemblyInfo.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.Views.pdb
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/staticwebassets/netCore.StaticWebAssets.Manifest.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/staticwebassets/netCore.StaticWebAssets.xml
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.dll
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.pdb
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
+E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/ThongBaoMoi.cshtml.g.cs
+E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.cshtml.g.cs
+E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/ThuVien/ThuVienVideo.cshtml.g.cs
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/ThuVien/ThuVienVideo.cshtml.g.cs
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Dapper.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+=======
 >>>>>>> 37af08aa75641b5b7a79eac1549f8391351d4a41
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\ThongBaoMoi.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\TinTuc.cshtml.g.cs
@@ -355,6 +451,13 @@ E:\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
 E:\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
 E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVienVideo.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVienVideo.cshtml.g.cs
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\HoatDongSuKien.cshtml.g.cs
+=======
+<<<<<<< HEAD
+>>>>>>> 48e3345780e977b913c2e483e982eeb1f485ebdd
 E:\2020\NetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\2020\NetCore\bin\Debug\netcoreapp3.1\appsettings.json
 E:\2020\NetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -374,3 +477,11 @@ E:\2020\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.xml
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 26f2c9db7b8ff336503cf69f3c9eb9c9c057be84
+>>>>>>> 37af08aa75641b5b7a79eac1549f8391351d4a41
+>>>>>>> abe4ea8ecb170ad4f407e894fe3b4901721584ae
+>>>>>>> e219094b4c1f9bc57faae69010889b289f29ec4c
+>>>>>>> 48e3345780e977b913c2e483e982eeb1f485ebdd
