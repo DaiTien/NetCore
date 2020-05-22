@@ -5,6 +5,8 @@ namespace netCore.Models
 {
     public class IndexGioiThieuModel
     {
+        
+        //
         public string Image1 { get; set; }
         public string Image2 { get; set; }
         public string Image3 { get; set; }
@@ -22,6 +24,8 @@ namespace netCore.Models
     }
     public class ClassTitleCon
     {
+        public int intromenu_id { get; set; }
+        public string intromenu_title { get; set; }
          public string Con1 { get; set; }
 
         public string Con2{ get; set; }
