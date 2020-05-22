@@ -2,6 +2,7 @@
   "version": 2,
   "dgSpecHash": "FQNpFxB5P6xWe2H+iuj1u2ccxHOs/zMeWUAa5HSQUeR1wJmKAbixoaPX+VMt8zdc1WsYT1hZbaBvnXWrDJFVXw==",
   "success": true,
+<<<<<<< HEAD
   "projectFilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
   "expectedPackageFiles": [
     "/Users/trungnguyen/.nuget/packages/dapper/2.0.35/dapper.2.0.35.nupkg.sha512",
@@ -133,4 +134,25 @@
     "/Users/trungnguyen/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
+=======
+  "projectFilePath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+=======
+  "dgSpecHash": "xRJc15szJP7NZ6AD2nLKf3utjqdww2N4iR5pGHPqN4HPfnn5QZbFMXWOkYvhD+myk7Y8T9xC2jPaQ1SBl+Mb3A==",
+  "success": true,
+  "projectFilePath": "E:\\2020\\NetCore\\netCore.csproj",
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+<<<<<<< HEAD
+      "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file E:\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
+    }
+  ]
+>>>>>>> e219094b4c1f9bc57faae69010889b289f29ec4c
 }
