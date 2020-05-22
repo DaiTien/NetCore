@@ -84,8 +84,6 @@ E:/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
 E:/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 >>>>>>> 2bf5b0387abb2d717a2d1941dc82de9a4a8efd72
 >>>>>>> 8d9b698d14ba337d20bc799e689e1b6fe4824249
-<<<<<<< HEAD
-=======
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csprojAssemblyReference.cache
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CoreCompileInputs.cache
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.MvcApplicationPartsAssemblyInfo.cache
@@ -132,11 +130,8 @@ F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 >>>>>>> 68bec93ed86a1c76184f681b3ec2f1b5cd652245
 >>>>>>> b2973f5a1be74142e80bbd682f99c480f7425900
 >>>>>>> 69c3ce9bf45fc34c9a8f599ecd1c7f47a436deed
-<<<<<<< HEAD
-=======
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/ThongBaoMoi.cshtml.g.cs
 F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/TinTuc.cshtml.g.cs
->>>>>>> d5f33470d964fb7df22fb64e2be00eef463b3799
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.input.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.output.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorCoreGenerate.cache

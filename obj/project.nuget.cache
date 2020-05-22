@@ -1,45 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "m+XLCQb6pHe++fW76J6mtK/jZXurZeCKvQdxtTrlQYtmT3BTCXT9vhlCdgpctiwDMQY4LU/QB0ffA3L2fh2tNg==",
   "success": true,
   "projectFilePath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
-=======
-<<<<<<< HEAD
-  "dgSpecHash": "r2RbfRFvVY09WfQ2YghIyNTMxS9MFKdmKqq6fSF9aVeOUNyX9C3rStN7ogbiKguJi0IE3rSntqDGwht98p3Hag==",
-  "success": true,
-  "projectFilePath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
-=======
-<<<<<<< HEAD
-  "dgSpecHash": "m+XLCQb6pHe++fW76J6mtK/jZXurZeCKvQdxtTrlQYtmT3BTCXT9vhlCdgpctiwDMQY4LU/QB0ffA3L2fh2tNg==",
-  "success": true,
-  "projectFilePath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
-=======
-  "dgSpecHash": "JSDtKW2LnQ7tvNugl+ximfCL7rvelB1i9plRzSqEINRf5zG8mU2pKMqAmTJYrIMb2MWequC+NBWn/ouAxWHEJA==",
-  "success": true,
-  "projectFilePath": "E:\\NetCore\\netCore.csproj",
->>>>>>> 0dbaed6dbb91b0b8d71b77193fb5c512ab75c70c
->>>>>>> d5f33470d964fb7df22fb64e2be00eef463b3799
->>>>>>> 9376e6c95c50cd549afc553f582a9abb43194b45
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-<<<<<<< HEAD
       "message": "Problem reading the cache file E:\\Net Core\\NewProject\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
-<<<<<<< HEAD
-      "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
-<<<<<<< HEAD
-      "message": "Problem reading the cache file E:\\Net Core\\NewProject\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
-      "message": "Problem reading the cache file E:\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
->>>>>>> 0dbaed6dbb91b0b8d71b77193fb5c512ab75c70c
->>>>>>> d5f33470d964fb7df22fb64e2be00eef463b3799
->>>>>>> 9376e6c95c50cd549afc553f582a9abb43194b45
     }
   ]
 }
