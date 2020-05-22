@@ -1,37 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj": {}
-=======
-    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
->>>>>>> af68b0d8d22e9031ec393e9ce46bebaafd158a33
+    "E:\\NetCore\\netCore.csproj": {}
   },
   "projects": {
-    "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj": {
+    "E:\\NetCore\\netCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+        "projectUniqueName": "E:\\NetCore\\netCore.csproj",
         "projectName": "netCore",
-<<<<<<< HEAD
-        "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "F:\\IT\\Back-End\\2020\\NetCore\\obj\\",
-=======
-        "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
->>>>>>> af68b0d8d22e9031ec393e9ce46bebaafd158a33
+        "projectPath": "E:\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\NetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> af68b0d8d22e9031ec393e9ce46bebaafd158a33
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
