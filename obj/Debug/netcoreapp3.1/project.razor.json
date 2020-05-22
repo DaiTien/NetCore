@@ -20551,6 +20551,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\Net Core\\NewProject\\NetCore\\Views\\News\\HoatDongSuKien.cshtml",
+      "TargetPath": "Views\\News\\HoatDongSuKien.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\Net Core\\NewProject\\NetCore\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"

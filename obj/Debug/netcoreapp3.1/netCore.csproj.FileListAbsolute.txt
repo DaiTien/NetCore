@@ -326,3 +326,4 @@ E:\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.xml
 E:\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
 E:\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVienVideo.cshtml.g.cs
+E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\HoatDongSuKien.cshtml.g.cs
