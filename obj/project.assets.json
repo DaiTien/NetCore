@@ -6926,12 +6926,17 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+=======
+    "C:\\Users\\KimAnh\\.nuget\\packages\\": {}
+>>>>>>> 7d4848956d23642701c296d77ae449db7c27be9a
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
       "projectName": "netCore",
       "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
@@ -6943,6 +6948,16 @@
       ],
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "E:\\2020\\NetCore\\netCore.csproj",
+      "projectName": "netCore",
+      "projectPath": "E:\\2020\\NetCore\\netCore.csproj",
+      "packagesPath": "C:\\Users\\KimAnh\\.nuget\\packages\\",
+      "outputPath": "E:\\2020\\NetCore\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\KimAnh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 7d4848956d23642701c296d77ae449db7c27be9a
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7022,7 +7037,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'success', line 5, position 0."
+=======
+      "message": "Problem reading the cache file E:\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 7d4848956d23642701c296d77ae449db7c27be9a
     }
   ]
 }
