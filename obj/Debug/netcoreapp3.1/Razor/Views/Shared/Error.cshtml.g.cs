@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\Shared\Error.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d6a5625cc8fb4476f348b0fe9041c550465d8bf9"
+=======
+#pragma checksum "E:\2020\NetCore\Views\Shared\Error.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d6a5625cc8fb4476f348b0fe9041c550465d8bf9"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\Shared\Error.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d6a5625cc8fb4476f348b0fe9041c550465d8bf9"
@@ -22,7 +26,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -37,7 +45,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -59,7 +71,11 @@ using netCore.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\Shared\Error.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\Shared\Error.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\Shared\Error.cshtml"
@@ -76,7 +92,11 @@ using netCore.Models;
             WriteLiteral("\r\n<h1 class=\"text-danger\">Error.</h1>\r\n<h2 class=\"text-danger\">An error occurred while processing your request.</h2>\r\n\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 9 "F:\IT\Back-End\2020\NetCore\Views\Shared\Error.cshtml"
+=======
+#line 9 "E:\2020\NetCore\Views\Shared\Error.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 9 "E:\NetCore\Views\Shared\Error.cshtml"
@@ -93,7 +113,11 @@ using netCore.Models;
             WriteLiteral("    <p>\r\n        <strong>Request ID:</strong> <code>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 12 "F:\IT\Back-End\2020\NetCore\Views\Shared\Error.cshtml"
+=======
+#line 12 "E:\2020\NetCore\Views\Shared\Error.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 12 "E:\NetCore\Views\Shared\Error.cshtml"
@@ -109,7 +133,11 @@ using netCore.Models;
             WriteLiteral("</code>\r\n    </p>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 14 "F:\IT\Back-End\2020\NetCore\Views\Shared\Error.cshtml"
+=======
+#line 14 "E:\2020\NetCore\Views\Shared\Error.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 14 "E:\NetCore\Views\Shared\Error.cshtml"

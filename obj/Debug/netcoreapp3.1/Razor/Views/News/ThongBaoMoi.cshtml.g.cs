@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "548a549a138e0195d01d4d93d2f4949aaf97e9ab"
+=======
+#pragma checksum "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "548a549a138e0195d01d4d93d2f4949aaf97e9ab"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\News\ThongBaoMoi.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "548a549a138e0195d01d4d93d2f4949aaf97e9ab"
@@ -22,7 +26,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -37,7 +45,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -66,7 +78,11 @@ using netCore.Models;
                 <span id=""higlobal_lblNoiDung"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 8 "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+=======
+#line 8 "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 8 "E:\NetCore\Views\News\ThongBaoMoi.cshtml"
@@ -104,7 +120,11 @@ using netCore.Models;
                                         href=""../../tin-tuc/Thong-Bao-Moi-1"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 30 "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+=======
+#line 30 "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 30 "E:\NetCore\Views\News\ThongBaoMoi.cshtml"
@@ -177,7 +197,11 @@ using netCore.Models;
             WriteLiteral(">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 75 "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+=======
+#line 75 "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 75 "E:\NetCore\Views\News\ThongBaoMoi.cshtml"
@@ -193,7 +217,11 @@ using netCore.Models;
             WriteLiteral("</span>\r\n                    </h2>\r\n                </div>\r\n                <div class=\"row\">\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 79 "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+=======
+#line 79 "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 79 "E:\NetCore\Views\News\ThongBaoMoi.cshtml"
@@ -210,7 +238,11 @@ using netCore.Models;
             BeginWriteAttribute("src", "\r\n                                    src=\"", 5032, "\"", 5090, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 84 "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+=======
+#line 84 "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 84 "E:\NetCore\Views\News\ThongBaoMoi.cshtml"
@@ -227,7 +259,11 @@ WriteAttributeValue("", 5075, news.NewsImage, 5075, 15, false);
             WriteLiteral(" alt=\"Card image cap\">\r\n\r\n                            </div>\r\n                            <div class=\"card-body\">\r\n                                <h5 class=\"card-title\"><a href=\"#\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 88 "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+=======
+#line 88 "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 88 "E:\NetCore\Views\News\ThongBaoMoi.cshtml"
@@ -243,7 +279,11 @@ WriteAttributeValue("", 5075, news.NewsImage, 5075, 15, false);
             WriteLiteral("</a></h5>\r\n                                <p class=\"card-text\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 89 "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+=======
+#line 89 "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 89 "E:\NetCore\Views\News\ThongBaoMoi.cshtml"
@@ -259,7 +299,11 @@ WriteAttributeValue("", 5075, news.NewsImage, 5075, 15, false);
             WriteLiteral("</p>\r\n                                <a href=\"../../tin-tuc/Thong-Bao-Moi/Thong-Bao-Nghi-Hoc-3\">Xem thêm</a>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 94 "F:\IT\Back-End\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+=======
+#line 94 "E:\2020\NetCore\Views\News\ThongBaoMoi.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 94 "E:\NetCore\Views\News\ThongBaoMoi.cshtml"

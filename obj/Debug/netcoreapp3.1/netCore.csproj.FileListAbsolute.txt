@@ -96,12 +96,61 @@ E:/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
 >>>>>>> 26f2c9db7b8ff336503cf69f3c9eb9c9c057be84
 >>>>>>> 2bf5b0387abb2d717a2d1941dc82de9a4a8efd72
 >>>>>>> 8d9b698d14ba337d20bc799e689e1b6fe4824249
+<<<<<<< HEAD
+=======
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csprojAssemblyReference.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CoreCompileInputs.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.MvcApplicationPartsAssemblyInfo.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorAssemblyInfo.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorAssemblyInfo.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.AssemblyInfoInputs.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.AssemblyInfo.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.dll
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.pdb
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.TagHelpers.input.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.TagHelpers.output.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorCoreGenerate.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/GioiThieu/Index.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/TrangChu.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Footer.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Header.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cs
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/appsettings.json
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/netCore.exe
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/netCore.deps.json
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/netCore.runtimeconfig.json
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/netCore.runtimeconfig.dev.json
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/netCore.dll
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/netCore.pdb
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/netCore.Views.dll
+F:/IT/Back-End/2020/NetCore/bin/Debug/netcoreapp3.1/netCore.Views.pdb
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.Views.pdb
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/staticwebassets/netCore.StaticWebAssets.Manifest.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/staticwebassets/netCore.StaticWebAssets.xml
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.genruntimeconfig.cache
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CopyComplete
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 >>>>>>> af68b0d8d22e9031ec393e9ce46bebaafd158a33
 >>>>>>> d5f33470d964fb7df22fb64e2be00eef463b3799
 >>>>>>> ef0be538693314f6394499fd8eb263717e70dc2e
 >>>>>>> 68bec93ed86a1c76184f681b3ec2f1b5cd652245
 >>>>>>> b2973f5a1be74142e80bbd682f99c480f7425900
 >>>>>>> 69c3ce9bf45fc34c9a8f599ecd1c7f47a436deed
+<<<<<<< HEAD
+=======
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/ThongBaoMoi.cshtml.g.cs
+F:/IT/Back-End/2020/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/TinTuc.cshtml.g.cs
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.input.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.TagHelpers.output.cache
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorCoreGenerate.cache
@@ -144,6 +193,8 @@ E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.c
 =======
 E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/ThongBaoMoi.cshtml.g.cs
 E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/TinTuc.cshtml.g.cs
+<<<<<<< HEAD
+=======
 >>>>>>> 26f2c9db7b8ff336503cf69f3c9eb9c9c057be84
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csprojAssemblyReference.cache
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.csproj.CoreCompileInputs.cache
@@ -172,6 +223,7 @@ E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cache
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.RazorTargetAssemblyInfo.cs
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.dll
 E:/2020/NetCore/obj/Debug/netcoreapp3.1/netCore.pdb
+>>>>>>> 37af08aa75641b5b7a79eac1549f8391351d4a41
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\ThongBaoMoi.cshtml.g.cs
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\TinTuc.cshtml.g.cs
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csprojAssemblyReference.cache
@@ -193,8 +245,6 @@ E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\TinTuc\ThongBaoMoi.cshtml.g.cs
-E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\TinTuc\TinTuc.cshtml.g.cs
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.RazorTargetAssemblyInfo.cache
@@ -320,4 +370,26 @@ E:\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
 E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVienVideo.cshtml.g.cs
 =======
 E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVienVideo.cshtml.g.cs
+<<<<<<< HEAD
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\netCore.exe
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\netCore.deps.json
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\netCore.runtimeconfig.json
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\netCore.runtimeconfig.dev.json
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\netCore.dll
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\netCore.pdb
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\netCore.Views.dll
+E:\2020\NetCore\bin\Debug\netcoreapp3.1\netCore.Views.pdb
+E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\ThongBaoMoi.cshtml.g.cs
+E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\News\TinTuc.cshtml.g.cs
+E:\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVienVideo.cshtml.g.cs
+E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.Views.pdb
+E:\2020\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.Manifest.cache
+E:\2020\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.xml
+E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
+E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
+=======
 >>>>>>> 26f2c9db7b8ff336503cf69f3c9eb9c9c057be84
+>>>>>>> 37af08aa75641b5b7a79eac1549f8391351d4a41

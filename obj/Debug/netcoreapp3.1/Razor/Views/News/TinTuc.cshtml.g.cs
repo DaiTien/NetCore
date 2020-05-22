@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\News\TinTuc.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "97966bec6f264290c8fc9e970a4f29db7d0273e7"
+=======
+#pragma checksum "E:\2020\NetCore\Views\News\TinTuc.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "97966bec6f264290c8fc9e970a4f29db7d0273e7"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\News\TinTuc.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "97966bec6f264290c8fc9e970a4f29db7d0273e7"
@@ -22,7 +26,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -37,7 +45,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -159,7 +171,11 @@ using netCore.Models;
                                                 <div class=""card-image-top"">
                                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "97966bec6f264290c8fc9e970a4f29db7d0273e79971", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "97966bec6f264290c8fc9e970a4f29db7d0273e79935", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "97966bec6f264290c8fc9e970a4f29db7d0273e79920", async() => {
@@ -196,7 +212,11 @@ using netCore.Models;
                                             <");
             WriteLiteral("div class=\"card\">\r\n                                                <div class=\"card-image-top\">\r\n                                                    ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "97966bec6f264290c8fc9e970a4f29db7d0273e712389", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "97966bec6f264290c8fc9e970a4f29db7d0273e712353", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "97966bec6f264290c8fc9e970a4f29db7d0273e712338", async() => {

@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f1"
+=======
+#pragma checksum "E:\2020\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f1"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f1"
@@ -22,7 +26,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -37,7 +45,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -96,7 +108,11 @@ using netCore.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\Home\Index.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\Home\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\Home\Index.cshtml"
@@ -113,7 +129,11 @@ ViewData["Title"] = "Home Page";
             WriteLiteral("<div class=\"section-slide\">\r\n    <div class=\"owl-carousel owl-theme\">\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 9 "F:\IT\Back-End\2020\NetCore\Views\Home\Index.cshtml"
+=======
+#line 9 "E:\2020\NetCore\Views\Home\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 9 "E:\NetCore\Views\Home\Index.cshtml"
@@ -130,7 +150,11 @@ ViewData["Title"] = "Home Page";
             BeginWriteAttribute("src", " src=\"", 320, "\"", 346, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 11 "F:\IT\Back-End\2020\NetCore\Views\Home\Index.cshtml"
+=======
+#line 11 "E:\2020\NetCore\Views\Home\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 11 "E:\NetCore\Views\Home\Index.cshtml"
@@ -147,7 +171,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
             WriteLiteral(" alt=\"Alternate Text\" />\r\n            </div>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 13 "F:\IT\Back-End\2020\NetCore\Views\Home\Index.cshtml"
+=======
+#line 13 "E:\2020\NetCore\Views\Home\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 13 "E:\NetCore\Views\Home\Index.cshtml"
@@ -244,7 +272,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div>
                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f113872", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f113788", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f113753", async() => {
@@ -276,7 +308,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div>
                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f115387", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f115303", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f115268", async() => {
@@ -308,7 +344,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div>
                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f116911", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f116827", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f116792", async() => {
@@ -340,7 +380,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div>
                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f118445", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f118361", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f118326", async() => {
@@ -387,7 +431,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                     <div class=""about-image"">
                                         ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f120632", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f120548", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f120513", async() => {
@@ -439,7 +487,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image img-mid"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f123749", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f123665", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f123630", async() => {
@@ -471,7 +523,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f125306", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f125222", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f125187", async() => {
@@ -521,7 +577,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image img-mid"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f128207", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f128123", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f128088", async() => {
@@ -553,7 +613,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f129764", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f129680", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f129645", async() => {
@@ -606,7 +670,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image img-mid"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f132834", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f132750", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f132715", async() => {
@@ -646,7 +714,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                             <div class=""card-image-top"">
                                 ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f135167", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f135083", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f135048", async() => {
@@ -681,7 +753,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
            ");
             WriteLiteral("             <div class=\"card\">\r\n                            <div class=\"card-image-top\">\r\n                                ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f137583", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f137499", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f137464", async() => {
@@ -715,7 +791,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div><div class=""image-news slick-slide slick-active"" data-slick-index=""2"" aria-hidden=""false"" tabindex=""0"" role=""tabpanel"" id=""slick-sli");
             WriteLiteral("de12\" aria-describedby=\"slick-slide-control12\" style=\"width: 449px;\">\r\n                        <div class=\"card\">\r\n                            <div class=\"card-image-top\">\r\n                                ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f140083", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f139999", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f139964", async() => {

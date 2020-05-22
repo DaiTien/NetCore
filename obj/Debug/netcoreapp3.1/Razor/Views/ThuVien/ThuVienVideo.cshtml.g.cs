@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "554063e3692261215fdf3f8803b317596854065c"
+=======
+#pragma checksum "E:\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "554063e3692261215fdf3f8803b317596854065c"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\ThuVien\ThuVienVideo.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "f688fe7dc354ab2bd6787c0fcd95a26f9d1a75e8"
@@ -22,7 +26,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -37,7 +45,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -63,7 +75,11 @@ using netCore.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
@@ -90,7 +106,11 @@ ViewData["Title"] = "Home Page";
             WriteLiteral("                            <li class=\"nav-glr\" data-filter=\".Lo-p-1.1\">Lớp 1.1</li>\r\n                        \r\n");
 =======
 #nullable restore
+<<<<<<< HEAD
 #line 13 "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
+#line 13 "E:\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
                         foreach (var item in Model.Name)
                         {
 
@@ -99,7 +119,11 @@ ViewData["Title"] = "Home Page";
 #nullable disable
             WriteLiteral("                            <li class=\"nav-glr\" data-filter=\"");
 #nullable restore
+<<<<<<< HEAD
 #line 15 "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
+#line 15 "E:\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
                                                         Write(item.NameFilter);
 
 #line default
@@ -107,7 +131,11 @@ ViewData["Title"] = "Home Page";
 #nullable disable
             WriteLiteral("\">");
 #nullable restore
+<<<<<<< HEAD
 #line 15 "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
+#line 15 "E:\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
                                                                           Write(item.NameClass);
 
 #line default
@@ -115,7 +143,11 @@ ViewData["Title"] = "Home Page";
 #nullable disable
             WriteLiteral("</li>\r\n");
 #nullable restore
+<<<<<<< HEAD
 #line 16 "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
+#line 16 "E:\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
                         }
 
 #line default

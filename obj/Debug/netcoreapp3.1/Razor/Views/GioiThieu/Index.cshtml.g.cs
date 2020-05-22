@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d610c3f9e51c63c561de5d85587cc5767da58e92"
+=======
+#pragma checksum "E:\2020\NetCore\Views\GioiThieu\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d610c3f9e51c63c561de5d85587cc5767da58e92"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\GioiThieu\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d610c3f9e51c63c561de5d85587cc5767da58e92"
@@ -22,7 +26,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -37,7 +45,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -80,7 +92,11 @@ using netCore.Models;
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d610c3f9e51c63c561de5d85587cc5767da58e923726", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d610c3f9e51c63c561de5d85587cc5767da58e923690", async() => {
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -115,7 +131,11 @@ using netCore.Models;
 ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 28 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 28 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 28 "E:\NetCore\Views\GioiThieu\Index.cshtml"
@@ -131,7 +151,11 @@ using netCore.Models;
             WriteLiteral("                                    <a class=\"nav-link active show\" id=\"v-pills-home-tab\" data-toggle=\"pill\" href=\"#v-pills-home\" role=\"tab\" aria-controls=\"v-pills-home\" aria-selected=\"false\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 29 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 29 "E:\NetCore\Views\GioiThieu\Index.cshtml"
@@ -147,7 +171,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                    <a class=\"nav-link\" id=\"v-pills-profile-tab\" data-toggle=\"pill\" href=\"#v-pills-profile\" role=\"tab\" aria-controls=\"v-pills-profile\" aria-selected=\"false\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 30 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 30 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 30 "E:\NetCore\Views\GioiThieu\Index.cshtml"
@@ -163,7 +191,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                    <a class=\"nav-link\" id=\"v-pills-messages-tab\" data-toggle=\"pill\" href=\"#v-pills-messages\" role=\"tab\" aria-controls=\"v-pills-messages\" aria-selected=\"false\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 31 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 31 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 31 "E:\NetCore\Views\GioiThieu\Index.cshtml"
@@ -179,7 +211,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                    <a class=\"nav-link \" id=\"v-pills-settings-tab\" data-toggle=\"pill\" href=\"#v-pills-settings\" role=\"tab\" aria-controls=\"v-pills-settings\" aria-selected=\"true\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 32 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 32 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 32 "E:\NetCore\Views\GioiThieu\Index.cshtml"
@@ -195,7 +231,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                    <a class=\"nav-link \" id=\"v-csvc-tab\" data-toggle=\"pill\" href=\"#v-csvc\" role=\"tab\" aria-controls=\"v-csvc\" aria-selected=\"true\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 33 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 33 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 33 "E:\NetCore\Views\GioiThieu\Index.cshtml"
@@ -211,7 +251,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 34 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 34 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 =======
 <<<<<<< HEAD
 #line 34 "E:\NetCore\Views\GioiThieu\Index.cshtml"
@@ -242,7 +286,11 @@ using netCore.Models;
             WriteLiteral("rẻ cơ hội phát huy năng khiếu và giàu có về mặt tinh thần ngay từ lứa tuổi Mầm non: ca hát, nhảy - múa, MC, vẽ…\r\n                            </p>\r\n                            <div class=\"img1\">\r\n                                <img");
             BeginWriteAttribute("src", " src=\"", 5500, "\"", 5519, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 52 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 52 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 5506, Model.Image1, 5506, 13, false);
 
 #line default
@@ -260,7 +308,11 @@ WriteAttributeValue("", 5506, Model.Image1, 5506, 13, false);
                                 <img");
             BeginWriteAttribute("src", " src=\"", 6476, "\"", 6495, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 60 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 60 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 6482, Model.Image2, 6482, 13, false);
 
 #line default
@@ -276,7 +328,11 @@ WriteAttributeValue("", 6482, Model.Image2, 6482, 13, false);
                                 <img");
             BeginWriteAttribute("src", " src=\"", 6955, "\"", 6974, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 66 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 66 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 6961, Model.Image3, 6961, 13, false);
 
 #line default
@@ -309,7 +365,11 @@ WriteAttributeValue("", 6961, Model.Image3, 6961, 13, false);
                                 <img");
             BeginWriteAttribute("src", " src=\"", 9961, "\"", 9980, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 87 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 87 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 9967, Model.Image4, 9967, 13, false);
 
 #line default
@@ -325,7 +385,11 @@ WriteAttributeValue("", 9967, Model.Image4, 9967, 13, false);
                                 <img");
             BeginWriteAttribute("src", " src=\"", 10502, "\"", 10521, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 93 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 93 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 10508, Model.Image5, 10508, 13, false);
 
 #line default
@@ -342,7 +406,11 @@ WriteAttributeValue("", 10508, Model.Image5, 10508, 13, false);
                                 <img");
             BeginWriteAttribute("src", " src=\"", 11407, "\"", 11426, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 100 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 100 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 11413, Model.Image6, 11413, 13, false);
 
 #line default
@@ -362,7 +430,11 @@ WriteAttributeValue("", 11413, Model.Image6, 11413, 13, false);
             WriteLiteral("        <div class=\"img1\">\r\n                                <img");
             BeginWriteAttribute("src", " src=\"", 12515, "\"", 12534, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 110 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 110 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 12521, Model.Image7, 12521, 13, false);
 
 #line default
@@ -372,7 +444,11 @@ WriteAttributeValue("", 12521, Model.Image7, 12521, 13, false);
             WriteLiteral(" alt=\" Khung nhà 5 tầng có thang máy phục vụ giảng dạy\">\r\n                            </div>\r\n                            <div class=\"img1 mt-2\">\r\n                                <img");
             BeginWriteAttribute("src", " src=\"", 12718, "\"", 12737, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 113 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 113 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 12724, Model.Image8, 12724, 13, false);
 
 #line default
@@ -382,7 +458,11 @@ WriteAttributeValue("", 12724, Model.Image8, 12724, 13, false);
             WriteLiteral(" alt=\" Khung nhà 5 tầng có thang máy phục vụ giảng dạy\">\r\n                            </div>\r\n                            <div class=\"img1 mt-2\">\r\n                                <img");
             BeginWriteAttribute("src", " src=\"", 12921, "\"", 12940, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 116 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 116 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 12927, Model.Image9, 12927, 13, false);
 
 #line default
@@ -392,7 +472,11 @@ WriteAttributeValue("", 12927, Model.Image9, 12927, 13, false);
             WriteLiteral(" alt=\" Khung nhà 5 tầng có thang máy phục vụ giảng dạy\">\r\n                            </div>\r\n                            <div class=\"img1 mt-2\">\r\n                                <img");
             BeginWriteAttribute("src", " src=\"", 13124, "\"", 13144, 1);
 #nullable restore
+<<<<<<< HEAD
 #line 119 "F:\IT\Back-End\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 119 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> 19494e4f27d28b365936c0f9851017089a6c950d
 WriteAttributeValue("", 13130, Model.Image10, 13130, 14, false);
 
 #line default
