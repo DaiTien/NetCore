@@ -6926,19 +6926,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KimAnh\\.nuget\\packages\\": {}
+<<<<<<< HEAD
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+>>>>>>> d4c7cfd054c8fbc16b62462e8c2ff6049c2e71aa
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2020\\NetCore\\netCore.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
       "projectName": "netCore",
-      "projectPath": "E:\\2020\\NetCore\\netCore.csproj",
-      "packagesPath": "C:\\Users\\KimAnh\\.nuget\\packages\\",
-      "outputPath": "E:\\2020\\NetCore\\obj\\",
+      "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "F:\\IT\\Back-End\\2020\\NetCore\\obj\\",
+=======
+      "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+      "projectName": "netCore",
+      "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+>>>>>>> d4c7cfd054c8fbc16b62462e8c2ff6049c2e71aa
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\KimAnh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> d4c7cfd054c8fbc16b62462e8c2ff6049c2e71aa
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7018,7 +7038,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+<<<<<<< HEAD
+      "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file E:\\Net Core\\NewProject\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> d4c7cfd054c8fbc16b62462e8c2ff6049c2e71aa
     }
   ]
 }
