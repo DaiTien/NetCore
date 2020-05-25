@@ -5,12 +5,15 @@ namespace netCore.Models
 {
     public class ThuVienVideoModel
     {
-        public string RequestId { get; set; }
-        public List<VideoClassName> Name {get;set;}
+        public int lop_id { get; set; }
+        public string lop_name { get; set; }
+        public int khoi_id { get; set; }
+        public List<GetViewThuVienVideo> getViews { get; set; }
     }
-    public class VideoClassName
+    public class GetViewThuVienVideo
     {
-        public string NameFilter { set; get; }
-        public string NameClass { set; get; }
+        public int lop_id { get; set; }
+        public string lop_name { get; set; }
+        public int khoi_id { get; set; }
     }
 }

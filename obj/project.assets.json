@@ -2554,7 +2554,6 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2979,7 +2978,6 @@
       "path": "system.buffers/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.1/.xml",
@@ -6844,23 +6842,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\hp\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+>>>>>>> 5e8af33c43fbbcff87846d28580ed80a1be5f3d1
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
       "projectName": "netCore",
       "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
       "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+=======
+      "projectUniqueName": "E:\\NetCore\\netCore.csproj",
+      "projectName": "netCore",
+      "projectPath": "E:\\NetCore\\netCore.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\NetCore\\obj\\",
+>>>>>>> 5e8af33c43fbbcff87846d28580ed80a1be5f3d1
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5e8af33c43fbbcff87846d28580ed80a1be5f3d1
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6940,7 +6954,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file E:\\Net Core\\NewProject\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'success', line 5, position 0."
+=======
+      "message": "Problem reading the cache file E:\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 5e8af33c43fbbcff87846d28580ed80a1be5f3d1
     }
   ]
 }
