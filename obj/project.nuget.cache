@@ -1,10 +1,13 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "pnCsedLztZD27oXL+uZqu1An+op6zUQ5O5u3WUbiMTtI347w6/GII38XK0HcC920S5srxBGvx8eXnH9aEi5gTw==",
   "success": true,
   "projectFilePath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
   "expectedPackageFiles": [
+=======
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
   "dgSpecHash": "RlWPmgYod8z2XFl79tvXg5QnFKvHklziYO7LsDeMtXEToOLfvbPhWym0Ps1L1Sm3z0kAQrwPrA1R+v9oD5jxcg==",
@@ -174,6 +177,7 @@
     "/Users/trungnguyen/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/trungnguyen/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
 =======
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
   "dgSpecHash": "IP4rQhqQ+wLCeALgYL4icf4JOpjLLqBfpZjDYOiv4TIK6a1qJv5KSTD3FriVx2KWiqogNzRPH7dW+lwouCHDJw==",
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
   "success": true,
@@ -441,6 +445,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 >>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
@@ -452,7 +458,11 @@
       "level": "Warning",
       "warningLevel": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file E:\\Net Core\\NewProject\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
       "message": "Problem reading the cache file E:\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."

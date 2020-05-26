@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\Home\TrangChu.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c3f57a3c7e39ea784ba49c6bb0fe43bf9f0aaea1"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Home\TrangChu.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c3f57a3c7e39ea784ba49c6bb0fe43bf9f0aaea1"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\Home\TrangChu.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c3f57a3c7e39ea784ba49c6bb0fe43bf9f0aaea1"
@@ -42,7 +46,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -77,7 +85,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"

@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\Shared\Components\Header\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "54877cfc60b9781a62cb0b3f9a0294590fd9daea"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "54877cfc60b9781a62cb0b3f9a0294590fd9daea"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 #pragma checksum "E:\NetCore\Views\Shared\Components\Header\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "61374fb8a21f2ec44bbdef7cd3ad6c9655591781"
 >>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
@@ -64,7 +76,11 @@ using netCore.Models;
                               <a href=""#"" style=""color: var(--color-primary-light) ;"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 14 "F:\IT\Back-End\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 14 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 #line 14 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a

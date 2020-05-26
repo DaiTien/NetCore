@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj": {}
   },
   "projects": {
@@ -13,6 +14,8 @@
         "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "F:\\IT\\Back-End\\2020\\NetCore\\obj\\",
+=======
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
     "E:\\NetCore\\netCore.csproj": {}
@@ -39,6 +42,7 @@
         "packagesPath": "/Users/trungnguyen/.nuget/packages/",
         "outputPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/",
 =======
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
     "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
   },
@@ -56,6 +60,8 @@
         "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+<<<<<<< HEAD
+=======
 >>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
@@ -66,7 +72,10 @@
         ],
         "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,6 +86,7 @@
 <<<<<<< HEAD
           "/Users/trungnguyen/.nuget/NuGet/NuGet.Config"
 =======
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86

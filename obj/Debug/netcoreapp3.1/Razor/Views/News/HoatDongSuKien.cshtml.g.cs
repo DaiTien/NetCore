@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\News\HoatDongSuKien.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b86aa5db5c5215429f797d3aa80fcaf4c95d7c12"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\News\HoatDongSuKien.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b86aa5db5c5215429f797d3aa80fcaf4c95d7c12"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\News\HoatDongSuKien.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b86aa5db5c5215429f797d3aa80fcaf4c95d7c12"
@@ -30,7 +34,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -53,7 +61,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -90,6 +102,11 @@ using netCore.Models;
                 <span id=""higlobal_lblNoiDung"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+#line 8 "E:\Net Core\NewProject\NetCore\Views\News\HoatDongSuKien.cshtml"
+                                          Write(Model.newscate_title);
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 8 "E:\NetCore\Views\News\HoatDongSuKien.cshtml"
@@ -140,7 +157,10 @@ using netCore.Models;
             WriteLiteral("    href=\"/news/hoatdongsukien\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 35 "F:\IT\Back-End\2020\NetCore\Views\News\HoatDongSuKien.cshtml"
+=======
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 35 "E:\NetCore\Views\News\HoatDongSuKien.cshtml"
@@ -153,6 +173,7 @@ using netCore.Models;
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
                                                              Write(Model.Tittle);
 =======
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
 #line 35 "E:\Net Core\NewProject\NetCore\Views\News\HoatDongSuKien.cshtml"
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
 >>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
@@ -241,6 +262,8 @@ using netCore.Models;
                                Write(Model.newscate_title);
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 >>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
@@ -252,7 +275,11 @@ using netCore.Models;
             WriteLiteral("</span>\r\n                    </h2>\r\n                </div>\r\n                <div class=\"row\">\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 79 "F:\IT\Back-End\2020\NetCore\Views\News\HoatDongSuKien.cshtml"
+=======
+#line 79 "E:\Net Core\NewProject\NetCore\Views\News\HoatDongSuKien.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 79 "E:\NetCore\Views\News\HoatDongSuKien.cshtml"
@@ -283,6 +310,8 @@ WriteAttributeValue("", 5067, news.NewsImage, 5067, 15, false);
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
             WriteLiteral("                    <div class=\"col-lg-6 col-md-6 col-sm-12 col-12\">\r\n                        <div class=\"card\">\r\n                            <div class=\"card-image-top\">\r\n                                <img class=\"card-img-top img-thumbnail\"");
             BeginWriteAttribute("src", "\r\n                                    src=\"", 5009, "\"", 5067, 1);
 #nullable restore
@@ -297,11 +326,14 @@ WriteAttributeValue("", 5052, news.NewsImage, 5052, 15, false);
 WriteAttributeValue("", 4969, news.NewsImage, 4969, 15, false);
 =======
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
             WriteLiteral("                    <div class=\"col-lg-6 col-md-6 col-sm-12 col-12\">\r\n                        <div class=\"card\">\r\n                            <div class=\"card-image-top\">\r\n                                <img class=\"card-img-top img-thumbnail\"");
             BeginWriteAttribute("src", "\r\n                                    src=\"", 5024, "\"", 5082, 1);
 #nullable restore
 #line 84 "E:\NetCore\Views\News\HoatDongSuKien.cshtml"
 WriteAttributeValue("", 5067, news.NewsImage, 5067, 15, false);
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 =======
 >>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
@@ -316,7 +348,11 @@ WriteAttributeValue("", 5067, news.NewsImage, 5067, 15, false);
             WriteLiteral(" alt=\"Card image cap\">\r\n\r\n                            </div>\r\n                            <div class=\"card-body\">\r\n                                <h5 class=\"card-title\"><a href=\"#\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 88 "F:\IT\Back-End\2020\NetCore\Views\News\HoatDongSuKien.cshtml"
+=======
+#line 88 "E:\Net Core\NewProject\NetCore\Views\News\HoatDongSuKien.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 88 "E:\NetCore\Views\News\HoatDongSuKien.cshtml"
@@ -340,7 +376,11 @@ WriteAttributeValue("", 5067, news.NewsImage, 5067, 15, false);
             WriteLiteral("</a></h5>\r\n                                <p class=\"card-text\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 89 "F:\IT\Back-End\2020\NetCore\Views\News\HoatDongSuKien.cshtml"
+=======
+#line 89 "E:\Net Core\NewProject\NetCore\Views\News\HoatDongSuKien.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 89 "E:\NetCore\Views\News\HoatDongSuKien.cshtml"
@@ -364,7 +404,11 @@ WriteAttributeValue("", 5067, news.NewsImage, 5067, 15, false);
             WriteLiteral("</p>\r\n                                <a href=\"../../tin-tuc/Thong-Bao-Moi/Thong-Bao-Nghi-Hoc-3\">Xem thêm</a>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 94 "F:\IT\Back-End\2020\NetCore\Views\News\HoatDongSuKien.cshtml"
+=======
+#line 94 "E:\Net Core\NewProject\NetCore\Views\News\HoatDongSuKien.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 94 "E:\NetCore\Views\News\HoatDongSuKien.cshtml"

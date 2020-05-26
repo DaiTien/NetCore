@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "77bd3e6b8bd636a67ab29fc31321b8a6ad24e496"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienVideo.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "0df0d80a60f2ac03555c01a8bbebd72ee56b31b8"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #pragma checksum "E:\NetCore\Views\ThuVien\ThuVienVideo.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "0df0d80a60f2ac03555c01a8bbebd72ee56b31b8"
@@ -30,7 +34,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -53,7 +61,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
@@ -87,7 +99,11 @@ using netCore.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 2 "E:\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
@@ -112,8 +128,12 @@ ViewData["Title"] = "Home Page";
             WriteLiteral("<section class=\"portfolio section\">\r\n        <div class=\"container\">\r\n            <div class=\"top-side\">\r\n                <h2>Thư Viện Video</h2>\r\n            </div>\r\n             ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 10 "F:\IT\Back-End\2020\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
         Write(await Component.InvokeAsync("ThuVien"));
+=======
+#line 13 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+>>>>>>> e394c0ab0155e21245ccbc59587219786d8ac53b
 =======
 <<<<<<< HEAD
 #line 13 "E:\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
@@ -128,6 +148,7 @@ ViewData["Title"] = "Home Page";
 >>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
                        foreach(var item in Model.getViews)
                         {
 >>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
@@ -141,6 +162,9 @@ ViewData["Title"] = "Home Page";
             WriteLiteral("                            <li class=\"nav-glr\" data-filter=\"");
 #nullable restore
 <<<<<<< HEAD
+#line 15 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
+<<<<<<< HEAD
 #line 15 "E:\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
 =======
 <<<<<<< HEAD
@@ -153,6 +177,7 @@ ViewData["Title"] = "Home Page";
 >>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
                                                         Write(item.lop_id);
 
 #line default
@@ -161,6 +186,9 @@ ViewData["Title"] = "Home Page";
             WriteLiteral("\">");
 #nullable restore
 <<<<<<< HEAD
+#line 15 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
+<<<<<<< HEAD
 #line 15 "E:\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
 =======
 <<<<<<< HEAD
@@ -173,6 +201,7 @@ ViewData["Title"] = "Home Page";
 >>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
                                                                       Write(item.lop_name);
 
 #line default
@@ -180,6 +209,9 @@ ViewData["Title"] = "Home Page";
 #nullable disable
             WriteLiteral("</li>\r\n");
 #nullable restore
+<<<<<<< HEAD
+#line 16 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
+=======
 <<<<<<< HEAD
 #line 16 "E:\NetCore\Views\ThuVien\ThuVienVideo.cshtml"
 =======
@@ -193,6 +225,7 @@ ViewData["Title"] = "Home Page";
 >>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
 >>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
 >>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
                         }
 
 #line default

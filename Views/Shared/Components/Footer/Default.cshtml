@@ -1,0 +1,108 @@
+@model netCore.Models.FooterViewModel
+<section class="section-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-12">
+                            <div class="chinhanh-footer">
+                                <h4 class="title-footer">Cơ Sở Liên Cấp Việt Nhật
+                                </h4>
+                            </div>
+                            <div class="tabs-footer">
+                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                    
+                                            <a class="nav-footer active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                                                <div class="school-icon"><i class="fas fa-school" aria-hidden="true"></i></div>
+                                                &nbsp;@Model.lienhe_title<span><i class="far fa-hand-point-right" aria-hidden="true"></i></span></a>
+                                        
+                                            <a class="nav-footer " id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="true">
+                                                <div class="school-icon"><i class="fas fa-school" aria-hidden="true"></i></div>
+                                                &nbsp;TRƯỜNG LIÊN CẤP VIỆT NHẬT - CƠ SỞ 2<span><i class="far fa-hand-point-right" aria-hidden="true"></i></span></a>
+                                        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-sm-12 col-12">
+                            <div class="tab-show">
+                                <h4 class="title-footer">LIÊN CẤP VIỆT NHẬT</h4>
+                                <div class="tab-content" id="v-pills-tabContent">
+                                    
+                                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                                                <div class="row">
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                                        <div class="tab-content">
+                                                            <h4>@Model.lienhe_title</h4>
+                                                            <p>@Model.lienhe_address</p>
+                                                            <p>Điện thoại: @Model.lienhe_phone</p>
+                                                        </div>
+                                                        <div class="camket">
+                                                            <h4>Liên cấp Việt Nhật cam kết</h4>
+                                                            <div>
+                                                                <ul>
+                                                                    <li><span>Đào tạo <b>chất lượng</b></span></li>
+                                                                    <li><span>Tư vấn <b>nhiệt tình</b></span></li>
+                                                                    <li><span>Dịch vụ <b>tốt nhất</b></span></li>
+                                                                    <li><span>Hỗ trợ <b>suốt đời</b></span></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                                        <div class="map">
+                                                            <iframe src="@Model.lienhe_map" width="350" height="175" frameborder="0" style="border: 0;" allowfullscreen=""></iframe>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        
+                                            <div class="tab-pane fade show " id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                                                <div class="row">
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                                        <div class="tab-content">
+                                                            <h4>TRƯỜNG LIÊN CẤP VIỆT NHẬT - CƠ SỞ 2</h4>
+                                                            <p>2A Nguyễn Quý Đức, Khuê Trung, Cẩm Lệ, Đà Nẵng </p>
+                                                            <p>Điện thoại: 02363 889 598</p>
+                                                        </div>
+                                                        <div class="camket">
+                                                            <h4>Liên cấp Việt Nhật cam kết</h4>
+                                                            <div>
+                                                                <ul>
+                                                                    <li><span>Đào tạo <b>chất lượng</b></span></li>
+                                                                    <li><span>Tư vấn <b>nhiệt tình</b></span></li>
+                                                                    <li><span>Dịch vụ <b>tốt nhất</b></span></li>
+                                                                    <li><span>Hỗ trợ <b>suốt đời</b></span></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                                        <div class="map">
+                                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15339.141903470945!2d108.20625487838058!3d16.024679072534113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421b53989c76c1%3A0xccc461cb43747970!2zSOG7hyBUaOG7kW5nIFRyxrDhu51uZyBMacOqbiBD4bqlcCBWaeG7h3QgTmjhuq10!5e0!3m2!1svi!2s!4v1576687059199!5m2!1svi!2s" width="350" height="175" frameborder="0" style="border: 0;" allowfullscreen=""></iframe>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        
+                                    
+                                    <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">...</div>
+                                    <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">...</div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <!--menu-->
+                        <script>
+                            $(window).scroll(function () {
+                                if ($(this).scrollTop() > 90) {
+
+                                    $('.navigation-wrap').addClass('fixed-top');
+                                } else {
+
+                                    $('.navigation-wrap').removeClass('fixed-top');
+                                }
+                            });
+                        </script>
+                    </div>
+                </div>
+            </section>
