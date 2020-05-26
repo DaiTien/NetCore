@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj": {}
   },
   "projects": {
@@ -12,12 +13,74 @@
         "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "F:\\IT\\Back-End\\2020\\NetCore\\obj\\",
+=======
+<<<<<<< HEAD
+    "E:\\NetCore\\netCore.csproj": {}
+=======
+<<<<<<< HEAD
+    "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj": {}
+=======
+<<<<<<< HEAD
+    "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj": {}
+>>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
+  },
+  "projects": {
+    "E:\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+<<<<<<< HEAD
+        "projectPath": "E:\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\NetCore\\obj\\",
+=======
+        "projectPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
+        "packagesPath": "/Users/trungnguyen/.nuget/packages/",
+        "outputPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/",
+=======
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
+>>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
+  },
+  "projects": {
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+<<<<<<< HEAD
+        "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "F:\\IT\\Back-End\\2020\\NetCore\\obj\\",
+=======
+        "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+>>>>>>> eac06e9f711070d8addc5109b23e0c7d9f66554d
+>>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
+>>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "/Users/trungnguyen/.nuget/NuGet/NuGet.Config"
+=======
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ef904da31885a4a8f6c3704a2ece843dd1d76946
+>>>>>>> 16c7bafd4bdddd4bdc4fa904e63280e2cd4cca86
+>>>>>>> eec5e50bc3f9863eb07c72b52352c9f079e9b01a
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

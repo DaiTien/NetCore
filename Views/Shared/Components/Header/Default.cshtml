@@ -33,40 +33,40 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav ml-auto py-4 py-md-0">
                                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 active">
-                                            <a class="nav-link" href="/trang-chu">Trang Chủ</a>
+                                            <a class="nav-link" href="/trang-chu">@Model.menu1</a>
                                         </li>
                                         
                                                 <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
-                                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Giới Thiệu</a>
+                                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">@Model.menu2</a>
                                                     <div class="dropdown-menu">
-                                                        
-                                                                <a class="dropdown-item" href="/gioithieu/index">ĐỘI NGŨ GIÁO VIÊN TRƯỜNG LIÊN CẤP VIỆT NHẬT</a>
+                                                     
+                                                                <a class="dropdown-item" href="/gioithieu/index">@Model.menuGioiThieu[0].intromenu_titledefault</a>
                                                             
-                                                                <a class="dropdown-item" href="/gioithieu/index">CƠ CẤU TỔ CHỨC HỆ THỐNG</a>
+                                                                <a class="dropdown-item" href="/gioithieu/index">@Model.menuGioiThieu[1].intromenu_titledefault</a>
                                                             
-                                                                <a class="dropdown-item" href="/gioithieu/index">ĐỐI TÁC CHIẾN LƯỢC</a>
+                                                                <a class="dropdown-item" href="/gioithieu/index">@Model.menuGioiThieu[2].intromenu_titledefault</a>
                                                             
-                                                                <a class="dropdown-item" href="/gioithieu/index">THÀNH TỰU VIỆT NHẬT</a>
+                                                                <a class="dropdown-item" href="/gioithieu/index">@Model.menuGioiThieu[3].intromenu_titledefault</a>
                                                             
-                                                                <a class="dropdown-item" href="/gioithieu/index">CƠ SỞ VẬT CHẤT TRƯỜNG LIÊN CẤP VIỆT NHẬT</a>
+                                                                <a class="dropdown-item" href="/gioithieu/index">@Model.menuGioiThieu[4].intromenu_titledefault</a>
                                                             
                                                     </div>
                                                 </li>
                                             
                                            
                                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Tin Tức</a>
+                                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">@Model.menu3</a>
                                             <div class="dropdown-menu">
                                                 
-                                                        <a class="dropdown-item" href="/news/thongbaomoi">Thông Báo Mới</a>
+                                                        <a class="dropdown-item" href="/news/thongbaomoi">@Model.menuTinTuc[0].newscate_title</a>
                                                     
-                                                        <a class="dropdown-item" href="/news/hoatdongsukien">Hoạt Động - Sự Kiện</a>
+                                                        <a class="dropdown-item" href="/news/hoatdongsukien">@Model.menuTinTuc[1].newscate_title</a>
                                                     
                                                 
                                             </div>
                                         </li>
                                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Thư Viện</a>
+                                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">@Model.menu4</a>
                                             <div class="dropdown-menu">
                                                 <a class="dropdown-item" href="#">Sách</a>
                                                 <a class="dropdown-item" href="thuvien/thu-vien-hinh-anh">Thư Viện Ảnh 2</a>
