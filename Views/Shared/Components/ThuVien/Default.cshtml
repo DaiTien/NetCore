@@ -1,0 +1,10 @@
+@model ThuVienVideoModel
+<div class="filters">
+                <ul class="nav">
+                    <li class="nav-glr active" data-filter="*">Tất Cả</li>
+                      @foreach(var item in Model.getViews)
+                        {
+                            <li class="nav-glr" data-filter="@item.lop_id">@item.lop_name</li>
+                        }
+                </ul>
+            </div>

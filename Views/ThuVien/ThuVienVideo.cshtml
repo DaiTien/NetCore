@@ -7,19 +7,10 @@ ViewData["Title"] = "Home Page";
             <div class="top-side">
                 <h2>Thư Viện Video</h2>
             </div>
-            <div class="filters">
-                <ul class="nav">
-                    <li class="nav-glr active" data-filter="*">Tất Cả</li>
-                      @foreach(var item in Model.getViews)
-                        {
-                            <li class="nav-glr" data-filter="@item.lop_id">@item.lop_name</li>
-                        }
-                </ul>
-            </div>
+             @await Component.InvokeAsync("ThuVien")
 
             <div class="filters-content-video">
                 <div class="row grid" style="position: relative; height: 0px;">
-                    
                
                 </div>
             </div>
