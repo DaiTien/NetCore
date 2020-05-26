@@ -5,7 +5,7 @@
             <li class="breadcrumb-item"><a href="./Default.aspx">Trang chủ</a></li>
             <li class="breadcrumb-item"><a href="#">Tin tức</a></li>
             <li class="breadcrumb-item active">
-                <span id="higlobal_lblNoiDung">@Model.Tittle</span>
+                <span id="higlobal_lblNoiDung">@Model.newscate_title</span>
             </li>
         </ol>
     </div>
@@ -27,12 +27,12 @@
 
                                 <li>
                                     <i class="fa fa-check" aria-hidden="true"></i><a
-                                        href="./news/thongbaomoi">@Model.Tittle</a>
+                                        href="/news/thongbaomoi">Tin tức mới</a>
                                 </li>
 
                                 <li>
                                     <i class="fa fa-check" aria-hidden="true"></i><a
-                                        href="/news/hoatdongsukien">Hoạt Động - Sự Kiện</a>
+                                        href="/news/hoatdongsukien">@Model.newscate_title</a>
                                 </li>
 
                             </ul>
@@ -72,7 +72,7 @@
             <div class="col-md-9 col-sm-12">
                 <div class="title-block">
                     <h2 class="color1">
-                        <span id="">@Model.Tittle</span>
+                        <span id="">@Model.newscate_title</span>
                     </h2>
                 </div>
                 <div class="row">
