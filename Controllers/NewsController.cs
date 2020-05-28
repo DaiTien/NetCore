@@ -26,6 +26,7 @@ namespace netCore.Controllers
         {
             NewsModel newsModel = new NewsModel();
             newsModel = _iNews.GetNews1();
+            _iNews.GetNews();
             return View(newsModel);
         }
           public IActionResult HoatDongSuKien()
