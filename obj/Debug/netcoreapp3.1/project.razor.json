@@ -17869,6 +17869,31 @@
       },
       {
         "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__FooterViewComponentTagHelper",
+        "AssemblyName": "netCore",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:footer",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__FooterViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "Footer"
+        }
+      },
+      {
+        "Kind": "MVC.ViewComponent",
         "Name": "__Generated__HeaderViewComponentTagHelper",
         "AssemblyName": "netCore",
         "Documentation": null,
@@ -17890,6 +17915,31 @@
           "Runtime.Name": "ITagHelper",
           "Common.TypeName": "__Generated__HeaderViewComponentTagHelper",
           "MVC.ViewComponent.Name": "Header"
+        }
+      },
+      {
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__ThuVienViewComponentTagHelper",
+        "AssemblyName": "netCore",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:thu-vien",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__ThuVienViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "ThuVien"
         }
       },
       {
@@ -20556,6 +20606,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Footer\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\Components\\Header\\Default.cshtml",
       "TargetPath": "Views\\Shared\\Components\\Header\\Default.cshtml",
       "FileKind": "mvc"
@@ -20598,6 +20653,11 @@
     {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\ThuVien\\ThuVienVideo.cshtml",
       "TargetPath": "Views\\ThuVien\\ThuVienVideo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\Components\\ThuVien\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\ThuVien\\Default.cshtml",
       "FileKind": "mvc"
     },
     {
