@@ -6926,35 +6926,13 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
-=======
-<<<<<<< HEAD
-    "/Users/trungnguyen/.nuget/packages/": {}
-=======
-    "C:\\Users\\KimAnh\\.nuget\\packages\\": {}
->>>>>>> 19e47a0bfc6331d888bcdd85ad12bb203ec91109
->>>>>>> 82d2ec2f664e9aa78308419d0a96e34fcf7206f1
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
-      "projectName": "netCore",
-      "projectPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
-      "packagesPath": "/Users/trungnguyen/.nuget/packages/",
-      "outputPath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "/Users/trungnguyen/.nuget/NuGet/NuGet.Config"
-=======
-      "projectUniqueName": "E:\\2020\\NetCore\\netCore.csproj",
->>>>>>> 82d2ec2f664e9aa78308419d0a96e34fcf7206f1
       "projectName": "netCore",
       "projectPath": "F:\\IT\\Back-End\\2020\\NetCore\\netCore.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
@@ -6966,12 +6944,12 @@
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> 19e47a0bfc6331d888bcdd85ad12bb203ec91109
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7035,8 +7013,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file F:\\IT\\Back-End\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
