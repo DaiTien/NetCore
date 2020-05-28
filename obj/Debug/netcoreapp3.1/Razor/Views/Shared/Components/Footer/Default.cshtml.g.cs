@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\Shared\Components\Footer\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "823aa7ef2bea0646f1e25f93b031626562645e4c"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Footer\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "823aa7ef2bea0646f1e25f93b031626562645e4c"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\Shared\Components\Footer\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "823aa7ef2bea0646f1e25f93b031626562645e4c"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -61,7 +73,11 @@ using netCore.Models;
                                                 &nbsp;");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 15 "E:\2020\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+=======
+#line 15 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 15 "E:\NetCore\Views\Shared\Components\Footer\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -92,7 +108,11 @@ using netCore.Models;
                                                             <h4>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 33 "E:\2020\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+=======
+#line 33 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 33 "E:\NetCore\Views\Shared\Components\Footer\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -104,7 +124,11 @@ using netCore.Models;
             WriteLiteral("</h4>\r\n                                                            <p>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 34 "E:\2020\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+=======
+#line 34 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 34 "E:\NetCore\Views\Shared\Components\Footer\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -116,7 +140,11 @@ using netCore.Models;
             WriteLiteral("</p>\r\n                                                            <p>Điện thoại: ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 35 "E:\2020\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+=======
+#line 35 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 35 "E:\NetCore\Views\Shared\Components\Footer\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -134,7 +162,11 @@ using netCore.Models;
             BeginWriteAttribute("src", " src=\"", 3218, "\"", 3241, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 40 "E:\2020\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+=======
+#line 40 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Footer\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 40 "E:\NetCore\Views\Shared\Components\Footer\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

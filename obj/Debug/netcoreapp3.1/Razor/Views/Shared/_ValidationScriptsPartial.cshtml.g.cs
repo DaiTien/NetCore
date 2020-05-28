@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\Shared\_ValidationScriptsPartial.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a47"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Shared\_ValidationScriptsPartial.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a47"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\Shared\_ValidationScriptsPartial.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a47"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -69,7 +81,11 @@ using netCore.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a473839", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a473884", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a473824", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -87,7 +103,11 @@ using netCore.Models;
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a474878", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a474923", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b5e5ef4ebf7354cc35c7dacddd6bc3068f19a474863", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

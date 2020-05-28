@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\Home\Privacy.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d8ddb6bffa5a9b264bf8f89038bf03c234083fd3"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Home\Privacy.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d8ddb6bffa5a9b264bf8f89038bf03c234083fd3"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\Home\Privacy.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "d8ddb6bffa5a9b264bf8f89038bf03c234083fd3"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -47,7 +59,11 @@ using netCore.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\Home\Privacy.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\Home\Privacy.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\Home\Privacy.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -60,7 +76,11 @@ using netCore.Models;
             WriteLiteral("<h1>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 4 "E:\2020\NetCore\Views\Home\Privacy.cshtml"
+=======
+#line 4 "E:\Net Core\NewProject\NetCore\Views\Home\Privacy.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 4 "E:\NetCore\Views\Home\Privacy.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

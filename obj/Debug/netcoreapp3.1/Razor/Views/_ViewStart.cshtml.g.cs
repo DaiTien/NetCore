@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\_ViewStart.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7091c65830b0329e613be026ede8a57552863778"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\_ViewStart.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7091c65830b0329e613be026ede8a57552863778"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\_ViewStart.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7091c65830b0329e613be026ede8a57552863778"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -47,7 +59,11 @@ using netCore.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewStart.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewStart.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewStart.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

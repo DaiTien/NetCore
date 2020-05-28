@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "E:\\2020\\NetCore\\netCore.csproj": {}
   },
   "projects": {
@@ -13,6 +14,19 @@
         "projectPath": "E:\\2020\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\KimAnh\\.nuget\\packages\\",
         "outputPath": "E:\\2020\\NetCore\\obj\\",
+=======
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
     "E:\\NetCore\\netCore.csproj": {}
   },
@@ -29,7 +43,11 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
           "C:\\Users\\KimAnh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

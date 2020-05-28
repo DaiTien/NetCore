@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\GioiThieu\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "9e69bae490de52d9b2a324bea5e040674eeed244"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "9e69bae490de52d9b2a324bea5e040674eeed244"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\GioiThieu\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "9e69bae490de52d9b2a324bea5e040674eeed244"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -65,7 +77,11 @@ using netCore.Models;
             WriteLiteral("                                    <a class=\"nav-link active show\" id=\"v-pills-home-tab\" data-toggle=\"pill\" href=\"#v-pills-home\" role=\"tab\" aria-controls=\"v-pills-home\" aria-selected=\"false\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 29 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 29 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -77,7 +93,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                    <a class=\"nav-link\" id=\"v-pills-profile-tab\" data-toggle=\"pill\" href=\"#v-pills-profile\" role=\"tab\" aria-controls=\"v-pills-profile\" aria-selected=\"false\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 30 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 30 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 30 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -89,7 +109,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                    <a class=\"nav-link\" id=\"v-pills-messages-tab\" data-toggle=\"pill\" href=\"#v-pills-messages\" role=\"tab\" aria-controls=\"v-pills-messages\" aria-selected=\"false\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 31 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 31 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 31 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -101,7 +125,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                    <a class=\"nav-link \" id=\"v-pills-settings-tab\" data-toggle=\"pill\" href=\"#v-pills-settings\" role=\"tab\" aria-controls=\"v-pills-settings\" aria-selected=\"true\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 32 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 32 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 32 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -113,7 +141,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                    <a class=\"nav-link \" id=\"v-csvc-tab\" data-toggle=\"pill\" href=\"#v-csvc\" role=\"tab\" aria-controls=\"v-csvc\" aria-selected=\"true\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 33 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 33 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 33 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -142,7 +174,11 @@ using netCore.Models;
             BeginWriteAttribute("src", " src=\"", 5573, "\"", 5592, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 52 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 52 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 52 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -164,7 +200,11 @@ WriteAttributeValue("", 5579, Model.Image1, 5579, 13, false);
             BeginWriteAttribute("src", " src=\"", 6549, "\"", 6568, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 60 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 60 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 60 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -184,7 +224,11 @@ WriteAttributeValue("", 6555, Model.Image2, 6555, 13, false);
             BeginWriteAttribute("src", " src=\"", 7028, "\"", 7047, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 66 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 66 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 66 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -221,7 +265,11 @@ WriteAttributeValue("", 7034, Model.Image3, 7034, 13, false);
             BeginWriteAttribute("src", " src=\"", 10034, "\"", 10053, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 87 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 87 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 87 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -241,7 +289,11 @@ WriteAttributeValue("", 10040, Model.Image4, 10040, 13, false);
             BeginWriteAttribute("src", " src=\"", 10575, "\"", 10594, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 93 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 93 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 93 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -262,7 +314,11 @@ WriteAttributeValue("", 10581, Model.Image5, 10581, 13, false);
             BeginWriteAttribute("src", " src=\"", 11480, "\"", 11499, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 100 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 100 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 100 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -286,7 +342,11 @@ WriteAttributeValue("", 11486, Model.Image6, 11486, 13, false);
             BeginWriteAttribute("src", " src=\"", 12588, "\"", 12607, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 110 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 110 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 110 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -300,7 +360,11 @@ WriteAttributeValue("", 12594, Model.Image7, 12594, 13, false);
             BeginWriteAttribute("src", " src=\"", 12791, "\"", 12810, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 113 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 113 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 113 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -314,7 +378,11 @@ WriteAttributeValue("", 12797, Model.Image8, 12797, 13, false);
             BeginWriteAttribute("src", " src=\"", 12994, "\"", 13013, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 116 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 116 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 116 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -328,7 +396,11 @@ WriteAttributeValue("", 13000, Model.Image9, 13000, 13, false);
             BeginWriteAttribute("src", " src=\"", 13197, "\"", 13217, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 119 "E:\2020\NetCore\Views\GioiThieu\Index.cshtml"
+=======
+#line 119 "E:\Net Core\NewProject\NetCore\Views\GioiThieu\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 119 "E:\NetCore\Views\GioiThieu\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

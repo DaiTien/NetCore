@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f1"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f1"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f1"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -84,7 +96,11 @@ using netCore.Models;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\Home\Index.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\Home\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\Home\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -97,7 +113,11 @@ ViewData["Title"] = "Home Page";
             WriteLiteral("<div class=\"section-slide\">\r\n    <div class=\"owl-carousel owl-theme\">\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 9 "E:\2020\NetCore\Views\Home\Index.cshtml"
+=======
+#line 9 "E:\Net Core\NewProject\NetCore\Views\Home\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 9 "E:\NetCore\Views\Home\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -110,7 +130,11 @@ ViewData["Title"] = "Home Page";
             BeginWriteAttribute("src", " src=\"", 320, "\"", 346, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 11 "E:\2020\NetCore\Views\Home\Index.cshtml"
+=======
+#line 11 "E:\Net Core\NewProject\NetCore\Views\Home\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 11 "E:\NetCore\Views\Home\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -123,7 +147,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
             WriteLiteral(" alt=\"Alternate Text\" />\r\n            </div>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 13 "E:\2020\NetCore\Views\Home\Index.cshtml"
+=======
+#line 13 "E:\Net Core\NewProject\NetCore\Views\Home\Index.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 13 "E:\NetCore\Views\Home\Index.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -216,7 +244,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div>
                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f113788", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f113893", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f113753", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -244,7 +276,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div>
                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f115303", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f115408", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f115268", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -272,7 +308,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div>
                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f116827", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f116932", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f116792", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -300,7 +340,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div>
                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f118361", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f118466", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f118326", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -343,7 +387,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                     <div class=""about-image"">
                                         ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f120548", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f120653", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f120513", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -391,7 +439,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image img-mid"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f123665", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f123770", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f123630", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -419,7 +471,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f125222", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f125327", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f125187", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -465,7 +521,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image img-mid"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f128123", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f128228", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f128088", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -493,7 +553,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f129680", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f129785", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f129645", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -542,7 +606,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                                 <div class=""about-image img-mid"">
                                     ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f132750", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f132855", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f132715", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -578,7 +646,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                             <div class=""card-image-top"">
                                 ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f135083", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f135188", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f135048", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -609,7 +681,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
            ");
             WriteLiteral("             <div class=\"card\">\r\n                            <div class=\"card-image-top\">\r\n                                ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f137499", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f137604", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f137464", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -639,7 +715,11 @@ WriteAttributeValue("", 326, imageName.ImageName, 326, 20, false);
                     </div><div class=""image-news slick-slide slick-active"" data-slick-index=""2"" aria-hidden=""false"" tabindex=""0"" role=""tabpanel"" id=""slick-sli");
             WriteLiteral("de12\" aria-describedby=\"slick-slide-control12\" style=\"width: 449px;\">\r\n                        <div class=\"card\">\r\n                            <div class=\"card-image-top\">\r\n                                ");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f139999", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f140104", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c6795fa00a1c48d5c7dbcbfd2ce7fe68632d71f139964", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

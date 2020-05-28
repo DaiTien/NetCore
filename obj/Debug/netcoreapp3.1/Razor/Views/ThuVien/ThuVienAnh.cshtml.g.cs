@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\ThuVien\ThuVienAnh.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "dde4fac391d1c946c408ff094a972face78b9a1f"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienAnh.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "dde4fac391d1c946c408ff094a972face78b9a1f"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\ThuVien\ThuVienAnh.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "dde4fac391d1c946c408ff094a972face78b9a1f"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -69,7 +81,11 @@ using netCore.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "dde4fac391d1c946c408ff094a972face78b9a1f3697", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "dde4fac391d1c946c408ff094a972face78b9a1f3742", async() => {
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "dde4fac391d1c946c408ff094a972face78b9a1f3682", async() => {
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -90,7 +106,11 @@ using netCore.Models;
             WriteLiteral("        ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 17 "E:\2020\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
+=======
+#line 17 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 17 "E:\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -102,7 +122,11 @@ using netCore.Models;
             WriteLiteral("\r\n\r\n        <div class=\"filters-content-video\">\r\n            <div class=\"row grid\">\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 21 "E:\2020\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
+=======
+#line 21 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 21 "E:\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -121,7 +145,11 @@ using netCore.Models;
             BeginWriteAttribute("src", " src=\"", 1138, "\"", 1167, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 28 "E:\2020\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
+=======
+#line 28 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 28 "E:\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -134,7 +162,11 @@ WriteAttributeValue("", 1144, item2.thuvienanh_image, 1144, 23, false);
             WriteLiteral(" class=\"img-thumbnail lozad\" data-loaded=\"true\"/>\r\n                                </a>\r\n                            </li>\r\n                        </ul>\r\n                    </div>\r\n                </div>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 34 "E:\2020\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
+=======
+#line 34 "E:\Net Core\NewProject\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 34 "E:\NetCore\Views\ThuVien\ThuVienAnh.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

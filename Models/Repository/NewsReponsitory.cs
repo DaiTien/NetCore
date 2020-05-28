@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Dapper;
 using Microsoft.Data.SqlClient;
 using System.Linq;
+using System.Data;
 namespace netCore.Repository
 {
     public class NewsRepository : INews
@@ -36,6 +37,18 @@ namespace netCore.Repository
                 classNews1.NewsImage = "/assets/images/anh_tintuc/jiu1qmtv.zyz.jpg";
                 newsModel.News.Add(classNews1);
                 return newsModel;
+            }
+        }
+
+        public void GetNews(){
+             int newscateId = 2;
+            string newscateTitle = "Thông Báo Mới";
+            using (var conn = new SqlConnection(_connectionString.Value))
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("@NewsCateId", newscateId, DbType.Int32, ParameterDirection.Input);
+                parameters.Add("@NewsCateTitle", newscateTitle, dbType: DbType.String, direction: ParameterDirection.Input);
+                var results = conn.Query<NewsModel>("SelectAllNews", parameters, commandType: CommandType.StoredProcedure);
             }
         }
 

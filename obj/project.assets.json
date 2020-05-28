@@ -2736,7 +2736,6 @@
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2763,7 +2762,6 @@
       "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -6845,9 +6843,14 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\KimAnh\\.nuget\\packages\\": {}
 =======
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
+=======
     "C:\\Users\\Admin\\.nuget\\packages\\": {},
+>>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
   },
@@ -6855,11 +6858,19 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "E:\\2020\\NetCore\\netCore.csproj",
       "projectName": "netCore",
       "projectPath": "E:\\2020\\NetCore\\netCore.csproj",
       "packagesPath": "C:\\Users\\KimAnh\\.nuget\\packages\\",
       "outputPath": "E:\\2020\\NetCore\\obj\\",
+=======
+      "projectUniqueName": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+      "projectName": "netCore",
+      "projectPath": "E:\\Net Core\\NewProject\\NetCore\\netCore.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "E:\\Net Core\\NewProject\\NetCore\\obj\\",
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
       "projectUniqueName": "E:\\NetCore\\netCore.csproj",
       "projectName": "netCore",
@@ -6870,7 +6881,11 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Users\\KimAnh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -6954,7 +6969,11 @@
       "level": "Warning",
       "warningLevel": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problem reading the cache file E:\\2020\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file E:\\Net Core\\NewProject\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
       "message": "Problem reading the cache file E:\\NetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

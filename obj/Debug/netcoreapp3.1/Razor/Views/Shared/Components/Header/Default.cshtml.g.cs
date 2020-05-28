@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4d8950f5a36f8759dc22a690cd7a82538b9cb1d7"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4d8950f5a36f8759dc22a690cd7a82538b9cb1d7"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\Shared\Components\Header\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4d8950f5a36f8759dc22a690cd7a82538b9cb1d7"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -60,7 +72,11 @@ using netCore.Models;
                               <a href=""#"" style=""color: var(--color-primary-light) ;"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 14 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 14 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 14 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -97,7 +113,11 @@ using netCore.Models;
                                             <a class=""nav-link"" href=""/"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 36 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 36 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 36 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -113,7 +133,11 @@ using netCore.Models;
                                                     <a class=""nav-link dropdown-toggle"" data-toggle=""dropdown"" href=""#"" role=""button"" aria-haspopup=""true"" aria-expanded=""false"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 40 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 40 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 40 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -125,7 +149,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                                    <div class=\"dropdown-menu\">\r\n                                                     \r\n                                                                <a class=\"dropdown-item\" href=\"/gioithieu/index\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 43 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 43 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 43 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -137,7 +165,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                                            \r\n                                                                <a class=\"dropdown-item\" href=\"/gioithieu/index\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 45 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 45 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 45 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -149,7 +181,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                                            \r\n                                                                <a class=\"dropdown-item\" href=\"/gioithieu/index\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 47 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 47 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 47 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -161,7 +197,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                                            \r\n                                                                <a class=\"dropdown-item\" href=\"/gioithieu/index\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 49 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 49 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 49 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -173,7 +213,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                                            \r\n                                                                <a class=\"dropdown-item\" href=\"/gioithieu/index\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 51 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 51 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 51 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -192,7 +236,11 @@ using netCore.Models;
                                             <a class=""nav-link dropdown-toggle"" data-toggle=""dropdown"" href=""#"" role=""button"" aria-haspopup=""true"" aria-expanded=""false"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 58 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 58 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 58 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -204,7 +252,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                            <div class=\"dropdown-menu\">\r\n                                                \r\n                                                        <a class=\"dropdown-item\" href=\"/news/thongbaomoi\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 61 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 61 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 61 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -216,7 +268,11 @@ using netCore.Models;
             WriteLiteral("</a>\r\n                                                    \r\n                                                        <a class=\"dropdown-item\" href=\"/news/hoatdongsukien\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 63 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 63 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 63 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -234,7 +290,11 @@ using netCore.Models;
                                             <a class=""nav-link dropdown-toggle"" data-toggle=""dropdown"" href=""#"" role=""button"" aria-haspopup=""true"" aria-expanded=""false"">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 69 "E:\2020\NetCore\Views\Shared\Components\Header\Default.cshtml"
+=======
+#line 69 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\Header\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 69 "E:\NetCore\Views\Shared\Components\Header\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415

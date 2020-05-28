@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "E:\2020\NetCore\Views\Shared\Components\ThuVien\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "0bf2aa949fe576c8f781979c19d4aab8647f114f"
+=======
+#pragma checksum "E:\Net Core\NewProject\NetCore\Views\Shared\Components\ThuVien\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "0bf2aa949fe576c8f781979c19d4aab8647f114f"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #pragma checksum "E:\NetCore\Views\Shared\Components\ThuVien\Default.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "0bf2aa949fe576c8f781979c19d4aab8647f114f"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 1 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 1 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -29,7 +37,11 @@ using netCore;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "E:\2020\NetCore\Views\_ViewImports.cshtml"
+=======
+#line 2 "E:\Net Core\NewProject\NetCore\Views\_ViewImports.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 2 "E:\NetCore\Views\_ViewImports.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -48,7 +60,11 @@ using netCore.Models;
             WriteLiteral("<div class=\"filters\">\r\n                <ul class=\"nav\">\r\n                    <li class=\"nav-glr active\" data-filter=\"*\">Tất Cả</li>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 5 "E:\2020\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
+=======
+#line 5 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 5 "E:\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -61,7 +77,11 @@ using netCore.Models;
             WriteLiteral("                            <li class=\"nav-glr\" data-filter=\"");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 7 "E:\2020\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
+=======
+#line 7 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 7 "E:\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -73,7 +93,11 @@ using netCore.Models;
             WriteLiteral("\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 7 "E:\2020\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
+=======
+#line 7 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 7 "E:\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
@@ -85,7 +109,11 @@ using netCore.Models;
             WriteLiteral("</li>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 8 "E:\2020\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
+=======
+#line 8 "E:\Net Core\NewProject\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
+>>>>>>> b9612dc4bbbef2614f612f505ea066962a3cb137
 =======
 #line 8 "E:\NetCore\Views\Shared\Components\ThuVien\Default.cshtml"
 >>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
