@@ -13,17 +13,25 @@ namespace netCore.Controllers
     {
          private readonly ILogger<ThuVienController> _logger;
          private IThuVienVideo _thuVienVideo;
+         private IThuVienAnh _thuVienAnh;
 
-        public ThuVienController(ILogger<ThuVienController> logger, IThuVienVideo thuVienVideo)
+        public ThuVienController(ILogger<ThuVienController> logger, IThuVienVideo thuVienVideo, IThuVienAnh thuVienAnh)
         {
             _logger = logger;
             _thuVienVideo = thuVienVideo;
+            _thuVienAnh = thuVienAnh;
         }
         public IActionResult ThuVienVideo()
         {
             ThuVienVideoModel thuVienVideoModel = new ThuVienVideoModel();
             thuVienVideoModel= _thuVienVideo.GetThuVienVideoI();
             return View(thuVienVideoModel);
+        }
+        public IActionResult ThuVienAnh()
+        {
+            ThuVienAnhModel thuVienAnhModel = new ThuVienAnhModel();
+            thuVienAnhModel= _thuVienAnh.GetThuVienAnhI();
+            return View(thuVienAnhModel);
         }
     }
 }

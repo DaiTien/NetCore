@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj": {}
   },
   "projects": {
@@ -15,6 +16,23 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trungnguyen/.nuget/NuGet/NuGet.Config"
+=======
+    "E:\\2020\\NetCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "E:\\2020\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2020\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "E:\\2020\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\KimAnh\\.nuget\\packages\\",
+        "outputPath": "E:\\2020\\NetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KimAnh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> 19e47a0bfc6331d888bcdd85ad12bb203ec91109
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

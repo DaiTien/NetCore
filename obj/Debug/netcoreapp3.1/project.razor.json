@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "FilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/netCore.csproj",
+=======
+  "FilePath": "e:\\NetCore\\netCore.csproj",
+>>>>>>> 19e47a0bfc6331d888bcdd85ad12bb203ec91109
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20596,6 +20600,7 @@
   "RootNamespace": "netCore",
   "Documents": [
     {
+<<<<<<< HEAD
       "FilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/Views/Shared/Components/Header/Default.cshtml",
       "TargetPath": "Views\\Shared\\Components\\Header\\Default.cshtml",
       "FileKind": "mvc"
@@ -20662,10 +20667,119 @@
     },
     {
       "FilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/Views/Shared/_Header.cshtml",
+=======
+      "FilePath": "e:\\NetCore\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+<<<<<<< HEAD
+      "FilePath": "e:\\NetCore\\Views\\Home\\TrangChu.cshtml",
+      "TargetPath": "Views\\Home\\TrangChu.cshtml",
+=======
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Footer\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\Components\\Header\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Header\\Default.cshtml",
+>>>>>>> 72f9e4f72ef9e6104ee4facaf7540ce337a83043
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\ThuVien\\ThuVienVideo.cshtml",
+      "TargetPath": "Views\\ThuVien\\ThuVienVideo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\News\\HoatDongSuKien.cshtml",
+      "TargetPath": "Views\\News\\HoatDongSuKien.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\GioiThieu\\Index.cshtml",
+      "TargetPath": "Views\\GioiThieu\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+<<<<<<< HEAD
+      "FilePath": "e:\\NetCore\\Views\\Shared\\Components\\Header\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Header\\Default.cshtml",
+=======
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\ThuVien\\ThuVienAnh.cshtml",
+      "TargetPath": "Views\\ThuVien\\ThuVienAnh.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\_Footer.cshtml",
+      "TargetPath": "Views\\Shared\\_Footer.cshtml",
+>>>>>>> 72f9e4f72ef9e6104ee4facaf7540ce337a83043
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\News\\TinTuc.cshtml",
+      "TargetPath": "Views\\News\\TinTuc.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\News\\ThongBaoMoi.cshtml",
+      "TargetPath": "Views\\News\\ThongBaoMoi.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+<<<<<<< HEAD
+      "FilePath": "e:\\NetCore\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+=======
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\Components\\ThuVien\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\ThuVien\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\News\\TinTuc.cshtml",
+      "TargetPath": "Views\\News\\TinTuc.cshtml",
+>>>>>>> 72f9e4f72ef9e6104ee4facaf7540ce337a83043
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_Footer.cshtml",
+      "TargetPath": "Views\\Shared\\_Footer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Footer\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\Shared\\_Header.cshtml",
+>>>>>>> 19e47a0bfc6331d888bcdd85ad12bb203ec91109
       "TargetPath": "Views\\Shared\\_Header.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/Views/Home/TrangChu.cshtml",
       "TargetPath": "Views\\Home\\TrangChu.cshtml",
       "FileKind": "mvc"
@@ -20683,6 +20797,15 @@
     {
       "FilePath": "/Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+=======
+      "FilePath": "e:\\NetCore\\Views\\Shared\\Components\\ThuVien\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\ThuVien\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+>>>>>>> 19e47a0bfc6331d888bcdd85ad12bb203ec91109
       "FileKind": "mvc"
     }
   ],
