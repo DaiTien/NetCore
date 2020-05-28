@@ -24,6 +24,7 @@ namespace netCore.Controllers
         {
             IndexGioiThieuModel titleGioithieu = new IndexGioiThieuModel();
             titleGioithieu= _iGioithieu.GetGioiThieu();
+            _iGioithieu.GetGioiThieuII();
             return View(titleGioithieu);
         }
        
