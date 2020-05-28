@@ -1,0 +1,82 @@
+@model netCore.Models.ThuVienAnhModel
+<link rel="stylesheet" href="~/css/style.css">
+<section class="portfolio section">
+    <div class="container">
+        <div class="top-side">
+            <h2>Thư Viện Ảnh</h2>
+        </div>
+        @* <div class="filters">
+            <ul class="nav">
+                <li class="nav-glr active" data-filter="*">Tất Cả</li>
+                @foreach(var item in Model.getViews)
+                {
+                <li class="nav-glr" data-filter="@item.lop_id">@item.lop_name</li>
+                }
+            </ul>
+        </div> *@
+        @await Component.InvokeAsync("ThuVien")
+
+        <div class="filters-content-video">
+            <div class="row grid">
+                @foreach (var item2 in Model.getViewAnhs)
+                {
+                    <div class="col-lg-3 col-sm-4 all Lo-p-1.3" id="image">
+                    <div class="item">
+                        <ul class="library">
+                            <li style="display: block;">
+                                <a href="javascript:void(0)" title="Việt Nhật">
+                                    <img src="@item2.thuvienanh_image" class="img-thumbnail lozad" data-loaded="true"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                }
+                @* <div class="col-lg-3 col-sm-4 all Lo-p-1.3" id="image">
+                    <div class="item">
+                        <ul class="library">
+                            <li style="display: block;">
+                                <a href="javascript:void(0)" title="Việt Nhật">
+                                    <img src="@Model.Image1" class="img-thumbnail lozad" data-loaded="true"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-sm-4 all Lo-p-1.3" id="image">
+                    <div class="item">
+                        <ul class="library">
+                            <li style="display: block;">
+                                <a href="javascript:void(0)" title="Việt Nhật">
+                                    <img src="@Model.Image2" class="img-thumbnail lozad" data-loaded="true"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-sm-4 all Lo-p-1.3" id="image">
+                    <div class="item">
+                        <ul class="library">
+                            <li style="display: block;">
+                                <a href="javascript:void(0)" title="Việt Nhật">
+                                    <img src="@Model.Image3" class="img-thumbnail lozad" data-loaded="true"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-sm-4 all Lo-p-1.3" id="image">
+                    <div class="item">
+                        <ul class="library">
+                            <li style="display: block;">
+                                <a href="javascript:void(0)" title="Việt Nhật">
+                                    <img src="@Model.Image2" class="img-thumbnail lozad" data-loaded="true"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div> *@
+            </div>
+        </div>
+    </div>
+</section>
