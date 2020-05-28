@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Dapper;
 using Microsoft.Data.SqlClient;
 using System.Linq;
+using System.Data;
 namespace netCore.Repository
 {
     public class TrangChuRepository : IDemo
@@ -50,6 +51,18 @@ namespace netCore.Repository
         public int GetDemoII()
         {
             return 0;
+        }
+        public void GetTeacher()
+        {
+            int teacherId = 1;
+            string teacherName = "trung nguyen";
+            using (var conn = new SqlConnection(_connectionString.Value))
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("@Id", teacherId, DbType.Int32, ParameterDirection.Input);
+                parameters.Add("@Name", teacherName, dbType: DbType.String, direction: ParameterDirection.Input);
+                var results = conn.Query<TeacherModel>("GetMixelData", parameters, commandType: CommandType.StoredProcedure);
+            }
         }
     }
 }
