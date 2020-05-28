@@ -20636,6 +20636,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\ThuVien\\ThuVienAnh.cshtml",
+      "TargetPath": "Views\\ThuVien\\ThuVienAnh.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\_Footer.cshtml",
       "TargetPath": "Views\\Shared\\_Footer.cshtml",
       "FileKind": "mvc"
