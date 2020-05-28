@@ -32,6 +32,7 @@ namespace netCore
             services.AddScoped<INews1, News1Repository>();
             services.AddScoped<IGioiThieu, GioiThieuRepository>();
             services.AddScoped<IThuVienVideo, ThuVienRepository>();
+            services.AddScoped<IThuVienAnh, ThuVienAnhRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
