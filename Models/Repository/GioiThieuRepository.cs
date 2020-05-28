@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Dapper;
 using Microsoft.Data.SqlClient;
 using System.Linq;
+using System.Data;
 namespace netCore.Repository{
     public class GioiThieuRepository : IGioiThieu
     {
@@ -42,11 +43,20 @@ namespace netCore.Repository{
                 //return result;
                 return titleGioithieu;
             }
-            
             //
-            
+        }
+        public void GetGioiThieuII()
+        {
+            int intromenuId = 2;
+            string intromenuTitle ="Giáo Viên";
+            using (var conn = new SqlConnection(_connectionString.Value))
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("@IntromenuId", intromenuId, DbType.Int32, ParameterDirection.Input);
+                parameters.Add("@IntromenuTitle", intromenuTitle, dbType: DbType.String, direction: ParameterDirection.Input);
+                var results = conn.Query<GioiThieuII>("GetIntromenuData", parameters, commandType: CommandType.StoredProcedure);
+            }
 
-            
         }
     }
 }
