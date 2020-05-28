@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "E:\\2020\\NetCore\\netCore.csproj": {}
   },
   "projects": {
@@ -12,9 +13,26 @@
         "projectPath": "E:\\2020\\NetCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\KimAnh\\.nuget\\packages\\",
         "outputPath": "E:\\2020\\NetCore\\obj\\",
+=======
+    "E:\\NetCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "E:\\NetCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\NetCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "E:\\NetCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\NetCore\\obj\\",
+>>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\KimAnh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 34b879e137bd19cb0971d70a7577bf5b78c51415
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
