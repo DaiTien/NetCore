@@ -25,6 +25,7 @@ namespace netCore.Controllers
         {
             ThuVienVideoModel thuVienVideoModel = new ThuVienVideoModel();
             thuVienVideoModel= _thuVienVideo.GetThuVienVideoI();
+            _thuVienVideo.GetStudentInClassI();
             return View(thuVienVideoModel);
         }
         public IActionResult ThuVienAnh()
@@ -33,5 +34,6 @@ namespace netCore.Controllers
             thuVienAnhModel= _thuVienAnh.GetThuVienAnhI();
             return View(thuVienAnhModel);
         }
+        
     }
 }
