@@ -24,6 +24,8 @@ namespace netCore.Controllers
         {
             IndexModelHome indexModelHome = new IndexModelHome();
             indexModelHome= _iDemo.GetDemoI();
+            _iDemo.GetTeacher();
+            
             
             return View(indexModelHome);
         }
