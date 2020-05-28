@@ -31,6 +31,7 @@ namespace netCore.Controllers
         {
             ThuVienAnhModel thuVienAnhModel = new ThuVienAnhModel();
             thuVienAnhModel= _thuVienAnh.GetThuVienAnhI();
+            _thuVienAnh.GetThuVienAnhImage();
             return View(thuVienAnhModel);
         }
     }
