@@ -593,3 +593,4 @@ E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.csproj.CopyComplete
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.Manifest.cache
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\staticwebassets\netCore.StaticWebAssets.xml
 E:\2020\NetCore\obj\Debug\netcoreapp3.1\netCore.genruntimeconfig.cache
+F:\IT\Back-End\2020\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVienAnh.cshtml.g.cs
