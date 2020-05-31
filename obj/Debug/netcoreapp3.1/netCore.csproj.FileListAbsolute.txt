@@ -66,13 +66,9 @@
 >>>>>>> 94aa903da367b5fe1d31564383f21e32501729a4
 >>>>>>> fded019b5379d9c6ddd8cfd1b48a3077553b5d8d
 >>>>>>> 7b5802a0a4a60a17b7a03f55306fef07c035f288
-E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/ThongBaoMoi.cshtml.g.cs
-E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/TinTuc/TinTuc.cshtml.g.cs
 >>>>>>> 0565bd7153c30aa6dee3e9fd81c3c57235e85c97
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/ThongBaoMoi.cshtml.g.cs
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.cshtml.g.cs
-E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/ThongBaoMoi.cshtml.g.cs
-E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/TinTuc.cshtml.g.cs
 E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/appsettings.Development.json
 E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/appsettings.json
 E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
@@ -132,45 +128,7 @@ E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/ThuVien/ThuVi
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 >>>>>>> 37af08aa75641b5b7a79eac1549f8391351d4a41
-E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/ThuVien/ThuVienVideo.cshtml.g.cs
 >>>>>>> abe4ea8ecb170ad4f407e894fe3b4901721584ae
-E:/NetCore/bin/Debug/netcoreapp3.1/Dapper.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
-E:/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/HoatDongSuKien.cshtml.g.cs
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/HoatDongSuKien.cshtml.g.cs
 E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/Dapper.dll
 E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
@@ -210,7 +168,6 @@ E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcorea
 E:/Net Core/NewProject/NetCore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/News/HoatDongSuKien.cshtml.g.cs
 /Users/trungnguyen/OneDrive/DotNetCoreTeam/DucPhung/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Header/Default.cshtml.g.cs
-E:/NetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Header/Default.cshtml.g.cs
 >>>>>>> 15afe4f61b13afb13961534195f201aee7568da7
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.TagHelpers.input.cache
 E:/Net Core/NewProject/NetCore/obj/Debug/netcoreapp3.1/netCore.TagHelpers.output.cache
