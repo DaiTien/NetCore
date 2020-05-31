@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Dapper;
 using Microsoft.Data.SqlClient;
 using System.Linq;
+using System.Data;
 namespace netCore.Repository
 {
     public class ThuVienAnhRepository : IThuVienAnh
@@ -31,6 +32,16 @@ namespace netCore.Repository
                 // thuVienAnhModel.Image3 = "/assets/images/thuvienanh/eeg4bwxg.1ee.jpg";
                 return thuVienAnhModel;
 
+            }
+        }
+        public void GetThuVienAnhImage()
+        {
+            int thuvienanh_id = 1;
+            using (var conn = new SqlConnection(_connectionString.Value))
+            {
+                var parameter = new DynamicParameters();
+                parameter.Add("@thuvienanh_id", thuvienanh_id, DbType.Int32, ParameterDirection.Input);
+                var result1 = conn.Query<GetViewAnh>("SelectAllThuVienAnh", parameter, commandType: CommandType.StoredProcedure);
             }
         }
 
