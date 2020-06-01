@@ -35,8 +35,8 @@ namespace netCore.Models
     }
     public class GioiThieuII
     {
-        public int intromenu_id{get;set;}
-        public string intromenu2_name{get;set;}
+        public int intromenu2_id{get;set;}
+        public string intromenu2_title{get;set;}
     }
     
 }
