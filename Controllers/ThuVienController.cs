@@ -25,13 +25,16 @@ namespace netCore.Controllers
         {
             ThuVienVideoModel thuVienVideoModel = new ThuVienVideoModel();
             thuVienVideoModel= _thuVienVideo.GetThuVienVideoI();
+            _thuVienVideo.GetStudentInClassI();
             return View(thuVienVideoModel);
         }
         public IActionResult ThuVienAnh()
         {
             ThuVienAnhModel thuVienAnhModel = new ThuVienAnhModel();
             thuVienAnhModel= _thuVienAnh.GetThuVienAnhI();
+            _thuVienAnh.GetThuVienAnhImage();
             return View(thuVienAnhModel);
         }
+        
     }
 }
