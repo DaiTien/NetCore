@@ -19,24 +19,18 @@ namespace netCore.Models
         public string Image10 { get; set; }
 
         // public DateTime Today{ get; set; }
-        public List<ClassTitleCon> Title { get; set; }
+        public List<ClassTitleCon> Title2 { get; set; }
         // public List<ClassImages> Image {get;set;}
     }
     public class ClassTitleCon
     {
-        public int intromenu_id { get; set; }
-        public string intromenu_title { get; set; }
-         public string Con1 { get; set; }
-
-        public string Con2{ get; set; }
-        public string Con3{ get; set; }
-        public string Con4{ get; set; }
-        public string Con5{ get; set; }
+        public int inTroMenuId { get; set; }
+        public string Title { get; set; }
     }
     public class GioiThieuII
     {
-        public int intromenu2_id{get;set;}
-        public string intromenu2_title{get;set;}
+        public int introMenu2Id{get;set;}
+        public string introMenu2Title{get;set;}
     }
     
 }

@@ -20,7 +20,7 @@ public class HeaderViewComponent : ViewComponent
         menu.menu2="Giới Thiệu";
         menu.menu3 ="Tin Tức";
         menu.menu4 ="Thư Viện";
-        const string query = @"select * from tbintroducemenu";
+        const string query = @"select * from IntroduceMenus";
 
             using (var conn = new SqlConnection(_connectionString.Value))
             {
@@ -29,7 +29,7 @@ public class HeaderViewComponent : ViewComponent
                 menu.menuGioiThieu = new List<MenuGioiThieu>();
                 menu.menuGioiThieu = result.ToList();
             }
-            const string query2 = @"select * from tbnewscate";
+            const string query2 = @"select * from NewCates";
 
             using (var conn2 = new SqlConnection(_connectionString.Value))
             {
