@@ -16,7 +16,7 @@ namespace netCore.Repository
         }
         public NewsModel GetNews1()
         {
-            const string query = @"select * from tbnewscate where newscate_id=1";
+            const string query = @"select * from NewsCate where NewsCateId=1";
 
             using (var conn = new SqlConnection(_connectionString.Value))
             {
@@ -42,7 +42,7 @@ namespace netCore.Repository
 
         public void GetNews(){
              int newscateId = 2;
-            string newscateTitle = "Thông Báo Mới";
+            string newscateTitle = "Thông Báo  Mới";
             using (var conn = new SqlConnection(_connectionString.Value))
             {
                 var parameters = new DynamicParameters();
