@@ -6,9 +6,9 @@ ViewData["Title"] = "Home Page";
 <div class="section-slide">
     <div class="owl-carousel owl-theme">
         @{
-            @foreach(var imageName in Model.Image){
+            @foreach(var imageName in Model.SlideImage){
                  <div class="item">
-                     <img src="@imageName.ImageName" alt="Alternate Text" />
+                     <img src="@imageName.Image" alt="Alternate Text" />
             </div>
             }
         }

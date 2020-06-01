@@ -16,8 +16,8 @@ namespace netCore.Repository
         }
         public IndexModelHome GetDemoI()
         {
-            IndexModelHome indexModelHome = new IndexModelHome();
-             indexModelHome.RequestId = "1";
+            
+            //  indexModelHome.RequestId = "1";
             // indexModelHome.Image = new List<ClassImage>();
             // //add image slide
             // ClassImage classImage = new ClassImage();
@@ -38,15 +38,16 @@ namespace netCore.Repository
             // classForLevel1.ImageName = "/assets/images/mamnon.jpg";
             // classForLevel1.Icon = "fab fa-envira";
             // classForLevel1.NameFL = "Mầm Non";
-             const string query = @"select * from Slides";
+            const string query = @"select * from Slides";
 
             using (var conn = new SqlConnection(_connectionString.Value))
             {
-                var result = conn.Query<IndexModelHome>(query);
+                // var result = conn.Query<ClassImageSlide>(query);
+                var result = conn.Query<ClassImageSlide>(query);
+                IndexModelHome indexModelHome = new IndexModelHome();
+                indexModelHome.SlideImage = result.ToList();
                 return indexModelHome;
-                //return result;
-            }
-            //return indexModelHome;
+            }   
         }
         public int GetDemoII()
         {
