@@ -22,7 +22,7 @@ namespace netCore.Repository{
                 var result = conn.Query<ClassTitleCon>(query);
                 //
             IndexGioiThieuModel titleGioithieu = new IndexGioiThieuModel();
-            titleGioithieu.TitleParent = new List<ClassTitleCon>();
+            titleGioithieu.Title2 = new List<ClassTitleCon>();
             titleGioithieu.Image1="/assets/images/editorimages/h2.jpg";
             titleGioithieu.Image2 ="/assets/images/editorimages/h1.jpg";
             titleGioithieu.Image3="/assets/images/editorimages/co-cau-bo-may-truong-viet-nhat.jpg";
@@ -39,7 +39,7 @@ namespace netCore.Repository{
             // titleCon.Con3 ="ĐỐI TÁC";
             // titleCon.Con4 ="THÀNH TỰU";
             // titleCon.Con5="CƠ SỞ VẬT CHẤT";
-            titleGioithieu.TitleParent = result.ToList();
+            titleGioithieu.Title2 = result.ToList();
                 //return result;
                 return titleGioithieu;
             }
