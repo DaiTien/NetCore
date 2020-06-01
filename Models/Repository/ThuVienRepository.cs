@@ -23,7 +23,6 @@ namespace netCore.Repository {
                 ThuVienVideoModel thuVienVideoModel = new ThuVienVideoModel ();
                 thuVienVideoModel.getViews = result.ToList ();
                 return thuVienVideoModel;
-
             }
         }
         public void GetStudentInClassI() {
