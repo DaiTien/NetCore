@@ -4,8 +4,8 @@ namespace netCore.Models
 {
     public class TeacherModel
     {
-        public int giaovien_id { get; set; }
-        public string giaovien_name { get; set; }
+        public int TeacherId { get; set; }
+        public string TeacherName { get; set; }
         public string giaovienmonhoc_name { get; set; }
     }
 }

@@ -38,7 +38,7 @@ namespace netCore.Repository
             // classForLevel1.ImageName = "/assets/images/mamnon.jpg";
             // classForLevel1.Icon = "fab fa-envira";
             // classForLevel1.NameFL = "Mầm Non";
-            const string query = @"select * from Slides";
+            const string query = @"select * from Slide";
 
             using (var conn = new SqlConnection(_connectionString.Value))
             {
@@ -62,7 +62,10 @@ namespace netCore.Repository
                 var parameters = new DynamicParameters();
                 parameters.Add("@Id", teacherId, DbType.Int32, ParameterDirection.Input);
                 parameters.Add("@Name", teacherName, dbType: DbType.String, direction: ParameterDirection.Input);
-                var results = conn.Query<TeacherModel>("GetMixelData", parameters, commandType: CommandType.StoredProcedure);
+                var results = conn.QueryMultiple("uspGetMixelData", parameters, commandType: CommandType.StoredProcedure);
+                var teachers = results.Read<TeacherModel>();
+                var numbers = results.Read<int>();
+                var strings = results.Read<string>();
             }
         }
     }

@@ -22,6 +22,5 @@ namespace netCore.Controllers
         {
             return View();
         }
-       
     }
 }

@@ -15,7 +15,7 @@ namespace netCore.Repository {
         }
         public ThuVienVideoModel GetThuVienVideoI () {
 
-            const string query = @"select * from Classes";
+            const string query = @"select * from Class";
 
             using (var conn = new SqlConnection (_connectionString.Value)) {
                 var result = conn.Query<GetViewThuVienVideo> (query);
