@@ -16,12 +16,12 @@ namespace netCore.Models
         public List<MenuTinTuc> menuTinTuc{get;set;}
     }
     public class MenuGioiThieu{
-        public int intromenu_id {get;set;}
-        public string intromenu_titledefault {get;set;}
+        public int IntroMenuId {get;set;}
+        public string IntroMenuTitleDefault {get;set;}
     }
     public class MenuTinTuc{
-        public int newscate_id {get;set;}
-        public string newscate_title{get;set;}
+        public int NewCateId {get;set;}
+        public string Title{get;set;}
     }
     
     }
