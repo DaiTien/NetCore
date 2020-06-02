@@ -38,7 +38,7 @@ namespace netCore.Repository
             // classForLevel1.ImageName = "/assets/images/mamnon.jpg";
             // classForLevel1.Icon = "fab fa-envira";
             // classForLevel1.NameFL = "Mầm Non";
-            const string query = @"select * from Slides";
+            const string query = @"select * from Slide";
 
             using (var conn = new SqlConnection(_connectionString.Value))
             {
