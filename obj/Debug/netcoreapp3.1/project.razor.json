@@ -20616,6 +20616,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Game\\BongHoaMuonMau.cshtml",
+      "TargetPath": "Views\\Game\\BongHoaMuonMau.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\IT\\Back-End\\2020\\NetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

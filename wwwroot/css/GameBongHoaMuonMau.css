@@ -1,0 +1,1033 @@
+﻿body {}
+
+.container-fluid {
+    width: 100%;
+    height: 590px;
+    background-image: url('/assets/images/GameBongHoaMuonMau/background2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.swal-text {
+    font-size: 30px;
+    position: relative;
+    float: none;
+    line-height: normal;
+    vertical-align: top;
+    text-align: left;
+    display: inline-block;
+    margin: 0;
+    padding: 0 10px;
+    font-weight: 400;
+    color: red;
+    max-width: calc(100% - 20px);
+    overflow-wrap: break-word;
+    box-sizing: border-box;
+}
+
+.container-fluid #btnChoilai {
+    font-weight: bold;
+    position: absolute;
+    right: 16%;
+    top: 10%;
+    background: cadetblue;
+    transition: 0.5s ease-in-out;
+    z-index: 100;
+}
+
+.container-fluid #btnChoilai:hover {
+    background-color: transparent;
+    border: 1px dashed red;
+    color: red;
+}
+
+.container-fluid #btnHuongdan {
+    position: absolute;
+    font-weight: bold;
+    top: 3%;
+    right: 15%;
+}
+
+.container-fluid #btnChau1 {
+    display: block;
+    width: 143px;
+    font-weight: bold;
+    font-size: 17px;
+    position: absolute;
+    bottom: 6.7%;
+    left: 38%;
+    background-color: chocolate;
+}
+
+.container-fluid #btnChau2 {
+    display: block;
+    width: 143px;
+    font-weight: bold;
+    font-size: 17px;
+    position: absolute;
+    bottom: 21.4%;
+    left: 60%;
+    background-color: chocolate;
+}
+
+.container-fluid #btnBack {
+    font-size: 22px;
+    padding: 8px 15px;
+    border-radius: 15px;
+    font-weight: 600;
+    position: absolute;
+    top: 2%;
+    right: 4%;
+}
+
+.container-fluid #btnMuteaudio,
+.container-fluid #btnOpenaudio {
+    display: block;
+    width: 60px;
+    height: 60px;
+    border: 2px solid chocolate;
+    color: chocolate;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
+    position: absolute;
+    top: 0%;
+    left: 18%;
+}
+
+.container-fluid .title {
+    font-family: 'Abril Fatface', cursive;
+    color: chocolate;
+    text-shadow: 1px 6px 10px darkkhaki;
+}
+
+.container-fluid .hoa1 {
+    display: block;
+    width: 120px;
+    position: absolute;
+    bottom: 16%;
+    left: 27%;
+}
+
+.container-fluid .hoa1_1 .style1,
+.container-fluid .hoa1 .style1 {
+    position: absolute;
+    display: block;
+    width: 46px;
+    height: 37px;
+    background-color: #dd8021;
+    border-radius: 50%;
+    top: 17%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    left: 43%;
+    line-height: 19px;
+}
+
+.container-fluid .hoa2 {
+    display: block;
+    width: 120px;
+    position: absolute;
+    bottom: 16%;
+    left: 37%;
+}
+
+.container-fluid .hoa2_1 .style1,
+.container-fluid .hoa2 .style1 {
+    position: absolute;
+    display: block;
+    width: 46px;
+    height: 42px;
+    background-color: #dd8021;
+    border-radius: 50%;
+    top: 17%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    left: 19%;
+    line-height: 27px;
+}
+
+.container-fluid .hoa3 {
+    display: block;
+    width: 120px;
+    position: absolute;
+    bottom: 16%;
+    left: 44%;
+}
+
+.container-fluid .hoa3_1 .style1,
+.container-fluid .hoa3 .style1 {
+    position: absolute;
+    display: block;
+    width: 46px;
+    height: 42px;
+    background-color: #dd8021;
+    border-radius: 50%;
+    top: 17%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    left: 19%;
+    line-height: 26px;
+}
+
+.container-fluid .hoa4 {
+    display: block;
+    width: 120px;
+    position: absolute;
+    bottom: 16%;
+    left: 51%;
+    z-index: 10;
+}
+
+.container-fluid .hoa4_1 .style1,
+.container-fluid .hoa4 .style1 {
+    position: absolute;
+    display: block;
+    width: 48px;
+    height: 33px;
+    background-color: #dd8021;
+    border-radius: 50%;
+    top: 17%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    left: 18%;
+    line-height: 19px;
+}
+
+.container-fluid .hoa1_1 {
+    display: block;
+    width: 120px;
+    position: absolute;
+    bottom: 32%;
+    left: 49%;
+}
+
+.container-fluid .hoa2_1 {
+    display: block;
+    width: 120px;
+    position: absolute;
+    bottom: 30%;
+    left: 58%;
+}
+
+.container-fluid .hoa3_1 {
+    display: block;
+    width: 120px;
+    position: absolute;
+    bottom: 31%;
+    left: 65%;
+}
+
+.container-fluid .hoa4_1 {
+    display: block;
+    width: 120px;
+    position: absolute;
+    bottom: 31%;
+    left: 72%;
+}
+
+.container-fluid .hoa1 .style1:hover,
+.container-fluid .hoa2 .style1:hover,
+.container-fluid .hoa3 .style1:hover,
+.container-fluid .hoa4 .style1:hover,
+.container-fluid .hoa4_1 .style1:hover,
+.container-fluid .hoa3_1 .style1:hover,
+.container-fluid .hoa2_1 .style1:hover,
+.container-fluid .hoa1_1 .style1:hover {
+    background-color: crimson;
+}
+
+.container-fluid .hoa4_1 img,
+.container-fluid .hoa3_1 img,
+.container-fluid .hoa2_1 img,
+.container-fluid .hoa1_1 img,
+.container-fluid .hoa4 img,
+.container-fluid .hoa3 img,
+.container-fluid .hoa2 img,
+.container-fluid .hoa1 img {
+    width: 100%;
+    height: 100%;
+}
+
+.container-fluid .content-question {
+    display: block;
+    width: 400px;
+    height: 200px;
+    background-color: burlywood;
+    background-image: url('/assets/images/GameBongHoaMuonMau/backgroundModal2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+    border-radius: 14px;
+    top: 16%;
+    left: 19%;
+    box-shadow: 0px 2px 17px brown;
+    animation-name: hieuung;
+    animation-duration: 2s;
+}
+
+.container-fluid .content-question #txtQuestion {
+    color: white;
+    font-size: 23px;
+    padding: 37px 10px 20px 10px;
+    font-weight: bold;
+}
+
+.container-fluid .content-question #txtAnws {
+    color: white;
+    font-size: 23px;
+}
+
+.container-fluid .content-question #txtAnws input {
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 11px;
+    background: transparent;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    outline: none;
+}
+
+.container-fluid .content-question #btnTraLoi {
+    color: white;
+    font-weight: bold;
+    margin-left: 38%;
+}
+
+@keyframes hieuung {
+    0% {
+        top: 0%;
+        left: 19%;
+    }
+    100% {
+        top: 16%;
+        left: 19%;
+    }
+}
+
+.error_MediaLess768 {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.alert_MediaLess768 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.alert_ImageVietNhat {
+    width: 100%;
+    height: 200px;
+}
+
+.alert_ImageVietNhat img {
+    height: 100%;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.alert_Content {
+    width: 100%;
+}
+
+.alert_Content p {
+    font-size: 1rem;
+    text-align: center;
+    margin: 0;
+}
+
+.alert_Content {
+    margin-top: 20px;
+}
+
+
+/*Responsive*/
+
+@media screen and (max-width:767px) {
+    .error_MediaLess768 {
+        display: block;
+    }
+    .container-fluid {
+        display: none;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .error_MediaLess768 {
+        display: none;
+    }
+    .container-fluid {
+        display: block;
+        width: 100%;
+        height: 590px;
+        background-image: url('/assets/images/GameBongHoaMuonMau/background2.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: relative;
+    }
+    .container-fluid #btnChoilai {
+        font-weight: bold;
+        position: absolute;
+        right: 1%;
+        top: 7%;
+        background: cadetblue;
+        transition: 0.5s ease-in-out;
+        z-index: 100;
+    }
+    .container-fluid #btnHuongdan {
+        font-weight: 400;
+        top: 1%;
+        right: 13%;
+        font-size: 10px;
+    }
+    .container-fluid #btnChau1 {
+        left: 35%;
+    }
+    .container-fluid #btnChau2 {
+        left: 56%;
+    }
+    .container-fluid #btnBack {
+        font-size: 12px;
+        top: 0%;
+        right: 1%;
+    }
+    .container-fluid #btnMuteaudio,
+    .container-fluid #btnOpenaudio {
+        width: 40px;
+        height: 40px;
+        font-size: 23px;
+        line-height: 36px;
+        top: 0%;
+        left: 18%;
+    }
+    .container-fluid .title {
+        font-size: 26px;
+    }
+    .container-fluid .hoa1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 16%;
+        left: 23%;
+    }
+    .container-fluid .hoa1_1 .style1,
+    .container-fluid .hoa1 .style1 {
+        width: 44px;
+        height: 32px;
+        left: 40%;
+    }
+    .container-fluid .hoa2 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 16%;
+        left: 35%;
+    }
+    .container-fluid .hoa2_1 .style1,
+    .container-fluid .hoa2 .style1 {
+        width: 42px;
+        height: 37px;
+        top: 17%;
+        left: 16%;
+    }
+    .container-fluid .hoa3 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 16%;
+        left: 44%;
+    }
+    .container-fluid .hoa3_1 .style1,
+    .container-fluid .hoa3 .style1 {
+        width: 41px;
+        height: 37px;
+        top: 17%;
+        left: 16%;
+        line-height: 26px;
+    }
+    .container-fluid .hoa4 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 16%;
+        left: 50%;
+        z-index: 10;
+    }
+    .container-fluid .hoa4_1 .style1,
+    .container-fluid .hoa4 .style1 {
+        width: 41px;
+        height: 28px;
+        line-height: 14px;
+    }
+    .container-fluid .hoa1_1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 31%;
+        left: 46%;
+    }
+    .container-fluid .hoa2_1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 30%;
+        left: 58%;
+    }
+    .container-fluid .hoa3_1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 31%;
+        left: 65%;
+    }
+    .container-fluid .hoa4_1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 31%;
+        left: 72%;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .container-fluid {
+        display: block;
+        width: 100%;
+        height: 590px;
+        background-image: url('/assets/images/GameBongHoaMuonMau/background2.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: relative;
+    }
+    .container-fluid #btnChoilai {
+        font-weight: bold;
+        position: absolute;
+        right: 13%;
+        top: 7.5%;
+        background: cadetblue;
+        transition: 0.5s ease-in-out;
+        z-index: 100;
+    }
+    .container-fluid #btnHuongdan {
+        font-weight: bold;
+        top: 1%;
+        right: 13%;
+        font-size: 14px;
+    }
+    .container-fluid #btnChau1 {
+        left: 37%;
+    }
+    .container-fluid #btnChau2 {
+        left: 59%;
+    }
+    .container-fluid #btnBack {
+        font-size: 17px;
+        top: 0%;
+        right: 1%;
+    }
+    .container-fluid #btnMuteaudio,
+    .container-fluid #btnOpenaudio {
+        width: 50px;
+        height: 50px;
+        font-size: 26px;
+        line-height: 42px;
+        top: 0%;
+        left: 19%;
+    }
+    .container-fluid .title {
+        font-size: 33px;
+    }
+    .container-fluid .hoa1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 16%;
+        left: 26%;
+    }
+    .container-fluid .hoa1_1 .style1,
+    .container-fluid .hoa1 .style1 {
+        width: 44px;
+        height: 32px;
+        left: 40%;
+    }
+    .container-fluid .hoa2 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 16%;
+        left: 36%;
+    }
+    .container-fluid .hoa2_1 .style1,
+    .container-fluid .hoa2 .style1 {
+        width: 42px;
+        height: 37px;
+        top: 17%;
+        left: 16%;
+    }
+    .container-fluid .hoa3 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 16%;
+        left: 44%;
+    }
+    .container-fluid .hoa3_1 .style1,
+    .container-fluid .hoa3 .style1 {
+        width: 41px;
+        height: 37px;
+        top: 17%;
+        left: 16%;
+        line-height: 26px;
+    }
+    .container-fluid .hoa4 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 16%;
+        left: 51%;
+        z-index: 10;
+    }
+    .container-fluid .hoa4_1 .style1,
+    .container-fluid .hoa4 .style1 {
+        width: 41px;
+        height: 28px;
+        line-height: 14px;
+    }
+    .container-fluid .hoa1_1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 31%;
+        left: 48%;
+    }
+    .container-fluid .hoa2_1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 30%;
+        left: 58%;
+    }
+    .container-fluid .hoa3_1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 31%;
+        left: 65%;
+    }
+    .container-fluid .hoa4_1 {
+        display: block;
+        width: 99px;
+        position: absolute;
+        bottom: 31%;
+        left: 72%;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .container-fluid {
+        display: block;
+        width: 100%;
+        height: 590px;
+        background-image: url('/assets/images/GameBongHoaMuonMau/background2.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: relative;
+    }
+    .container-fluid #btnChoilai {
+        font-weight: bold;
+        position: absolute;
+        right: 13%;
+        top: 10%;
+        background: cadetblue;
+        transition: 0.5s ease-in-out;
+        z-index: 100;
+    }
+    .container-fluid #btnHuongdan {
+        font-weight: bold;
+        top: 3%;
+        right: 13%;
+        font-size: 15px;
+    }
+    .container-fluid #btnChau1 {
+        left: 38%;
+    }
+    .container-fluid #btnChau2 {
+        left: 60%;
+    }
+    .container-fluid #btnBack {
+        font-size: 19px;
+        top: 2%;
+        right: 2%;
+    }
+    .container-fluid #btnMuteaudio,
+    .container-fluid #btnOpenaudio {
+        width: 50px;
+        height: 50px;
+        font-size: 26px;
+        line-height: 42px;
+        top: 0%;
+        left: 19%;
+    }
+    .container-fluid .title {
+        font-size: 42px;
+    }
+    .container-fluid .hoa1 {
+        display: block;
+        width: 102px;
+        position: absolute;
+        bottom: 16%;
+        left: 28%;
+    }
+    .container-fluid .hoa1_1 .style1,
+    .container-fluid .hoa1 .style1 {
+        width: 44px;
+        height: 32px;
+        left: 40%;
+    }
+    .container-fluid .hoa2 {
+        display: block;
+        width: 102px;
+        position: absolute;
+        bottom: 16%;
+        left: 37%;
+    }
+    .container-fluid .hoa2_1 .style1,
+    .container-fluid .hoa2 .style1 {
+        width: 42px;
+        height: 37px;
+        top: 17%;
+        left: 16%;
+    }
+    .container-fluid .hoa3 {
+        display: block;
+        width: 102px;
+        position: absolute;
+        bottom: 16%;
+        left: 44%;
+    }
+    .container-fluid .hoa3_1 .style1,
+    .container-fluid .hoa3 .style1 {
+        width: 43px;
+        height: 37px;
+        top: 16%;
+        left: 17%;
+        line-height: 26px;
+    }
+    .container-fluid .hoa4 {
+        display: block;
+        width: 102px;
+        position: absolute;
+        bottom: 16%;
+        left: 50%;
+        z-index: 10;
+    }
+    .container-fluid .hoa4_1 .style1,
+    .container-fluid .hoa4 .style1 {
+        width: 41px;
+        height: 30px;
+        line-height: 15px;
+    }
+    .container-fluid .hoa1_1 {
+        display: block;
+        width: 102px;
+        position: absolute;
+        bottom: 31%;
+        left: 50%;
+    }
+    .container-fluid .hoa2_1 {
+        display: block;
+        width: 102px;
+        position: absolute;
+        bottom: 30%;
+        left: 59%;
+    }
+    .container-fluid .hoa3_1 {
+        display: block;
+        width: 102px;
+        position: absolute;
+        bottom: 31%;
+        left: 66%;
+    }
+    .container-fluid .hoa4_1 {
+        display: block;
+        width: 102px;
+        position: absolute;
+        bottom: 31%;
+        left: 72%;
+    }
+}
+
+@media screen and (min-width:1366px) {
+    .container-fluid {
+        width: 100%;
+        height: 590px;
+        background-image: url('/assets/images/GameBongHoaMuonMau/background2.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: relative;
+    }
+    .container-fluid #btnChoilai {
+        font-weight: bold;
+        position: absolute;
+        right: 16%;
+        top: 10%;
+        background: cadetblue;
+        transition: 0.5s ease-in-out;
+        z-index: 100;
+    }
+    .container-fluid #btnHuongdan {
+        position: absolute;
+        font-weight: bold;
+        top: 3%;
+        right: 15%;
+    }
+    .container-fluid #btnChau1 {
+        display: block;
+        width: 143px;
+        font-weight: bold;
+        font-size: 17px;
+        position: absolute;
+        bottom: 6.7%;
+        left: 38%;
+        background-color: chocolate;
+    }
+    .container-fluid #btnChau2 {
+        display: block;
+        width: 143px;
+        font-weight: bold;
+        font-size: 17px;
+        position: absolute;
+        bottom: 21.4%;
+        left: 60%;
+        background-color: chocolate;
+    }
+    .container-fluid #btnBack {
+        font-size: 22px;
+        padding: 8px 15px;
+        border-radius: 15px;
+        font-weight: 600;
+        position: absolute;
+        top: 2%;
+        right: 4%;
+    }
+    .container-fluid #btnMuteaudio,
+    .container-fluid #btnOpenaudio {
+        display: block;
+        width: 60px;
+        height: 60px;
+        border: 2px solid chocolate;
+        color: chocolate;
+        border-radius: 50%;
+        text-align: center;
+        font-size: 30px;
+        line-height: 50px;
+        position: absolute;
+        top: 0%;
+        left: 18%;
+    }
+    .container-fluid .title {
+        font-family: 'Abril Fatface', cursive;
+        color: chocolate;
+        text-shadow: 1px 6px 10px darkkhaki;
+        font-size: 48px;
+    }
+    .container-fluid .hoa1 {
+        display: block;
+        width: 120px;
+        position: absolute;
+        bottom: 16%;
+        left: 27%;
+    }
+    .container-fluid .hoa1_1 .style1,
+    .container-fluid .hoa1 .style1 {
+        position: absolute;
+        display: block;
+        width: 46px;
+        height: 37px;
+        background-color: #dd8021;
+        border-radius: 50%;
+        top: 17%;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        left: 43%;
+        line-height: 19px;
+    }
+    .container-fluid .hoa2 {
+        display: block;
+        width: 120px;
+        position: absolute;
+        bottom: 16%;
+        left: 37%;
+    }
+    .container-fluid .hoa2_1 .style1,
+    .container-fluid .hoa2 .style1 {
+        position: absolute;
+        display: block;
+        width: 46px;
+        height: 42px;
+        background-color: #dd8021;
+        border-radius: 50%;
+        top: 17%;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        left: 19%;
+        line-height: 27px;
+    }
+    .container-fluid .hoa3 {
+        display: block;
+        width: 120px;
+        position: absolute;
+        bottom: 16%;
+        left: 44%;
+    }
+    .container-fluid .hoa3_1 .style1,
+    .container-fluid .hoa3 .style1 {
+        position: absolute;
+        display: block;
+        width: 46px;
+        height: 42px;
+        background-color: #dd8021;
+        border-radius: 50%;
+        top: 17%;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        left: 19%;
+        line-height: 26px;
+    }
+    .container-fluid .hoa4 {
+        display: block;
+        width: 120px;
+        position: absolute;
+        bottom: 16%;
+        left: 51%;
+        z-index: 10;
+    }
+    .container-fluid .hoa4_1 .style1,
+    .container-fluid .hoa4 .style1 {
+        position: absolute;
+        display: block;
+        width: 48px;
+        height: 33px;
+        background-color: #dd8021;
+        border-radius: 50%;
+        top: 17%;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        left: 18%;
+        line-height: 19px;
+    }
+    .container-fluid .hoa1_1 {
+        display: block;
+        width: 120px;
+        position: absolute;
+        bottom: 32%;
+        left: 49%;
+    }
+    .container-fluid .hoa2_1 {
+        display: block;
+        width: 120px;
+        position: absolute;
+        bottom: 30%;
+        left: 58%;
+    }
+    .container-fluid .hoa3_1 {
+        display: block;
+        width: 120px;
+        position: absolute;
+        bottom: 31%;
+        left: 65%;
+    }
+    .container-fluid .hoa4_1 {
+        display: block;
+        width: 120px;
+        position: absolute;
+        bottom: 31%;
+        left: 72%;
+    }
+    .container-fluid .hoa1 .style1:hover,
+    .container-fluid .hoa2 .style1:hover,
+    .container-fluid .hoa3 .style1:hover,
+    .container-fluid .hoa4 .style1:hover,
+    .container-fluid .hoa4_1 .style1:hover,
+    .container-fluid .hoa3_1 .style1:hover,
+    .container-fluid .hoa2_1 .style1:hover,
+    .container-fluid .hoa1_1 .style1:hover {
+        background-color: crimson;
+    }
+    .container-fluid .hoa4_1 img,
+    .container-fluid .hoa3_1 img,
+    .container-fluid .hoa2_1 img,
+    .container-fluid .hoa1_1 img,
+    .container-fluid .hoa4 img,
+    .container-fluid .hoa3 img,
+    .container-fluid .hoa2 img,
+    .container-fluid .hoa1 img {
+        width: 100%;
+        height: 100%;
+    }
+    .container-fluid .content-question {
+        display: block;
+        width: 400px;
+        height: 200px;
+        background-image: url('/assets/images/GameBongHoaMuonMau/backgroundModal2.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: absolute;
+        border-radius: 14px;
+        top: 16%;
+        left: 19%;
+        box-shadow: 0px 2px 17px brown;
+        animation-name: hieuung;
+        animation-duration: 3s;
+    }
+    .container-fluid .content-question #txtQuestion {
+        color: white;
+        font-size: 23px;
+        padding: 37px 10px 20px 10px;
+        font-weight: bold;
+    }
+    .container-fluid .content-question #txtAnws {
+        color: white;
+        font-size: 23px;
+    }
+    .container-fluid .content-question #txtAnws input {
+        width: 100px;
+        border: 2px solid white;
+        border-radius: 11px;
+        background: transparent;
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        outline: none;
+    }
+    .container-fluid .content-question #btnTraLoi {
+        color: white;
+        font-weight: bold;
+        margin-left: 38%;
+    }
+    @keyframes hieuung {
+        0% {
+            top: 0%;
+            left: 19%;
+        }
+        100% {
+            top: 16%;
+            left: 19%;
+        }
+    }
+}

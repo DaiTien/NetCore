@@ -533,3 +533,4 @@ E:\Net Core\NewProject\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVi
 E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
 E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ThuVien\Default.cshtml.g.cs
 E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\ThuVien\ThuVienAnh.cshtml.g.cs
+E:\NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Game\BongHoaMuonMau.cshtml.g.cs
