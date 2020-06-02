@@ -62,7 +62,10 @@ namespace netCore.Repository
                 var parameters = new DynamicParameters();
                 parameters.Add("@Id", teacherId, DbType.Int32, ParameterDirection.Input);
                 parameters.Add("@Name", teacherName, dbType: DbType.String, direction: ParameterDirection.Input);
-                var results = conn.Query<TeacherModel>("GetMixelData", parameters, commandType: CommandType.StoredProcedure);
+                var results = conn.QueryMultiple("GetMixelData", parameters, commandType: CommandType.StoredProcedure);
+                var teachers = results.Read<TeacherModel>();
+                var numbers = results.Read<int>();
+                var strings = results.Read<string>();
             }
         }
     }
