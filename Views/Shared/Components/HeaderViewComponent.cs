@@ -20,7 +20,7 @@ public class HeaderViewComponent : ViewComponent
         menu.menu2="Giới Thiệu";
         menu.menu3 ="Tin Tức";
         menu.menu4 ="Thư Viện";
-        const string query = @"select * from IntroduceMenus";
+        const string query = @"select * from IntroduceMenu";
 
             using (var conn = new SqlConnection(_connectionString.Value))
             {

@@ -15,7 +15,9 @@ namespace netCore.Repository{
         }
         public IndexGioiThieuModel GetGioiThieu()
         {
-            const string query = @"select * from IntroduceMenus";
+            const string query = @"select * from IntroduceMenu";
+
+
             using (var conn = new SqlConnection(_connectionString.Value))
             {
                 var result = conn.Query<ClassTitleCon>(query);
