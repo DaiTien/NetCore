@@ -5,8 +5,8 @@ namespace netCore.Models
 {
     public class NewsModel
     {
-        public string newscate_id { get; set; }
-        public string newscate_title{ get; set; }
+        public string NewCateId { get; set; }
+        public string Title{ get; set; }
         public List<ClassNews> News { get; set; }
     }
     public class ClassNews
