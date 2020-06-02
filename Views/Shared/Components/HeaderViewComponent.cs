@@ -29,7 +29,7 @@ public class HeaderViewComponent : ViewComponent
                 menu.menuGioiThieu = new List<MenuGioiThieu>();
                 menu.menuGioiThieu = result.ToList();
             }
-            const string query2 = @"select * from NewCates";
+            const string query2 = @"select * from NewsCate";
 
             using (var conn2 = new SqlConnection(_connectionString.Value))
             {
