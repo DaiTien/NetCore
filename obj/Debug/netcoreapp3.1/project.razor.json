@@ -20606,6 +20606,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NetCore\\Views\\Game\\BongHoaMuonMau.cshtml",
+      "TargetPath": "Views\\Game\\BongHoaMuonMau.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NetCore\\Views\\Home\\TrangChu.cshtml",
       "TargetPath": "Views\\Home\\TrangChu.cshtml",
       "FileKind": "mvc"
