@@ -23,10 +23,10 @@ namespace netCore.Repository
             using (var conn = new SqlConnection(_connectionString.Value))
             {
                 var result = conn.Query<GetViewThuVienAnh>(query);
-                var result2 = conn.Query<GetViewAnh>(query2);
+                //var result2 = conn.Query<GetViewAnh>(query2);
                 ThuVienAnhModel thuVienAnhModel = new ThuVienAnhModel();
                 thuVienAnhModel.getViews = result.ToList();
-                thuVienAnhModel.getViewAnhs = result2.ToList();
+                //thuVienAnhModel.getViewAnhs = result2.ToList();
                 // thuVienAnhModel.Image1 = "/assets/images/thuvienanh/1sno51sc.cdm.jpg";
                 // thuVienAnhModel.Image2 = "/assets/images/thuvienanh/2wyv2ufu.2rs.png";
                 // thuVienAnhModel.Image3 = "/assets/images/thuvienanh/eeg4bwxg.1ee.jpg";
@@ -42,6 +42,8 @@ namespace netCore.Repository
                 var parameter = new DynamicParameters();
                 parameter.Add("@thuvienanh_id", thuvienanh_id, DbType.Int32, ParameterDirection.Input);
                 var result1 = conn.Query<GetViewAnh>("SelectAllThuVienAnh", parameter, commandType: CommandType.StoredProcedure);
+                ThuVienAnhModel thuVienAnhModel = new ThuVienAnhModel();
+                thuVienAnhModel.getViewAnhs = result1.ToList();
             }
         }
 
