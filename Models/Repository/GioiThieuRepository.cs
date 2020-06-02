@@ -55,7 +55,10 @@ namespace netCore.Repository{
                 var parameters = new DynamicParameters();
                 parameters.Add("@IntromenuId", intromenuId, DbType.Int32, ParameterDirection.Input);
                 parameters.Add("@IntromenuTitle", intromenuTitle, dbType: DbType.String, direction: ParameterDirection.Input);
-                var results = conn.Query<GioiThieuII>("GetGioiThieuData", parameters, commandType: CommandType.StoredProcedure);
+                var results = conn.QueryMultiple("uspGetGioiThieuData", parameters, commandType: CommandType.StoredProcedure);
+                var intromenus = results.Read<GioiThieuII>();
+                var introId = results.Read<int>();
+                var introTitle = results.Read<string>();
             }
 
         }
