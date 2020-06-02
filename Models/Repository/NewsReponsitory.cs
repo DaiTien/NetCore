@@ -16,13 +16,13 @@ namespace netCore.Repository
         }
         public NewsModel GetNews1()
         {
-            const string query = @"select * from tbnewscate where newscate_id=1";
+            const string query = @"select * from NewCates where NewCateId=1";
 
             using (var conn = new SqlConnection(_connectionString.Value))
             {
                 NewsModel newsModel = new NewsModel();
                 var result = conn.Query<NewsModel>(query);
-                newsModel.newscate_title = result.FirstOrDefault().newscate_title.ToString();
+                newsModel.Title = result.FirstOrDefault().Title.ToString();
                 newsModel.News = new List<ClassNews>();
                 ClassNews classNews = new ClassNews();
                 classNews.NewsId = "1";
@@ -42,7 +42,7 @@ namespace netCore.Repository
 
         public void GetNews(){
              int newscateId = 2;
-            string newscateTitle = "Thông Báo Mới";
+            string newscateTitle = "Thông Báo  Mới";
             using (var conn = new SqlConnection(_connectionString.Value))
             {
                 var parameters = new DynamicParameters();

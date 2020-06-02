@@ -16,37 +16,38 @@ namespace netCore.Repository
         }
         public IndexModelHome GetDemoI()
         {
-            IndexModelHome indexModelHome = new IndexModelHome();
-            indexModelHome.RequestId = "1";
-            indexModelHome.Image = new List<ClassImage>();
-            //add image slide
-            ClassImage classImage = new ClassImage();
-            classImage.ImageName = "/assets/images/anh_slide/slide1.jpg";
-            indexModelHome.Image.Add(classImage);
-            ClassImage classImage2 = new ClassImage();
-            classImage2.ImageName = "/assets/images/anh_slide/slide2.jpg";
-            indexModelHome.Image.Add(classImage2);
-            ClassImage classImage3 = new ClassImage();
-            classImage3.ImageName = "/assets/images/anh_slide/slide3.jpg";
-            indexModelHome.Image.Add(classImage3);
-            ClassImage classImage4 = new ClassImage();
-            classImage4.ImageName = "/assets/images/anh_slide/slide4.jpg";
-            indexModelHome.Image.Add(classImage4);
-            // add 4 cấp 
-            indexModelHome.ForLevels = new List<ClassForLevel>();
-            ClassForLevel classForLevel1 = new ClassForLevel();
-            classForLevel1.ImageName = "/assets/images/mamnon.jpg";
-            classForLevel1.Icon = "fab fa-envira";
-            classForLevel1.NameFL = "Mầm Non";
-            const string query = @"select * from tbslide";
+            
+            //  indexModelHome.RequestId = "1";
+            // indexModelHome.Image = new List<ClassImage>();
+            // //add image slide
+            // ClassImage classImage = new ClassImage();
+            // classImage.ImageName = "/assets/images/anh_slide/slide1.jpg";
+            // indexModelHome.Image.Add(classImage);
+            // ClassImage classImage2 = new ClassImage();
+            // classImage2.ImageName = "/assets/images/anh_slide/slide2.jpg";
+            // indexModelHome.Image.Add(classImage2);
+            // ClassImage classImage3 = new ClassImage();
+            // classImage3.ImageName = "/assets/images/anh_slide/slide3.jpg";
+            // indexModelHome.Image.Add(classImage3);
+            // ClassImage classImage4 = new ClassImage();
+            // classImage4.ImageName = "/assets/images/anh_slide/slide4.jpg";
+            // indexModelHome.Image.Add(classImage4);
+            // // add 4 cấp 
+            // indexModelHome.ForLevels = new List<ClassForLevel>();
+            // ClassForLevel classForLevel1 = new ClassForLevel();
+            // classForLevel1.ImageName = "/assets/images/mamnon.jpg";
+            // classForLevel1.Icon = "fab fa-envira";
+            // classForLevel1.NameFL = "Mầm Non";
+            const string query = @"select * from Slide";
 
             using (var conn = new SqlConnection(_connectionString.Value))
             {
-                var result = conn.Query<IndexModelHome>(query);
+                // var result = conn.Query<ClassImageSlide>(query);
+                var result = conn.Query<ClassImageSlide>(query);
+                IndexModelHome indexModelHome = new IndexModelHome();
+                indexModelHome.SlideImage = result.ToList();
                 return indexModelHome;
-                //return result;
-            }
-            //return indexModelHome;
+            }   
         }
         public int GetDemoII()
         {
@@ -61,7 +62,10 @@ namespace netCore.Repository
                 var parameters = new DynamicParameters();
                 parameters.Add("@Id", teacherId, DbType.Int32, ParameterDirection.Input);
                 parameters.Add("@Name", teacherName, dbType: DbType.String, direction: ParameterDirection.Input);
-                var results = conn.Query<TeacherModel>("GetMixelData", parameters, commandType: CommandType.StoredProcedure);
+                var results = conn.QueryMultiple("uspGetMixelData", parameters, commandType: CommandType.StoredProcedure);
+                var teachers = results.Read<TeacherModel>();
+                var numbers = results.Read<int>();
+                var strings = results.Read<string>();
             }
         }
     }
